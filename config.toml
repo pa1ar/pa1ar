@@ -1,4 +1,0 @@
-baseURL = 'https://1ar.io/'
-languageCode = 'en-us'
-title = '1ar'
-theme = 'hugo-theme-stack'

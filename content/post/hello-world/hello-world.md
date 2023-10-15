@@ -9,10 +9,8 @@ comments: true
 keywords: tag1, tag2
 readingTime: true
 ---
- # TITLE here
- body
- ## second title
- ![Pasted image 20230930203940](Pasted%20image%2020230930203940.png)
+
+
 # title
 
 body
@@ -30,3 +28,5 @@ boduy
 [link to a website](https://pavellarionov.com)
 
 *bold text*
+
+![](post/hello-world/Pasted%20image%2020231001161707.png)
