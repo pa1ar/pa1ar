@@ -1,5 +1,5 @@
 ---
-title: 「 links 」
+title: links
 description: "feel free to use my referral links for the following services:"
 
 menu:

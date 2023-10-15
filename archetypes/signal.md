@@ -5,7 +5,7 @@ image:
 date: {{ .Date }}
 
 categories:
-  - noise
+  - signal
 tags:
   - draft
 
