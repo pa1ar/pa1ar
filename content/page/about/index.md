@@ -41,6 +41,7 @@ I am thrilled about the boundless potential of human-machine symbiosis, and tire
 - Coaching
 - Relationship Management
 
+List of skills is [here](/skills).
 ### Languages
 
 - English: Fluent
