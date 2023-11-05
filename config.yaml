@@ -54,7 +54,7 @@ params:
 
     sidebar:
         emoji: 
-        subtitle: insepcion of digital constructs
+        subtitle: inseption of digital constructs
         avatar:
             enabled: true
             local: true
