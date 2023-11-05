@@ -2,7 +2,8 @@ baseurl: https://1ar.io
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 8
-title: 1ar.io
+title: 1ar.io - pavel larionov
+description: inseption of digital constructs
 copyright: Pavel Larionov
 
 languages:
@@ -42,7 +43,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon: /favicon.png # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
+    favicon: /favicon.ico # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
 
     footer:
         since: 2023
