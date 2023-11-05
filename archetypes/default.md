@@ -11,5 +11,7 @@ tags:
 
 draft: true
 
+# hugo new content post/something/something.md
+
 ---
 

@@ -1,15 +1,20 @@
 ---
+
 title: Obsidian as Markdown Editor for Hugo
-image: images/where.png
+image: 
 description: handling md files for hugo with obsidian seems like a good idea. but there are several settings you need to change.
-date: 2023-10-01
+date: 2023-10-15
 readingTime: true
+
+categories:
+  - signal
+
 tags:
   - dev
   - hugo
+
 comments: true
-caterogires:
-  - signal
+draft: true
 ---
   
 

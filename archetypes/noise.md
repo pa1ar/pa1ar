@@ -11,5 +11,7 @@ tags:
 
 draft: true
 
+# hugo new content --kind noise post/something/something.md
+
 ---
 

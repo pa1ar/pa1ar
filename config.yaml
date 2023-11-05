@@ -209,6 +209,34 @@ menu:
           params:
               icon: brand-x
 
+        - identifier: linkedin
+          name: LinkedIn
+          url: https://www.linkedin.com/in/pavel-larionov/
+          weight: 2
+          params:
+              icon: brand-linkedin
+
+        # - identifier: researchgate
+        #   name: Research Gate
+        #   url: https://www.researchgate.net/profile/Pavel-Larionov
+        #   weight: 3
+        #   params:
+        #       icon: brand-researchgate
+
+        # - identifier: mastodon
+        #   name: Mastodon
+        #   url: https://mastodon.online/invite/4zosPAU5
+        #   weight: 4
+        #   params:
+        #       icon: brand-mastodon
+
+        # - identifier: instagram
+        #   name: Instagram
+        #   url: https://bsky.app/profile/1ar.bsky.social
+        #   weight: 5
+        #   params:
+        #       icon: brand-instagram
+
 related:
     includeNewer: true
     threshold: 60

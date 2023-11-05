@@ -10,6 +10,7 @@ tags:
   - tutorial
 weight: 1
 ---
+
 `/Users/USERNAME/Library/Services/Run Activity Monitor.workflow`
 
 ![](post/Launch%20Activity%20Monitor%20with%20a%20Keyboard%20Shortcut%20on%20macOS/automator.png)
