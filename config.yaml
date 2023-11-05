@@ -162,6 +162,8 @@ params:
             - type: toc
 
     opengraph:
+        title: "pa1ar"
+        description: "Pavel Larionov's personal piece of internet."
         twitter:
             # Your Twitter username
             site: pa1ar
