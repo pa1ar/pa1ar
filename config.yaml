@@ -11,7 +11,7 @@ languages:
         title: 1ar.io
         weight: 1
         params:
-            description: insepcion of digital constructs
+            description: inseption of digital constructs
     # ru:
     #     languageName: RU
     #     title: 1ar.io
@@ -162,8 +162,6 @@ params:
             - type: toc
 
     opengraph:
-        title: "pa1ar"
-        description: "Pavel Larionov's personal piece of internet."
         twitter:
             # Your Twitter username
             site: pa1ar
