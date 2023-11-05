@@ -1,3 +1,12 @@
+---
+title: skills
+description: "Pavel Larionov: what I can do"
+date: 2023-11-05
+license: CC BY-NC-ND
+lastmod: 2023-11-05
+
+---
+
 ### Core
 
 - Leading Research & Development units, full app lifecycle (idea-to-launch)
