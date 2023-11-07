@@ -2,10 +2,10 @@
 title: noise
 description: everything temporary, non-important
 slug: noise
-image: "images/where.png"
+# image: "images/where.png"
 
 # Badge style
 style:
-    background: "#2a9d8f"
+    background: "#fff"
     color: "#fff"
 ---
