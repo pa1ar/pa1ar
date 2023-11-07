@@ -20,4 +20,4 @@ weight: 1
 5. (select files)
 6. “done”
 
-{{< video autoplay="true" loop="true" src="post/How%20to%20Add%20Remove%20PDF’s%20Pages%20Without%203rd%20Party%20Apps/pdf.mp4" >}}
+{{< video autoplay="true" loop="true" src="https://1ar.post/How%20to%20Add%20Remove%20PDF’s%20Pages%20Without%203rd%20Party%20Apps/pdf.mp4" >}}
