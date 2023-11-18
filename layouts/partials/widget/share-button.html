@@ -5,7 +5,7 @@
   document.getElementById('shareButton').addEventListener('click', () => {
     // Storing the current page URL and a custom share message in variables
     const currentPageUrl = window.location.href;
-    const shareMessage = 'Check out what Pavel wrote: {{ .Site.Title }}! ' + currentPageUrl;
+    const shareMessage = '｢ pavel ｣ wrote: \n' + currentPageUrl;
 
     // Check if the Web Share API is available
     if (navigator.share) {
