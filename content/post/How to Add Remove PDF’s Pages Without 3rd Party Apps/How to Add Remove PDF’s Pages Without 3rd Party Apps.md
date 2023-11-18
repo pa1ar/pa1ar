@@ -1,8 +1,8 @@
 ---
-title: How to Add/Remove PDF’s Pages Without 3rd Party Apps on iOS
-description: empty
+title: Basic PDF page editing on iOS
+description: How to Add/Remove PDF’s Pages Without 3rd Party Apps on iOS
 date: 2023-10-15
-image: 
+image: post/How%20to%20Add%20Remove%20PDF’s%20Pages%20Without%203rd%20Party%20Apps/pdf.png
 categories:
   - signal
 tags:
@@ -20,4 +20,5 @@ weight: 1
 5. (select files)
 6. “done”
 
-{{< video autoplay="true" loop="true" src="https://1ar.io/post/How%20to%20Add%20Remove%20PDF’s%20Pages%20Without%203rd%20Party%20Apps/pdf.mp4" >}}
+{{< video width="100" autoplay="true" loop="true" src="https://1ar.io/post/How%20to%20Add%20Remove%20PDF’s%20Pages%20Without%203rd%20Party%20Apps/pdf.mp4" >}}
+

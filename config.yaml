@@ -158,7 +158,9 @@ params:
             - type: tag-cloud
               params:
                   limit: 10
+            # - type: x // x feed
         page:
+            - type: share-button
             - type: search
             - type: toc
 

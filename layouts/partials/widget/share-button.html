@@ -1,0 +1,39 @@
+<button id="shareButton" class="share-button-style">share article</button>
+
+<script>
+  // Adding click event listener to the share button
+  document.getElementById('shareButton').addEventListener('click', () => {
+    // Storing the current page URL and a custom share message in variables
+    const currentPageUrl = window.location.href;
+    const shareMessage = 'Check out what Pavel wrote: {{ .Site.Title }}! ' + currentPageUrl;
+
+    // Check if the Web Share API is available
+    if (navigator.share) {
+      // Using the Web Share API to share the URL and message
+      navigator.share({
+        text: shareMessage
+      }).catch(error => {
+        // Logs any error that occurs during sharing
+        console.error('Error sharing:', error);
+        // Fallback to copying the link to the clipboard if sharing fails
+        copyToClipboard(shareMessage);
+      });
+    } else {
+      // Fallback for browsers where the Web Share API is not available
+      copyToClipboard(shareMessage);
+    }
+  });
+
+  // Function to copy text to the clipboard
+  function copyToClipboard(text) {
+    navigator.clipboard.writeText(text).then(() => {
+      // alert commented out - originally used to confirm successful copying
+      // alert('Link copied to clipboard');
+    }).catch(err => {
+      // Logs any error that occurs during copying to clipboard
+      console.error('Failed to copy:', err);
+      // alert commented out - originally used to show copying error
+      // alert('Failed to copy to clipboard. Error: ' + err);
+    });
+  }
+</script>
