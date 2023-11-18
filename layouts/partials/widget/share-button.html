@@ -27,13 +27,17 @@
   // Function to copy text to the clipboard
   function copyToClipboard(text) {
     navigator.clipboard.writeText(text).then(() => {
-      // alert commented out - originally used to confirm successful copying
-      // alert('Link copied to clipboard');
+      // Change button text upon successful copy
+      const shareButton = document.getElementById('shareButton');
+      shareButton.textContent = 'link copied';
+
+      // Optional: Reset button text after 3 seconds
+      setTimeout(() => {
+        shareButton.textContent = 'share article';
+      }, 3000);
     }).catch(err => {
       // Logs any error that occurs during copying to clipboard
       console.error('Failed to copy:', err);
-      // alert commented out - originally used to show copying error
-      // alert('Failed to copy to clipboard. Error: ' + err);
     });
   }
 </script>
