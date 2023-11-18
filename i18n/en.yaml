@@ -60,7 +60,7 @@ search:
         other: Search
 
     placeholder:
-        other: What is it you are searching for?
+        other: what is it you are searching for?
 
     resultTitle:
         other: "#PAGES_COUNT pages (#TIME_SECONDS seconds)"
