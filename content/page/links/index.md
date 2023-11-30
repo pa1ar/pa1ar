@@ -1,6 +1,6 @@
 ---
 title: links
-description: "feel free to use my referral links for the following services:"
+description: "feel free to use these referral links"
 
 menu:
   main:

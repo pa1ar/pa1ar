@@ -1,0 +1,17 @@
+{{ define "main" }}
+  <div class="projects">
+    <h1>Projects</h1>
+
+    {{ $projects := where .Site.RegularPages "Params.project" true }}
+    {{ if $projects }}
+      {{ range $projects }}
+        <div class="list-item">
+          <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+          <p>{{ .Summary }}</p>
+        </div>
+      {{ end }}
+    {{ else }}
+      <p>No projects found.</p>
+    {{ end }}
+  </div>
+{{ end }}

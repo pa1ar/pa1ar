@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>noise on 1ar.io</title>
+        <link>http://localhost:1313/categories/noise/</link>
+        <description>Recent content in noise on 1ar.io</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>Pavel Larionov</copyright><atom:link href="http://localhost:1313/categories/noise/index.xml" rel="self" type="application/rss+xml" />
+    </channel>
+</rss>

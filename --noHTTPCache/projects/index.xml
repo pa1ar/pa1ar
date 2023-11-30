@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>projects on 1ar.io</title>
+        <link>http://localhost:1313/projects/</link>
+        <description>Recent content in projects on 1ar.io</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>Pavel Larionov</copyright>
+        <lastBuildDate>Thu, 15 Mar 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title></title>
+        <link>http://localhost:1313/projects/projects/</link>
+        <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/projects/projects/</guid>
+        <description>&lt;h1 id=&#34;what&#34;&gt;what&lt;/h1&gt;
+&lt;p&gt;Development of an easy to use, resource-saving and fast algorithm of spike sorting, based on the calculation of correlations of spikes’ waveforms.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Larionov, P. and Schanze T. (2018). Correlation Based Spike Sorting. Automed 2018 - Villingen-
+Schwenningen, March 15-16, Automed 2018 in Villingen-Schwenningen Tagungsband, pp. 71-73.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;my-role&#34;&gt;my role&lt;/h1&gt;
+&lt;p&gt;Main author and developer.&lt;/p&gt;
+&lt;h1 id=&#34;where--with-whom&#34;&gt;where / with whom&lt;/h1&gt;
+&lt;p&gt;Institute of the Biomedical Technology, IBMT, University of Applied Sciences.&lt;br&gt;
+Scientific group of Prof. Dr. Thomas Schanze.&lt;/p&gt;
+&lt;h1 id=&#34;when&#34;&gt;when&lt;/h1&gt;
+&lt;p&gt;2018&lt;/p&gt;
+&lt;h1 id=&#34;so-what&#34;&gt;so what?&lt;/h1&gt;
+&lt;p&gt;Publication was presented by me during Automed 2018 scientific conference. The project became foundational for the series of publication, done by me and other researchers of the scientific group.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Correlation Based Spike Sorting</title>
+        <link>http://localhost:1313/projects/projects/spikes/</link>
+        <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/projects/projects/spikes/</guid>
+        <description>&lt;h1 id=&#34;what&#34;&gt;what&lt;/h1&gt;
+&lt;p&gt;Development of an easy to use, resource-saving and fast algorithm of spike sorting, based on the calculation of correlations of spikes’ waveforms.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Larionov, P. and Schanze T. (2018). Correlation Based Spike Sorting. Automed 2018 - Villingen-
+Schwenningen, March 15-16, Automed 2018 in Villingen-Schwenningen Tagungsband, pp. 71-73.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;my-role&#34;&gt;my role&lt;/h1&gt;
+&lt;p&gt;Main author and developer.&lt;/p&gt;
+&lt;h1 id=&#34;where--with-whom&#34;&gt;where / with whom&lt;/h1&gt;
+&lt;p&gt;Institute of the Biomedical Technology, IBMT, University of Applied Sciences.&lt;br&gt;
+Scientific group of Prof. Dr. Thomas Schanze.&lt;/p&gt;
+&lt;h1 id=&#34;when&#34;&gt;when&lt;/h1&gt;
+&lt;p&gt;2018&lt;/p&gt;
+&lt;h1 id=&#34;so-what&#34;&gt;so what?&lt;/h1&gt;
+&lt;p&gt;Publication was presented by me during Automed 2018 scientific conference. The project became foundational for the series of publication, done by me and other researchers of the scientific group.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>1ar.io</title>
+        <link>http://localhost:1313/</link>
+        <description>Recent content on 1ar.io</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>Pavel Larionov</copyright>
+        <lastBuildDate>Sun, 05 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Basic PDF page editing on iOS</title>
+        <link>http://localhost:1313/p/basic-pdf-page-editing-on-ios/</link>
+        <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/basic-pdf-page-editing-on-ios/</guid>
+        <description>&lt;img src="http://localhost:1313/post/How%20to%20Add%20Remove%20PDF%E2%80%99s%20Pages%20Without%203rd%20Party%20Apps/smartphone-pdf.png" alt="Featured image of post Basic PDF page editing on iOS" /&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/How%20to%20Add%20Remove%20PDF%e2%80%99s%20Pages%20Without%203rd%20Party%20Apps/pdf.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;open PDF in files&lt;/li&gt;
+&lt;li&gt;tap on pages indicator (top left)&lt;/li&gt;
+&lt;li&gt;tap on page after which you want to add pages (or which you want to remove)&lt;/li&gt;
+&lt;li&gt;“insert from file” (“delete”)&lt;/li&gt;
+&lt;li&gt;(select files)&lt;/li&gt;
+&lt;li&gt;“done”&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;video
+    controls
+    src=&#34;https://1ar.io/post/How%20to%20Add%20Remove%20PDF%e2%80%99s%20Pages%20Without%203rd%20Party%20Apps/pdf.mp4&#34;
+    
+    autoplay
+    &gt;
+        &lt;p&gt;
+            Your browser doesn&#39;t support HTML5 video. Here is a
+            &lt;a href=&#34;https://1ar.io/post/How%20to%20Add%20Remove%20PDF%e2%80%99s%20Pages%20Without%203rd%20Party%20Apps/pdf.mp4&#34;&gt;link to the video&lt;/a&gt; instead.
+        &lt;/p&gt;
+    &lt;/video&gt;
+&lt;/div&gt;
+
+</description>
+        </item>
+        <item>
+        <title>Hotkey for Activity Monitor on MacOS</title>
+        <link>http://localhost:1313/p/hotkey-for-activity-monitor-on-macos/</link>
+        <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/hotkey-for-activity-monitor-on-macos/</guid>
+        <description>&lt;img src="http://localhost:1313/post/Launch%20Activity%20Monitor%20with%20a%20Keyboard%20Shortcut%20on%20macOS/activity-monitor.png" alt="Featured image of post Hotkey for Activity Monitor on MacOS" /&gt;&lt;p&gt;&lt;code&gt;/Users/USERNAME/Library/Services/Run Activity Monitor.workflow&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/post/Launch%20Activity%20Monitor%20with%20a%20Keyboard%20Shortcut%20on%20macOS/automator.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;
+&lt;img src=&#34;http://localhost:1313/post/Launch%20Activity%20Monitor%20with%20a%20Keyboard%20Shortcut%20on%20macOS/shortcut.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Credits are going to: &lt;a class=&#34;link&#34; href=&#34;https://apple.stackexchange.com/questions/1520/is-there-a-keyboard-shortcut-for-launching-activity-monitor&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Is there a keyboard shortcut for launching Activity Monitor?&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>skills</title>
+        <link>http://localhost:1313/skills/</link>
+        <pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/skills/</guid>
+        <description>&lt;h3 id=&#34;core&#34;&gt;Core&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Leading Research &amp;amp; Development units, full app lifecycle (idea-to-launch)&lt;/li&gt;
+&lt;li&gt;Concept creation and ideation for complex digital products and experiences&lt;/li&gt;
+&lt;li&gt;AI-driven personal workflow (prompt engineering, automation, acceleration, scaling)&lt;/li&gt;
+&lt;li&gt;Agile or waterfall project delivery&lt;/li&gt;
+&lt;li&gt;Value-oriented application of AI-technologies&lt;/li&gt;
+&lt;li&gt;Utility-oriented application of blockchain technologies&lt;/li&gt;
+&lt;li&gt;Management in fully remote or hybrid environments&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;professional&#34;&gt;Professional&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Public Speaking (keynotes, workshops, presenting on scientific conferences)&lt;/li&gt;
+&lt;li&gt;Presentation design (pitches and reports)&lt;/li&gt;
+&lt;li&gt;Facilitating and leading stakeholder meetings&lt;/li&gt;
+&lt;li&gt;Gathering client requirements&lt;/li&gt;
+&lt;li&gt;Curating quality assurance&lt;/li&gt;
+&lt;li&gt;Software development in regulated fields&lt;/li&gt;
+&lt;li&gt;Projects delivery for governmental agencies&lt;/li&gt;
+&lt;li&gt;Lean business planning (value proposition for brands and businesses)&lt;/li&gt;
+&lt;li&gt;Business and product strategy&lt;/li&gt;
+&lt;li&gt;Market and competition research&lt;/li&gt;
+&lt;li&gt;Experiments/Research design&lt;/li&gt;
+&lt;li&gt;Project estimation (research, design, development, QA-tests, maintenance)&lt;/li&gt;
+&lt;li&gt;Organization of events and workshops (on-site, online including VR)&lt;/li&gt;
+&lt;li&gt;Publications &amp;amp; Papers (writing and reviewing)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;technical&#34;&gt;Technical&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Software concept design (including AI-powered applications)&lt;/li&gt;
+&lt;li&gt;Software architecture design&lt;/li&gt;
+&lt;li&gt;Python-, Swift-based rapid prototyping&lt;/li&gt;
+&lt;li&gt;Reverse engineering (code/assets injection)&lt;/li&gt;
+&lt;li&gt;Creation of the block schemes, solution maps, user journeys, personas and technical documentation&lt;/li&gt;
+&lt;li&gt;Wireframes and low-fidelity prototypes creation (Figma)&lt;/li&gt;
+&lt;li&gt;Advanced skills in field of knowledge base and project management software (Notion, Asana, Google Sheets etc.) and software-based automation&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>about</title>
+        <link>http://localhost:1313/about/</link>
+        <pubDate>Sat, 14 Oct 2023 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/about/</guid>
+        <description>&lt;img src="http://localhost:1313/page/about/pl.jpeg" alt="Featured image of post about" /&gt;&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;With the Master of Science degree in Biomedical Engineering, technical project leading experience, scientific and international relations background, I am driven by the endless potential of technology and innovation to bridge gaps, solve real-world problems, and enhance lives.&lt;/p&gt;
+&lt;p&gt;As a Creative Technologist at HyperInteractive Innovation Studio, I engage with teams to turn imaginative ideas into tangible solutions. Our projects often sit at the nexus of creativity and technology, aimed at solving problems or creating value for our clients. Notable projects include developing an award-winning iOS app Dot Go for the visually impaired and igniting AI initiatives within the company.&lt;/p&gt;
+&lt;p&gt;Earlier, I was working on biomedical engineering projects, contributing to neuroscience research, and leading a project to improve palliative care through tech-enabled solutions. Alongside, I&amp;rsquo;ve always enjoyed sharing knowledge, be it through tutoring engineering subjects in the lab of my university, leading martial arts groups for kids and adults, or introducing collaborative digital tools for perpetual knowledge management.&lt;/p&gt;
+&lt;p&gt;I am thrilled about the boundless potential of human-machine symbiosis, and tirelessly explore new ways to harness technology for meaningful solutions.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;areas-of-expertise&#34;&gt;Areas of Expertise&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Innovation &amp;amp; Digital transformation&lt;/li&gt;
+&lt;li&gt;Innovation Direction&lt;/li&gt;
+&lt;li&gt;Strategic Planning &amp;amp; Execution&lt;/li&gt;
+&lt;li&gt;Research &amp;amp; Development Leading &amp;amp; Execution&lt;/li&gt;
+&lt;li&gt;International Business &amp;amp; Relations&lt;/li&gt;
+&lt;li&gt;Idea-to-launch Product Development&lt;/li&gt;
+&lt;li&gt;Client Interaction and Engagement&lt;/li&gt;
+&lt;li&gt;Scientific Publications&lt;/li&gt;
+&lt;li&gt;Public Speaking and Workshop Facilitation&lt;/li&gt;
+&lt;li&gt;Coaching&lt;/li&gt;
+&lt;li&gt;Relationship Management&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;List of skills is &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/skills&#34; &gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;languages&#34;&gt;Languages&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;English: Fluent&lt;/li&gt;
+&lt;li&gt;German: Fluent&lt;/li&gt;
+&lt;li&gt;Russian: Native&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;professional-experience&#34;&gt;Professional Experience&lt;/h2&gt;
+&lt;h3 id=&#34;hyperinteractive-innovation-studio&#34;&gt;Hyperinteractive Innovation Studio&lt;/h3&gt;
+&lt;p&gt;Fully remote team with headquarters in Hamburg, Germany&lt;/p&gt;
+&lt;h4 id=&#34;ucreative-technologistu&#34;&gt;&lt;strong&gt;&lt;u&gt;Creative Technologist&lt;/u&gt;&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;Hyperinteractive Innovation Studio | Oct 2021 - present&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Led multidisciplinary technical development units for innovative digital projects, ensuring timely and quality delivery.&lt;/li&gt;
+&lt;li&gt;Prepared the architectural design of solutions encompassing sketches, diagrams, wireframes, roadmaps, and estimations.&lt;/li&gt;
+&lt;li&gt;Conducted case research, refined concepts based on initial briefs, and engaged with clients during pitch and kickstart meetings to ensure alignment with project objectives.&lt;/li&gt;
+&lt;li&gt;Delivered comprehensive reports, capturing major milestones of the projects to the stakeholders.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Significant Contributions:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Projects with my direct participation as leader of multidisciplinary development units, creative technologist received &lt;strong&gt;more than 50 international industry awards within 2 years of assignment&lt;/strong&gt;, including iF design awards, Cannes Liones, Eurobest, New York Festival, Art Directors Club etc.&lt;/li&gt;
+&lt;li&gt;Initiated and led AI development initiative, successfully integrating AI solutions in various projects.&lt;/li&gt;
+&lt;li&gt;Initiated innovation-focused knowledge exchange within the company, which since then is held on weekly basis and was the basis for external workshops for clients and partners.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;university-of-applied-sciences&#34;&gt;University of Applied Sciences&lt;/h3&gt;
+&lt;p&gt;Giessen (Hesse), Germany
+&lt;strong&gt;Two promotions within 4.5 years of assignment&lt;/strong&gt;&lt;/p&gt;
+&lt;h4 id=&#34;information-technology-project-lead&#34;&gt;Information Technology Project Lead&lt;/h4&gt;
+&lt;p&gt;University of Applied Sciences | Sep 2019 - May 2021 (1 yr 9 mos)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Led a Research &amp;amp; Development Unit of 18 team members in a joint project Avenue-Pal aimed at improving palliative care through tech-enabled solutions.&lt;/li&gt;
+&lt;li&gt;Engaged in business development &amp;amp; management, public relations, and public speaking to promote project outcomes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Significant contributions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Organized and delivered final hybrid keynote, gathering high-profile governmental and scientific stakeholders.&lt;/li&gt;
+&lt;li&gt;Contributed to the series of publications, capturing the outcomes of the project Avenue-Pal from technical, organizational and sociological perspectives.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;project-engineer&#34;&gt;Project Engineer&lt;/h4&gt;
+&lt;p&gt;University of Applied Sciences | Dec 2018 - Aug 2019 (9 mos)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Contributed to the IT-solution part of the project Avenue-Pal, aiming to enhance the quality of life of patients in their last life phase by improving information flow between doctors and palliative experts.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Significant contributions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Conducted user research based on high-fidelity prototype, leading to several iterations of reconceptualization for the initial idea, saving costs of development.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;research-associate-and-tutor&#34;&gt;&lt;strong&gt;Research Associate and Tutor&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;University of Applied Sciences | Dec 2016 - Nov 2018 (2 yrs)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Member of the scientific group of Prof. Dr. Thomas Schanze (field of studies: neuroscience, biological signal processing).&lt;/li&gt;
+&lt;li&gt;Tutored modules in &amp;ldquo;Digital Systems&amp;rdquo;, &amp;ldquo;Theory of Systems and Controlling Technology&amp;rdquo;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Significant contributions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Contributed to neuroscience research and published scientific papers on spike sorting of neurological signals as main author.&lt;/li&gt;
+&lt;li&gt;Supervised bachelor students in their thesis writing phase, promoting scientific activity and publication writing.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;additional-experience&#34;&gt;Additional Experience:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Managing Director&lt;/strong&gt; (Frankfurt am Main, Germany) | Veronica Medical Equipment Ltd. | Jun 2014 - May 2019 (5 yrs)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;International Sales Manager&lt;/strong&gt; (Öskemen, Kazakhstan) | West-Trading (medical equipment wholesale and technical support) | Jan 2013 - Jun 2014 (1 yr 6 mos)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sales Manager&lt;/strong&gt; (Öskemen, Kazakhstan) | Tropicana Touristic Agency | Jan 2013 - Jun 2014 (1 yr 6 mos)&lt;/li&gt;
+&lt;li&gt;Assistant Coach (Öskemen, Kazakhstan) | Öskemen Aikido &amp;amp; Kendo Martial Arts Dojo | (2011, 1 yr)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+&lt;h3 id=&#34;msc-biomedical-engineering&#34;&gt;M.Sc. Biomedical Engineering&lt;/h3&gt;
+&lt;p&gt;University of Applied Sciences Mittelhessen | &lt;a class=&#34;link&#34; href=&#34;https://www.thm.de/site/en/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;thm.de&lt;/a&gt;  | 2017 - 2019&lt;br&gt;
+Grade: 1.4 (ECTS grading scale)&lt;/p&gt;
+&lt;p&gt;Master’s thesis:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;&amp;ldquo;Spike Sorting of Multivariate Signals&amp;rdquo;&lt;/em&gt;&lt;br&gt;
+Grade: A, (1.1, 94%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Honors &amp;amp; Awards:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;DAAD scholarship for international students, attending in Master studies&lt;/p&gt;
+&lt;p&gt;DAAD (German Academic Exchange Service) supports the best international students in the phase of writing master&amp;rsquo;s theses.
+In order to get this kind of award, the student supposed to have notable academic achievements (e.g. publications) and to provide a recommendation letter from one professor.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Activities and societies:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Member of the Institute of the Biomedical Technology (IBMT), research group of the Prof. Dr. Thomas Schanze.&lt;/li&gt;
+&lt;li&gt;Accomplished Bioniq, International (German-Iraq) Biomedical Sommer School; Cyprus, 2018.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Focus areas:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Biosignals&lt;/li&gt;
+&lt;li&gt;Neuroscience&lt;/li&gt;
+&lt;li&gt;Algorithms&lt;/li&gt;
+&lt;li&gt;Biocybernetics&lt;/li&gt;
+&lt;li&gt;Prosthetics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;bsc-biomedical-engineering&#34;&gt;B.Sc. Biomedical Engineering&lt;/h3&gt;
+&lt;p&gt;University of Applied Sciences Mittelhessen | &lt;a class=&#34;link&#34; href=&#34;https://www.thm.de/site/en/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;thm.de&lt;/a&gt; | 2013 - 2017 &lt;br&gt;
+Grade: 2.6 (ECTS grading scale)&lt;/p&gt;
+&lt;p&gt;Bachelor’s Thesis:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;“Correlation Based Spike Sorting”&lt;br&gt;
+Grade: A (1.1, 94%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Honors &amp;amp; Awards:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;DAAD scholarship for international student, attending in Bachelor studies&lt;/p&gt;
+&lt;p&gt;DAAD (German Academic Exchange Service) supports the best international students in the phase of writing bachelor&amp;rsquo;s theses.&lt;br&gt;
+In order to get this kind of award, the student supposed to have notable academic achievements (e.g. publications) and to provide a recommendation letter from one professor.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Activities and societies:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Since November 2016: scientific intern in the research group of the Prof. Dr. Thomas Schanze.&lt;/li&gt;
+&lt;li&gt;Took part in organization of the international (German-Iraq) Scientific Conference &amp;ldquo;Bioniq&amp;rdquo;; Giessen, THM, 2016.&lt;/li&gt;
+&lt;li&gt;Took part and held presentation (&amp;ldquo;Nuclear Reactors&amp;rdquo;) at the Scientific Conference for students &amp;ldquo;Physics in the Healthcare&amp;rdquo;; Giessen, THM, 2014.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Focus areas&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Neuroscience / Neuroprosthetics (a part of &lt;a class=&#34;link&#34; href=&#34;http://M.Sc&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;M.Sc&lt;/a&gt;. Biomedical Engineering)&lt;/li&gt;
+&lt;li&gt;Microbiology&lt;/li&gt;
+&lt;li&gt;Material Science&lt;/li&gt;
+&lt;li&gt;Programming (Python, Matlab, Java, LabView Core 1 &amp;amp; 2)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ba-international-relations&#34;&gt;B.A. International Relations&lt;/h3&gt;
+&lt;p&gt;Sarsen Amanzholov East-Kazakhstan State University | &lt;a class=&#34;link&#34; href=&#34;https://vku.edu.kz/en/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;vku.kz&lt;/a&gt; | 2007 - 2012&lt;br&gt;
+Grade: B+, 3.56, 89% (USA grading scale)&lt;/p&gt;
+&lt;p&gt;Bachelor’s Thesis:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;“International Partnership between Germany and Kazakhstan”&lt;br&gt;
+Grade: A, (4.00, 98%)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Activities and societies:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Member of a debate club&lt;/li&gt;
+&lt;li&gt;Organization of and participation in student events.&lt;/li&gt;
+&lt;li&gt;Focus areas&lt;/li&gt;
+&lt;li&gt;History, Politics, Regional Management&lt;/li&gt;
+&lt;li&gt;Diplomacy (Conflict Solving, Foreign Service, Consular Functions, Ethics and Protocols, International Negotiations)&lt;/li&gt;
+&lt;li&gt;Foreign Languages (English and German, a very little bit of Chinese)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Digitalization, Scenarios of Dying a Digitalized Society&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;In: &lt;em&gt;How Will We Die in the Future?&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Publisher: Psychosozial-Verlag, Date: Sep, 2023&lt;/li&gt;
+&lt;li&gt;Description: Exploration of the impacts of digitalization on individual, social, and institutional approaches to dying, death, and mourning by 2045. Scenario development for future organization of these aspects, presenting desirable perspectives, and identifying actionable steps.&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://sterben-tod-trauer-2045.de/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Project Website&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Correlation-based Spike Sorting of Multivariate Data&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Publisher: De Gruyter, Date: Sep 18, 2019&lt;/li&gt;
+&lt;li&gt;Larionov, P., Juergens, T. &amp;amp; Schanze, T. (2019). Current Directions in Biomedical Engineering, 5(1), pp. 113-116. &lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.1515/cdbme-2019-0029&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;DOI: 10.1515/cdbme-2019-0029&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Description: Introduced a novel method for automated classification of waveforms, particularly spikes recorded with multichannel electrode arrays, using principles of correlation and a Monte Carlo method for k-means clusters estimation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Does Healthcare Research in Germany Need a Register of Places of Death?&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Publisher: Monitor Versorgungsforschung, Date: Jun 1, 2019&lt;/li&gt;
+&lt;li&gt;George, W., Fritz, T., Papke, J., Weber, K., &amp;amp; Larionov, P. (2019). 12. 48-51. &lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.24945/MVF.06.19.1866-0533.2191&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;DOI: 10.24945/MVF.06.19.1866-0533.2191&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Description: Discussion on the need for a centralized register or database to track places of death in Germany, analyzing the potential benefits for quality management, health system design, and other stakeholders.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Adaption of a Spike Sorting Algorithm to ECG Signals&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Publisher: De Gruyter, Date: Sep 1, 2018&lt;/li&gt;
+&lt;li&gt;Larionov, P., Janssen J.-D. and Schanze T. (2018). Biomedical Engineering / Biomedizinische Technik, Volume 63, Issue s1, Page 394. &lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.1515/bmt-2018-6051&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;DOI: 10.1515/bmt-2018-6051&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Description: Adaptation of a previously published spike sorting algorithm for analyzing ECG signals, demonstrating potential for sorting and differentiating normal and anomalous P-waves, QRS-complexes, and T-waves.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Correlation Based Spike Sorting&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Publisher: Pabst Science Publishers, Date: Mar 16, 2018&lt;/li&gt;
+&lt;li&gt;Larionov, P. and Schanze T. (2018). Automed 2018 - Villingen-Schwenningen, March 15-16, Automed 2018 in Villingen-Schwenningen Tagungsband, pp. 71-73.&lt;/li&gt;
+&lt;li&gt;Description: Development of a resource-saving, easy-to-use, and fast spike sorting algorithm based on the calculation of correlations of spikes’ waveforms.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        </item>
+        <item>
+        <title>Archives</title>
+        <link>http://localhost:1313/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title></title>
+        <link>http://localhost:1313/projects/projects/</link>
+        <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/projects/projects/</guid>
+        <description>&lt;h1 id=&#34;what&#34;&gt;what&lt;/h1&gt;
+&lt;p&gt;Development of an easy to use, resource-saving and fast algorithm of spike sorting, based on the calculation of correlations of spikes’ waveforms.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Larionov, P. and Schanze T. (2018). Correlation Based Spike Sorting. Automed 2018 - Villingen-
+Schwenningen, March 15-16, Automed 2018 in Villingen-Schwenningen Tagungsband, pp. 71-73.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;my-role&#34;&gt;my role&lt;/h1&gt;
+&lt;p&gt;Main author and developer.&lt;/p&gt;
+&lt;h1 id=&#34;where--with-whom&#34;&gt;where / with whom&lt;/h1&gt;
+&lt;p&gt;Institute of the Biomedical Technology, IBMT, University of Applied Sciences.&lt;br&gt;
+Scientific group of Prof. Dr. Thomas Schanze.&lt;/p&gt;
+&lt;h1 id=&#34;when&#34;&gt;when&lt;/h1&gt;
+&lt;p&gt;2018&lt;/p&gt;
+&lt;h1 id=&#34;so-what&#34;&gt;so what?&lt;/h1&gt;
+&lt;p&gt;Publication was presented by me during Automed 2018 scientific conference. The project became foundational for the series of publication, done by me and other researchers of the scientific group.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Correlation Based Spike Sorting</title>
+        <link>http://localhost:1313/projects/projects/spikes/</link>
+        <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/projects/projects/spikes/</guid>
+        <description>&lt;h1 id=&#34;what&#34;&gt;what&lt;/h1&gt;
+&lt;p&gt;Development of an easy to use, resource-saving and fast algorithm of spike sorting, based on the calculation of correlations of spikes’ waveforms.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Larionov, P. and Schanze T. (2018). Correlation Based Spike Sorting. Automed 2018 - Villingen-
+Schwenningen, March 15-16, Automed 2018 in Villingen-Schwenningen Tagungsband, pp. 71-73.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;my-role&#34;&gt;my role&lt;/h1&gt;
+&lt;p&gt;Main author and developer.&lt;/p&gt;
+&lt;h1 id=&#34;where--with-whom&#34;&gt;where / with whom&lt;/h1&gt;
+&lt;p&gt;Institute of the Biomedical Technology, IBMT, University of Applied Sciences.&lt;br&gt;
+Scientific group of Prof. Dr. Thomas Schanze.&lt;/p&gt;
+&lt;h1 id=&#34;when&#34;&gt;when&lt;/h1&gt;
+&lt;p&gt;2018&lt;/p&gt;
+&lt;h1 id=&#34;so-what&#34;&gt;so what?&lt;/h1&gt;
+&lt;p&gt;Publication was presented by me during Automed 2018 scientific conference. The project became foundational for the series of publication, done by me and other researchers of the scientific group.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title></title>
+        <link>http://localhost:1313/templates/meta/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/templates/meta/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title></title>
+        <link>http://localhost:1313/templates/noise/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/templates/noise/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title></title>
+        <link>http://localhost:1313/templates/project/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/templates/project/</guid>
+        <description>&lt;h1 id=&#34;what&#34;&gt;what&lt;/h1&gt;
+&lt;h1 id=&#34;where--with-whom&#34;&gt;where / with whom&lt;/h1&gt;
+&lt;h1 id=&#34;when&#34;&gt;when&lt;/h1&gt;
+&lt;h1 id=&#34;so-what&#34;&gt;so what?&lt;/h1&gt;
+</description>
+        </item>
+        <item>
+        <title></title>
+        <link>http://localhost:1313/templates/signal/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/templates/signal/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>contact</title>
+        <link>http://localhost:1313/contact/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/contact/</guid>
+        <description>
+&lt;div data-tf-live=&#34;01HGEPZ4QNFFR4ECTY0Q0W7C7N&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;//embed.typeform.com/next/embed.js&#34;&gt;&lt;/script&gt;
+</description>
+        </item>
+        <item>
+        <title>links</title>
+        <link>http://localhost:1313/links/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/links/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>http://localhost:1313/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
