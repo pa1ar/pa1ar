@@ -1,10 +1,10 @@
 ---
-title: "How Will We Die in the Future? Chapter: Digitalization."
+title: "book ｢ Dying in 2045 ｣"
 weight: 
 description: 
 project: true
 draft: false
-slug: 
+slug: dying-2045
 date: 2023-09-20
 image: 
 categories: 

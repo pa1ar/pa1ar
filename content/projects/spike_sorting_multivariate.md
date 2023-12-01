@@ -1,5 +1,5 @@
 ---
-title: "Spike Sorting: Multivariate Data"
+title: "project ｢ Spike Sorting ｣ Multivariate Data"
 weight: 
 description: 
 project: true

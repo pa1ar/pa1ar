@@ -1,5 +1,5 @@
 ---
-title: "Spike Sorting: Adaptation for ECG"
+title: "project ｢ Spike Sorting ｣ Adaptation for ECG"
 weight: 
 description: An adaptation of a spike sorting algorithm in attempt to analyze ECG.
 project: true
