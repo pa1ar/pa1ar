@@ -7,37 +7,219 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Pavel Larionov</copyright>
-        <lastBuildDate>Thu, 15 Mar 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title></title>
-        <link>http://localhost:1313/projects/projects/</link>
-        <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+        <lastBuildDate>Wed, 20 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>book ｢ Dying in 2045 ｣</title>
+        <link>http://localhost:1313/projects/dying-2045/</link>
+        <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/projects/projects/</guid>
-        <description>&lt;h1 id=&#34;what&#34;&gt;what&lt;/h1&gt;
-&lt;p&gt;Development of an easy to use, resource-saving and fast algorithm of spike sorting, based on the calculation of correlations of spikes’ waveforms.&lt;/p&gt;
+        <guid>http://localhost:1313/projects/dying-2045/</guid>
+        <description>&lt;img src="http://localhost:1313/projects/dying-2045/smartphone-grave.jpeg" alt="Featured image of post book ｢ Dying in 2045 ｣" /&gt;&lt;h2 id=&#34;what&#34;&gt;what&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Dying in 2045&amp;rdquo; (original German: &amp;ldquo;Wie werden wir in Zukunft sterben?&amp;rdquo;) offers an insightful outlook into a future where technology and society have evolved together, profoundly affecting how we live and eventually die. The book explores the deep integration of digitalization in our daily lives, touching on its historical roots and potential trajectory towards 2045.&lt;/p&gt;
+&lt;p&gt;From book&amp;rsquo;s official description:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Larionov, P. and Schanze T. (2018). Correlation Based Spike Sorting. Automed 2018 - Villingen-
-Schwenningen, March 15-16, Automed 2018 in Villingen-Schwenningen Tagungsband, pp. 71-73.&lt;/p&gt;
+&lt;p&gt;How will we treat dying, death and mourning individually, socially and institutionally in 2045, how will needs and expectations develop? Will the trend towards individualization, isolation and dying in care facilities continue? What impact will digitalization have? Experts from various fields of action and scientific disciplines develop scenarios for how dying, death and mourning will be organized in the future. They open up &amp;ldquo;desirable&amp;rdquo; perspectives and show what needs to be done to make them a reality.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;h1 id=&#34;my-role&#34;&gt;my role&lt;/h1&gt;
-&lt;p&gt;Main author and developer.&lt;/p&gt;
-&lt;h1 id=&#34;where--with-whom&#34;&gt;where / with whom&lt;/h1&gt;
-&lt;p&gt;Institute of the Biomedical Technology, IBMT, University of Applied Sciences.&lt;br&gt;
-Scientific group of Prof. Dr. Thomas Schanze.&lt;/p&gt;
-&lt;h1 id=&#34;when&#34;&gt;when&lt;/h1&gt;
-&lt;p&gt;2018&lt;/p&gt;
-&lt;h1 id=&#34;so-what&#34;&gt;so what?&lt;/h1&gt;
-&lt;p&gt;Publication was presented by me during Automed 2018 scientific conference. The project became foundational for the series of publication, done by me and other researchers of the scientific group.&lt;/p&gt;
+&lt;p&gt;Chapter I was honored to work on: &amp;ldquo;Digitalization, Scenarios of a digitalized society&amp;rdquo;. It delves into the concept of true digitalization, distinguishing it from mere digital mimicry and underscoring its transformative impact across various domains, including healthcare, consumer trends, and end-of-life experiences.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/projects/dying-2045/cover_front.JPG&#34;
+	width=&#34;3024&#34;
+	height=&#34;4032&#34;
+	srcset=&#34;http://localhost:1313/projects/dying-2045/cover_front_hu0fe5f15035e89835aeb2586ca521296f_989091_480x0_resize_q75_box.JPG 480w, http://localhost:1313/projects/dying-2045/cover_front_hu0fe5f15035e89835aeb2586ca521296f_989091_1024x0_resize_q75_box.JPG 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;book cover, front&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;75&#34;
+		data-flex-basis=&#34;180px&#34;
+	
+&gt; &lt;img src=&#34;http://localhost:1313/projects/dying-2045/cover-back.JPG&#34;
+	width=&#34;3024&#34;
+	height=&#34;4032&#34;
+	srcset=&#34;http://localhost:1313/projects/dying-2045/cover-back_hu31c0ccc4b1a2d4d9bbee3dd7ee9b2b34_975693_480x0_resize_q75_box.JPG 480w, http://localhost:1313/projects/dying-2045/cover-back_hu31c0ccc4b1a2d4d9bbee3dd7ee9b2b34_975693_1024x0_resize_q75_box.JPG 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;book cover, back&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;75&#34;
+		data-flex-basis=&#34;180px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;my-chapter&#34;&gt;my chapter&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Larionov, P. (2023). Szenarien einer digitalisierten Gesellschaft. In Psychosozial-Verlag eBooks (pp. 297–312). &lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.30820/9783837961058-297&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://doi.org/10.30820/9783837961058-297&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The book is in German, so I&amp;rsquo;ve decided to publish a raw, unedited by co-authors english version &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/p/dying-2045-digital/&#34; &gt;here on my website&lt;/a&gt;.&lt;/p&gt;
+&lt;h4 id=&#34;chapters-overview&#34;&gt;chapter&amp;rsquo;s overview&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/p/dying-2045-digital/#introduction&#34; &gt;Introduction&lt;/a&gt;: Sets the stage by reflecting on digitalization&amp;rsquo;s historical roots and its profound influence on society. This chapter contemplates the profound changes digitalization has brought, starting from Morse code to AI-driven technologies.&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;p/dying-2045-digital/#currently-existing-trends-in-technology-and-digitalization&#34; &gt;Currently Existing Trends in Technology and Digitalization&lt;/a&gt;: Examines current technological trends and their implications. Focuses on the status quo of technology, particularly in healthcare and consumer products.&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/p/dying-2045-digital/#true-digitalization&#34; &gt;True Digitalization&lt;/a&gt;: Differentiates between superficial digital mimicry and genuine, transformative digitalization. Explores the evolution of digitalization from initial replication of physical entities to fully realized digital integration.&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/p/dying-2045-digital/#consumer-trends&#34; &gt;Consumer Trends&lt;/a&gt;: Discusses current trends in consumer technology, particularly health tracking and digital healthcare apps. Analyzes current consumer technologies like health tracking wearables and digital healthcare apps, highlighting their benefits and shortcomings.&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/p/dying-2045-digital/#consumer-trends&#34; &gt;Upcoming Trends&lt;/a&gt;: Predicts future developments in IT corporations, digital healthcare, AI in mental health, the metaverse, and blockchain in healthcare. Looks at future prospects, including IT giants entering healthcare, AI in mental health, metaverse development, and blockchain&amp;rsquo;s potential in healthcare.&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/p/dying-2045-digital/#end-of-life&#34; &gt;End of Life&lt;/a&gt;: Explores how digital advancements might alter perceptions and experiences of death. Speculates on how technology might transform our experience of death, including digital avatars and virtual reality.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;full-book&#34;&gt;full book&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Wie werden wir in Zukunft sterben? (2023). In Psychosozial-Verlag eBooks. &lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.30820/9783837961058&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://doi.org/10.30820/9783837961058&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;You can buy your copy directly on &lt;a class=&#34;link&#34; href=&#34;https://www.psychosozial-verlag.de/catalog/product_info.php/products_id/6105&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Psychosozial-Verlag website&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;my-role&#34;&gt;my role&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;One of the researchers and authors.&lt;/li&gt;
+&lt;li&gt;Created web presence for the project: &lt;a class=&#34;link&#34; href=&#34;https://sterben-tod-trauer-2045.de/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://sterben-tod-trauer-2045.de/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Created the artwork for the book cover and for the project&amp;rsquo;s webpage.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;where--with-whom&#34;&gt;where / with whom&lt;/h2&gt;
+&lt;p&gt;I was invited to work on the chapter by &lt;a class=&#34;link&#34; href=&#34;http://wolfgang-george.de/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Prof. Dr. Wolfgang George&lt;/a&gt;. Full list of authors (29 in total):&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Tatjana Ahle-Rosental, Thorsten Benkel, Eckhard Dommer, Annette Franke, Wolfgang George, Paul Herrlein, Johannes Herrmann, Ulrike Kempchen, Johanna Klug, David Kröll, Pavel Larionov, Eberhard Lux, Barbara Meyer-Zehnder, Elmar Nass, Jens Papke, Hans Pargger, Dirk Pörschmann, Lena Reseck, Karl-Christian Schelzke, Heike Seeliger, Thomas Sitte, Elke Steudter, Elisabeth Vanderheiden, Karsten Weber, Conrad Wesch, Christoph Wiese und Volker Ziegler&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;when&#34;&gt;when&lt;/h2&gt;
+&lt;p&gt;Written in May-October 2022, printed and published in September 2023.&lt;/p&gt;
+&lt;h2 id=&#34;so-what&#34;&gt;so what?&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Dying in 2045&amp;rdquo; paints a vivid picture of a future where digital technology is deeply woven into our social fabric. It predicts significant transformations in healthcare, consumer behavior, and even our understanding of life and death. The book encourages readers to consider how these advancements might shape not just technology but our very humanity.&lt;/p&gt;
+&lt;p&gt;In my chapter, I predicted (the book was published in 2023, but all the drafts were ready more than year ago - editing and finalization takes time) the emergence of the next-level chatbots and their application as therapists.&lt;/p&gt;
 </description>
         </item>
         <item>
-        <title>Correlation Based Spike Sorting</title>
-        <link>http://localhost:1313/projects/projects/spikes/</link>
+        <title>project ｢ Avenue-Pal ｣ IT and Palliative Care</title>
+        <link>http://localhost:1313/projects/avenue-pal/</link>
+        <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/projects/avenue-pal/</guid>
+        <description>&lt;h1 id=&#34;what&#34;&gt;what&lt;/h1&gt;
+&lt;p&gt;The project Avenue-Pal aimed to improve palliative care from three angles: hospitals, nursing homes and caregivers. In particular, metrics to optimize were the transfers, which often happen in the last phase of life (e.g. transfer of a terminally ill patient from a nursing home to a hospital). While overall goal was to develop a series of guidelines which hospitals, healthcare professionals and nursing home personal can follow, I was particularly involved in the development of an IT systems which would support the initiative.&lt;/p&gt;
+&lt;p&gt;The aim of the sub-project &amp;ldquo;Solution for Information &amp;amp; Communication&amp;rdquo; was to&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;simplify guidelines implementation on sites&lt;/li&gt;
+&lt;li&gt;empower caregivers in the system&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Both targets were addressed by developing systems to deliver adequate information to the right actors or participants at the right time.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;my-role&#34;&gt;my role&lt;/h1&gt;
+&lt;p&gt;Project engineer at first, IT project lead short after the project began. I was leading team of developers, who was working on prototypes for the informational systems.&lt;/p&gt;
+&lt;h1 id=&#34;where--with-whom&#34;&gt;where / with whom&lt;/h1&gt;
+&lt;p&gt;Institute for Biomedical Technology at the University of Applied Sciences Mittelhessen in collaboration with TransMIT GmbH (Giessen), University Clinic of Giessen and Marburg and AWO Giessen (a nursing home).&lt;/p&gt;
+&lt;h1 id=&#34;when&#34;&gt;when&lt;/h1&gt;
+&lt;p&gt;2019-2021&lt;/p&gt;
+&lt;h1 id=&#34;so-what&#34;&gt;so what?&lt;/h1&gt;
+&lt;p&gt;The project delivered two prototypes:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Digital guideline implementation system, which could potentially replace hardly readable plain-texts issued by govermental bodies.
+The system consisted of an assessment part, informational part and tracking part. The workflow of any institution, which would use the system would be streamlined, as it gave portionized information in correct order about which aspects in the institution need to be addressed in order to comply with the new set of guidelines. The system was tested in the partners institution and described helpful and time-saving.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;An iOS and Android app for caregivers, which proved itself useful during user tests by healthcare professionals and caregivers.
+The app contained curated and granularly prepared pieces of information, so that every situation can be assessed and assisted. It also has provided a way to store the data in FHIR format - so potentially compatible with other medical systems.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;As the project was funded by GBA (Federal Joint Cometee - curates public health sector), all developments and documentation were handed over to the GBA and DLR (German Center of Airospace Flights, which also curates innovations in biomedical and healthcare spheres).&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>project ｢ Spike Sorting ｣ Multivariate Data</title>
+        <link>http://localhost:1313/projects/spike-sorting-multivariate/</link>
+        <pubDate>Wed, 18 Sep 2019 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/projects/spike-sorting-multivariate/</guid>
+        <description>&lt;h1 id=&#34;what&#34;&gt;what&lt;/h1&gt;
+&lt;p&gt;Automated classification of waveforms is an important method of data processing used in various fields of science, such as neuroscience, biomedical engineering, etc. This work shows the possibility of sorting special waveforms i.e. spikes recorded with multichannel electrode arrays by using principles of correlation and data-driven reference. A new method to estimate the number of k-means clusters by using a Monte Carlo method is introduced. To demonstrate the performance of the algorithm, generated signals were used, which are created to mimic multichannel recording of the extra-cellular neuronal signals.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Larionov, P., Juergens, T. &amp;amp; Schanze, T. (2019). Correlation-based spike sorting of multivariate data. Current Directions in Biomedical Engineering, 5(1), pp. 113-116. Retrieved 2 Oct. 2019, [](from doi:10.1515/cdbme-2019-0029)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;my-role&#34;&gt;my role&lt;/h1&gt;
+&lt;p&gt;Main author and developer, project leader.&lt;/p&gt;
+&lt;h1 id=&#34;where--with-whom&#34;&gt;where / with whom&lt;/h1&gt;
+&lt;p&gt;Co-created in collaboration with &lt;a class=&#34;link&#34; href=&#34;https://www.linkedin.com/in/tom-j%C3%BCrgens-752a58188/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Tom Jürgens&lt;/a&gt;.&lt;br&gt;
+Institute of the Biomedical Technology, IBMT, University of Applied Sciences.&lt;br&gt;
+Scientific group of Prof. Dr. Thomas Schanze.&lt;/p&gt;
+&lt;h1 id=&#34;when&#34;&gt;when&lt;/h1&gt;
+&lt;p&gt;2019&lt;/p&gt;
+&lt;h1 id=&#34;so-what&#34;&gt;so what?&lt;/h1&gt;
+&lt;p&gt;Publication was presented by me during the scientific conference &amp;ldquo;Current Direction in Biomedical Engineering&amp;rdquo;.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>paper ｢ Places of Death Register ｣</title>
+        <link>http://localhost:1313/projects/death-register-germany/</link>
+        <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/projects/death-register-germany/</guid>
+        <description>&lt;h1 id=&#34;what&#34;&gt;what&lt;/h1&gt;
+&lt;p&gt;Currently, only deaths in hospitals are reported, which is seen as inadequate for health research and planning. The register was suggested in the paper, which would benefit various groups, including quality management, health system designers, citizens, and service providers. It could also uphold the moral principles of medical care.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;George, W., Fritz, T., Papke, J., Weber, K., &amp;amp; Larionov, P. (2019). Braucht die Versorgungsforschung in Deutschland ein Sterbeortregister? in Monitor Versorgungsforschung (06/19), S. 57-60 doi: &lt;a class=&#34;link&#34; href=&#34;https://www.monitor-versorgungsforschung.de/abstract/braucht-die-versorgungsforschung-in-deutschland-ein-sterbeortregister/?cookie-state-change=1701386391787&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;10.24945/MVF.06.19.1866-0533.2191&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/projects/death_places_registry.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;
+Image: Death Registry Architecture&lt;/p&gt;
+&lt;h1 id=&#34;my-role&#34;&gt;my role&lt;/h1&gt;
+&lt;p&gt;Co-author, data visualization.&lt;/p&gt;
+&lt;h1 id=&#34;where--with-whom&#34;&gt;where / with whom&lt;/h1&gt;
+&lt;p&gt;George, W., Fritz, T., Papke, J., Weber, K&lt;/p&gt;
+&lt;h1 id=&#34;when&#34;&gt;when&lt;/h1&gt;
+&lt;p&gt;2019&lt;/p&gt;
+&lt;h1 id=&#34;so-what&#34;&gt;so what?&lt;/h1&gt;
+&lt;p&gt;Sometimes we think that government has it all figured out, as well as the healthcare professionals. But then you find out that one or another obvious construct does not exist even as concept.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>project ｢ Spike Sorting ｣ Adaptation for ECG</title>
+        <link>http://localhost:1313/projects/spike-sorting-ecg/</link>
+        <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/projects/spike-sorting-ecg/</guid>
+        <description>&lt;h2 id=&#34;what&#34;&gt;what&lt;/h2&gt;
+&lt;p&gt;An adaptation of a spike sorting algorithm (published &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/projects/spike-sorting&#34; &gt;earlier&lt;/a&gt; by our research group) was performed in order to analyze ECG.
+Preliminary results show that a “spike sorting” of single ECG signals is possible, i.e. a sorting of P-waves, QRScomplexes, and T-waves. The clustering results indicate that differentiation between normal and anomalous P-waves, QRS-complexes, and T-waves is possible.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Larionov, P., Janssen J.-D. and Schanze T. (2018). Adaption of a spike sorting algorithm to ECG
+signals. Abstracts - BMT 2018 – Aachen, September 26–28, Biomedical Engineering /
+Biomedizinische Technik, Volume 63, Issue s1, Page 394, ISSN (Online) 1862-278X, ISSN (Print)
+0013-5585, DOI: &lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.1515/bmt-2018-6051&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://doi.org/10.1515/bmt-2018-6051&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;my-role&#34;&gt;my role&lt;/h2&gt;
+&lt;p&gt;Main author and developer.&lt;/p&gt;
+&lt;h2 id=&#34;where--with-whom&#34;&gt;where / with whom&lt;/h2&gt;
+&lt;p&gt;Co-created in collaboration with &lt;a class=&#34;link&#34; href=&#34;https://www.linkedin.com/in/jdjanssen/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Jan-Dirk Janssen&lt;/a&gt;.&lt;br&gt;
+Institute of the Biomedical Technology, IBMT, University of Applied Sciences.&lt;br&gt;
+Scientific group of Prof. Dr. Thomas Schanze.&lt;/p&gt;
+&lt;h2 id=&#34;when&#34;&gt;when&lt;/h2&gt;
+&lt;p&gt;2018&lt;/p&gt;
+&lt;h2 id=&#34;so-what&#34;&gt;so what?&lt;/h2&gt;
+&lt;p&gt;De Gruyter · Sep 1, 2018
+Publication was published as part of BMT 2018 scientific conference.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>project ｢ Spike Sorting ｣</title>
+        <link>http://localhost:1313/projects/spike-sorting/</link>
         <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/projects/projects/spikes/</guid>
+        <guid>http://localhost:1313/projects/spike-sorting/</guid>
         <description>&lt;h1 id=&#34;what&#34;&gt;what&lt;/h1&gt;
-&lt;p&gt;Development of an easy to use, resource-saving and fast algorithm of spike sorting, based on the calculation of correlations of spikes’ waveforms.&lt;/p&gt;
+&lt;p&gt;The ultimate goal of the spike sorting is to allocate a signal with a source. An algorithm which can effectively perform this task can be applied in wide variety of spheres, but we have selected as our target area the field of neuroscience. As the spike sorting is the first step to study brain and develop a brain-computer interface.&lt;/p&gt;
+&lt;p&gt;Goal of the project: development of an easy-to-use, resource-saving and fast algorithm of spike sorting, based on the calculation of correlations of spikes’ waveforms.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Larionov, P. and Schanze T. (2018). Correlation Based Spike Sorting. Automed 2018 - Villingen-
 Schwenningen, March 15-16, Automed 2018 in Villingen-Schwenningen Tagungsband, pp. 71-73.&lt;/p&gt;
@@ -48,9 +230,9 @@ Schwenningen, March 15-16, Automed 2018 in Villingen-Schwenningen Tagungsband, p
 &lt;p&gt;Institute of the Biomedical Technology, IBMT, University of Applied Sciences.&lt;br&gt;
 Scientific group of Prof. Dr. Thomas Schanze.&lt;/p&gt;
 &lt;h1 id=&#34;when&#34;&gt;when&lt;/h1&gt;
-&lt;p&gt;2018&lt;/p&gt;
+&lt;p&gt;2018-2021&lt;/p&gt;
 &lt;h1 id=&#34;so-what&#34;&gt;so what?&lt;/h1&gt;
-&lt;p&gt;Publication was presented by me during Automed 2018 scientific conference. The project became foundational for the series of publication, done by me and other researchers of the scientific group.&lt;/p&gt;
+&lt;p&gt;Publication was presented by me during Automed 2018 scientific conference. The project became foundational for the series of publication, done by me and other researchers of the scientific group, e.g. to apply the algorithm for &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/projects/spike-sorting-ecg&#34; &gt;ECG analysis&lt;/a&gt;. The algorithm capabilities were significantly improved by introduction of the &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/projects/spike-sorting-multivariate/&#34; &gt;multivariate mode&lt;/a&gt;.&lt;/p&gt;
 </description>
         </item>
         

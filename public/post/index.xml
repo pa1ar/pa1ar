@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on 1ar.io</title>
+        <link>https://1ar.io/post/</link>
+        <description>Recent content in Posts on 1ar.io</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>Pavel Larionov</copyright>
+        <lastBuildDate>Sun, 15 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://1ar.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Basic PDF page editing on iOS</title>
+        <link>https://1ar.io/p/basic-pdf-page-editing-on-ios/</link>
+        <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://1ar.io/p/basic-pdf-page-editing-on-ios/</guid>
+        <description>&lt;img src="https://1ar.io/post/How%20to%20Add%20Remove%20PDF%E2%80%99s%20Pages%20Without%203rd%20Party%20Apps/smartphone-pdf.png" alt="Featured image of post Basic PDF page editing on iOS" /&gt;&lt;p&gt;&lt;img src=&#34;https://1ar.io/post/How%20to%20Add%20Remove%20PDF%e2%80%99s%20Pages%20Without%203rd%20Party%20Apps/pdf.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;open PDF in files&lt;/li&gt;
+&lt;li&gt;tap on pages indicator (top left)&lt;/li&gt;
+&lt;li&gt;tap on page after which you want to add pages (or which you want to remove)&lt;/li&gt;
+&lt;li&gt;“insert from file” (“delete”)&lt;/li&gt;
+&lt;li&gt;(select files)&lt;/li&gt;
+&lt;li&gt;“done”&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;video
+    controls
+    src=&#34;https://1ar.io/post/How%20to%20Add%20Remove%20PDF%e2%80%99s%20Pages%20Without%203rd%20Party%20Apps/pdf.mp4&#34;
+    
+    autoplay
+    &gt;
+        &lt;p&gt;
+            Your browser doesn&#39;t support HTML5 video. Here is a
+            &lt;a href=&#34;https://1ar.io/post/How%20to%20Add%20Remove%20PDF%e2%80%99s%20Pages%20Without%203rd%20Party%20Apps/pdf.mp4&#34;&gt;link to the video&lt;/a&gt; instead.
+        &lt;/p&gt;
+    &lt;/video&gt;
+&lt;/div&gt;
+
+</description>
+        </item>
+        <item>
+        <title>Hotkey for Activity Monitor on MacOS</title>
+        <link>https://1ar.io/p/hotkey-for-activity-monitor-on-macos/</link>
+        <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://1ar.io/p/hotkey-for-activity-monitor-on-macos/</guid>
+        <description>&lt;img src="https://1ar.io/post/Launch%20Activity%20Monitor%20with%20a%20Keyboard%20Shortcut%20on%20macOS/activity-monitor.png" alt="Featured image of post Hotkey for Activity Monitor on MacOS" /&gt;&lt;p&gt;&lt;code&gt;/Users/USERNAME/Library/Services/Run Activity Monitor.workflow&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://1ar.io/post/Launch%20Activity%20Monitor%20with%20a%20Keyboard%20Shortcut%20on%20macOS/automator.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;
+&lt;img src=&#34;https://1ar.io/post/Launch%20Activity%20Monitor%20with%20a%20Keyboard%20Shortcut%20on%20macOS/shortcut.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;Credits are going to: &lt;a class=&#34;link&#34; href=&#34;https://apple.stackexchange.com/questions/1520/is-there-a-keyboard-shortcut-for-launching-activity-monitor&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Is there a keyboard shortcut for launching Activity Monitor?&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Obsidian as Markdown Editor for Hugo</title>
+        <link>https://1ar.io/p/obsidian-as-markdown-editor-for-hugo/</link>
+        <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://1ar.io/p/obsidian-as-markdown-editor-for-hugo/</guid>
+        <description>&lt;p&gt;handling md files for hugo with obsidian seems like a good idea&lt;/p&gt;
+&lt;p&gt;settings need changing&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;in Editor:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;properties in document - &lt;code&gt;visible&lt;/code&gt;
+&lt;img src=&#34;https://1ar.io/post/Obsidian%20as%20Markdown%20Editor%20for%20Hugo/Pasted%20Graphic%205.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;in Files and Links:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;folder to create new notes - &lt;code&gt;in the folder specified below&lt;/code&gt; - &lt;code&gt;post&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;new link format - &lt;code&gt;absolute path in vault&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;use [[Wikilinks]] - &lt;code&gt;disabled&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;default location for new attachments - &lt;code&gt;same folder as current file&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://1ar.io/post/Obsidian%20as%20Markdown%20Editor%20for%20Hugo/Pasted%20Graphic%204.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Snapping and moving windows on macOS with shortcuts</title>
+        <link>https://1ar.io/p/snapping-and-moving-windows-on-macos-with-shortcuts/</link>
+        <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://1ar.io/p/snapping-and-moving-windows-on-macos-with-shortcuts/</guid>
+        <description>&lt;blockquote&gt;
+&lt;p&gt;While you can use 3rd party tools like &lt;a class=&#34;link&#34; href=&#34;https://apps.apple.com/de/app/magnet/id441258766?l=en&amp;amp;mt=12&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Magnet&lt;/a&gt; or &lt;a class=&#34;link&#34; href=&#34;https://rectangleapp.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Rectangle&lt;/a&gt; to snap windows to the sides or move things around, you can achieve basic keyboard interaction without any apps at all.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;https://1ar.io/post/Snapping%20and%20moving%20windows%20on%20macOS%20with%20shortcut/snapping.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Command&lt;/th&gt;
+&lt;th&gt;Shortcut&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Tile window to Right of Screen&lt;/td&gt;
+&lt;td&gt;opt+cmd+m&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Tile window to Left of Screen&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Move Window to Right Side of Screen&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Move Window to Left Side of Screen&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Zoom&lt;/td&gt;
+&lt;td&gt;opt+cmd+m&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Move to Built-in Retina Display&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Move to LEN L27q-30&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

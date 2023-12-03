@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Templates on 1ar.io</title>
+        <link>https://1ar.io/templates/</link>
+        <description>Recent content in Templates on 1ar.io</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>Pavel Larionov</copyright><atom:link href="https://1ar.io/templates/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title></title>
+        <link>https://1ar.io/templates/meta/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://1ar.io/templates/meta/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title></title>
+        <link>https://1ar.io/templates/noise/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://1ar.io/templates/noise/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title></title>
+        <link>https://1ar.io/templates/project/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://1ar.io/templates/project/</guid>
+        <description>&lt;h1 id=&#34;what&#34;&gt;what&lt;/h1&gt;
+&lt;h1 id=&#34;where--with-whom&#34;&gt;where / with whom&lt;/h1&gt;
+&lt;h1 id=&#34;when&#34;&gt;when&lt;/h1&gt;
+&lt;h1 id=&#34;so-what&#34;&gt;so what?&lt;/h1&gt;
+</description>
+        </item>
+        <item>
+        <title></title>
+        <link>https://1ar.io/templates/signal/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://1ar.io/templates/signal/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
