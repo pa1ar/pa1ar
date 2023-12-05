@@ -7,5 +7,5 @@ slug: noise
 # Badge style
 style:
     background: "#fff"
-    color: "#fff"
+    color: "#000"
 ---

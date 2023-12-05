@@ -4,7 +4,7 @@ description: How to Add/Remove PDF’s Pages Without 3rd Party Apps on iOS
 date: 2023-10-15
 image: smartphone-pdf.jpeg
 categories:
-  - signal
+  - noise
 tags:
   - macOS
   - tutorial

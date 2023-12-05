@@ -4,7 +4,7 @@ description: Launch Activity Monitor with a Keyboard Shortcut on macOS as you wo
 date: 2023-10-15
 image: activity-monitor.jpeg
 categories:
-  - signal
+  - noise
 tags:
   - macOS
   - tutorial

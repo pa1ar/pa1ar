@@ -7,90 +7,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Pavel Larionov</copyright>
-        <lastBuildDate>Sun, 15 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/signal/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Basic PDF page editing on iOS</title>
-        <link>http://localhost:1313/p/basic-pdf-page-editing-on-ios/</link>
-        <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/p/basic-pdf-page-editing-on-ios/</guid>
-        <description>&lt;img src="http://localhost:1313/p/basic-pdf-page-editing-on-ios/smartphone-pdf.jpeg" alt="Featured image of post Basic PDF page editing on iOS" /&gt;&lt;p&gt;For the situations when you need to remove one or another page, or add additional page to you PDF file on iPhone.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;open PDF in files&lt;/li&gt;
-&lt;li&gt;tap on pages indicator (top left)&lt;/li&gt;
-&lt;li&gt;tap on page after which you want to add pages (or which you want to remove)&lt;/li&gt;
-&lt;li&gt;“insert from file” (“delete”)&lt;/li&gt;
-&lt;li&gt;(select files)&lt;/li&gt;
-&lt;li&gt;“done”&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/basic-pdf-page-editing-on-ios/pdf.png&#34;
-	width=&#34;764&#34;
-	height=&#34;964&#34;
-	srcset=&#34;http://localhost:1313/p/basic-pdf-page-editing-on-ios/pdf_hu9eb74e8032f8978e197c743729ee8e93_125450_480x0_resize_box_3.png 480w, http://localhost:1313/p/basic-pdf-page-editing-on-ios/pdf_hu9eb74e8032f8978e197c743729ee8e93_125450_1024x0_resize_box_3.png 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;PDF file with pages preview&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;79&#34;
-		data-flex-basis=&#34;190px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;video
-    controls
-    src=&#34;https://1ar.io/post/How%20to%20Add%20Remove%20PDF%e2%80%99s%20Pages%20Without%203rd%20Party%20Apps/pdf.mp4&#34;
-    
-    autoplay
-    &gt;
-        &lt;p&gt;
-            Your browser doesn&#39;t support HTML5 video. Here is a
-            &lt;a href=&#34;https://1ar.io/post/How%20to%20Add%20Remove%20PDF%e2%80%99s%20Pages%20Without%203rd%20Party%20Apps/pdf.mp4&#34;&gt;link to the video&lt;/a&gt; instead.
-        &lt;/p&gt;
-    &lt;/video&gt;
-&lt;/div&gt;
-
-</description>
-        </item>
-        <item>
-        <title>Hotkey for Activity Monitor on MacOS</title>
-        <link>http://localhost:1313/p/hotkey-for-activity-monitor-on-macos/</link>
-        <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/p/hotkey-for-activity-monitor-on-macos/</guid>
-        <description>&lt;img src="http://localhost:1313/p/hotkey-for-activity-monitor-on-macos/activity-monitor.jpeg" alt="Featured image of post Hotkey for Activity Monitor on MacOS" /&gt;&lt;p&gt;&lt;code&gt;/Users/USERNAME/Library/Services/Run Activity Monitor.workflow&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/hotkey-for-activity-monitor-on-macos/automator.png&#34;
-	width=&#34;1112&#34;
-	height=&#34;992&#34;
-	srcset=&#34;http://localhost:1313/p/hotkey-for-activity-monitor-on-macos/automator_hufba2ea6e00ea288c293c5b6517fbe5f4_294524_480x0_resize_box_3.png 480w, http://localhost:1313/p/hotkey-for-activity-monitor-on-macos/automator_hufba2ea6e00ea288c293c5b6517fbe5f4_294524_1024x0_resize_box_3.png 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;using automator&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;112&#34;
-		data-flex-basis=&#34;269px&#34;
-	
-&gt; &lt;img src=&#34;http://localhost:1313/p/hotkey-for-activity-monitor-on-macos/shortcut.png&#34;
-	width=&#34;1560&#34;
-	height=&#34;1416&#34;
-	srcset=&#34;http://localhost:1313/p/hotkey-for-activity-monitor-on-macos/shortcut_hu4ed0ccca613623cd8fa3beca68ef5887_572836_480x0_resize_box_3.png 480w, http://localhost:1313/p/hotkey-for-activity-monitor-on-macos/shortcut_hu4ed0ccca613623cd8fa3beca68ef5887_572836_1024x0_resize_box_3.png 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;adding shortcut&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;110&#34;
-		data-flex-basis=&#34;264px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;Credits are going to: &lt;a class=&#34;link&#34; href=&#34;https://apple.stackexchange.com/questions/1520/is-there-a-keyboard-shortcut-for-launching-activity-monitor&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Is there a keyboard shortcut for launching Activity Monitor?&lt;/a&gt;&lt;/p&gt;
-</description>
-        </item>
-        <item>
+        <lastBuildDate>Wed, 20 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/signal/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>book ｢ Dying in 2045 ｣</title>
         <link>http://localhost:1313/projects/dying-2045/</link>
         <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
@@ -139,7 +56,7 @@
 &lt;h4 id=&#34;chapters-overview&#34;&gt;chapter&amp;rsquo;s overview&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/p/dying-2045-digital/#introduction&#34; &gt;Introduction&lt;/a&gt;: Sets the stage by reflecting on digitalization&amp;rsquo;s historical roots and its profound influence on society. This chapter contemplates the profound changes digitalization has brought, starting from Morse code to AI-driven technologies.&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;p/dying-2045-digital/#currently-existing-trends-in-technology-and-digitalization&#34; &gt;Currently Existing Trends in Technology and Digitalization&lt;/a&gt;: Examines current technological trends and their implications. Focuses on the status quo of technology, particularly in healthcare and consumer products.&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/p/dying-2045-digital/#currently-existing-trends-in-technology-and-digitalization&#34; &gt;Currently Existing Trends in Technology and Digitalization&lt;/a&gt;: Examines current technological trends and their implications. Focuses on the status quo of technology, particularly in healthcare and consumer products.&lt;/li&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/p/dying-2045-digital/#true-digitalization&#34; &gt;True Digitalization&lt;/a&gt;: Differentiates between superficial digital mimicry and genuine, transformative digitalization. Explores the evolution of digitalization from initial replication of physical entities to fully realized digital integration.&lt;/li&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/p/dying-2045-digital/#consumer-trends&#34; &gt;Consumer Trends&lt;/a&gt;: Discusses current trends in consumer technology, particularly health tracking and digital healthcare apps. Analyzes current consumer technologies like health tracking wearables and digital healthcare apps, highlighting their benefits and shortcomings.&lt;/li&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/p/dying-2045-digital/#consumer-trends&#34; &gt;Upcoming Trends&lt;/a&gt;: Predicts future developments in IT corporations, digital healthcare, AI in mental health, the metaverse, and blockchain in healthcare. Looks at future prospects, including IT giants entering healthcare, AI in mental health, metaverse development, and blockchain&amp;rsquo;s potential in healthcare.&lt;/li&gt;
@@ -432,7 +349,7 @@ Without any doubt, each manufacturer and developer also uses the collected data 
 &lt;p&gt;As virtual reality can help people manage pain by distracting them from the real world, where the body may be crippled by suffering, it is possible that some people in the future will prefer to spend their last minutes with a headset on. This might not only make the whole process a bit more tolerable for terminally ill patients, but could also provide the possibility to spend time with relatives who can’t personally be near. Some people might also prefer not to present themselves as sick and weak to their most dear people and would rather spend some time on a virtual lake, instead of looking at a ceiling.&lt;/p&gt;
 &lt;p&gt;Dying in virtual reality could be an entirely new market and provide not only a headset, but several devices, which can help the user to submerge in the virtual world for several days. For example, it could include an intravenous feeding system, incontinence handling products, and painkiller injectors.&lt;/p&gt;
 &lt;p&gt;Combined with the previous idea, relatives might not even notice that their loved one has passed. If prepared properly, the illusion of a person being “transferred” to virtual reality can become really smooth and very convincing.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/end-of-life.jpeg&#34;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/projects/dying-2045/end.jpeg&#34;
 	
 	
 	
