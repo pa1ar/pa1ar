@@ -5,12 +5,12 @@ date: 2023-11-05
 license: false
 lastmod: 2023-11-05
 comments: false
-menu:
-  main:
-    title: skills
-    weight: -80
-    params:
-      icon: body-scan
+# menu:
+#   main:
+#     title: skills
+#     weight: -80
+#     params:
+#       icon: body-scan
 ---
 
 ### Core
