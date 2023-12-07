@@ -198,12 +198,12 @@ menu:
     main: []
 
     social:
-        # - identifier: github
-        #   name: GitHub
-        #   url: https://github.com/CaiJimmy/hugo-theme-stack
-        #   weight: 10
-        #   params:
-        #       icon: brand-github
+        - identifier: github
+          name: GitHub
+          url: https://github.com/pa1ar
+          weight: 10
+          params:
+              icon: brand-github
 
         - identifier: x
           name: 𝕏

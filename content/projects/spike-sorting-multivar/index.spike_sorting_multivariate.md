@@ -6,7 +6,7 @@ project: true
 draft: false
 slug: spike-sorting-multivariate
 date: 2019-09-18
-image: 
+image: neuron-high.jpeg
 categories: 
   - signal
 toc: true
