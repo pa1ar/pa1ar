@@ -95,17 +95,28 @@
         <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/projects/the-truth-wins/</guid>
-        <description>&lt;h2 id=&#34;what---bypassing-censorship-with-cutting-edge-technology&#34;&gt;what - bypassing censorship with cutting edge technology&lt;/h2&gt;
+        <description>&lt;img src="http://localhost:1313/projects/the-truth-wins/ttw-square.jpeg" alt="Featured image of post project ｢ The Truth Wins ｣" /&gt;&lt;h2 id=&#34;what---bypassing-censorship-with-cutting-edge-technology&#34;&gt;what - bypassing censorship with cutting edge technology&lt;/h2&gt;
 &lt;p&gt;The problem - governments are demanding social networks to ban (or shadowban) certain journalists, activists, opposition politics etc. The followers of such people will need to research where to follow this person, which leads to inevitable lost of reach. To address this issue without asking for permission of neither government nor social media companies (because censorship should not thrive in our internet), a two fold solution was made as part of &lt;a class=&#34;link&#34; href=&#34;https://www.the-truth-wins.com/en/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;The Truth Wins&lt;/a&gt; campaign.&lt;/p&gt;
 &lt;p&gt;The first solution - initial brief idea - to hack national lotteries results and use it as a universal identificator. This identificator is used by journalists as part of their handle. As national lotteries are held on regular basis and the winning numbers can be found really easy, those numbers can be used to find all banned accounts on a social network. So governments can demand social network to ban certain people as much as they want, the banned user can just create new account and followers will find it in no time.&lt;/p&gt;
-&lt;p&gt;The second solution is even more straightforward for the end users. There are ways how you can use blockchain to bypass censorship: provide redirection to a classic domain name or store the content itself on decentralized storage. The redirection part uses blockchain-based DNS provider (ENS - ethereum name service) and the content storing part involves decentralized storage solution is for example IPFS (interplanetary file system).&lt;/p&gt;
+&lt;p&gt;The second solution is even more straightforward for the end users. There are ways how you can use blockchain to bypass censorship: provide redirection to a classic domain name or store the content itself on decentralized storage. The redirection part uses blockchain-based DNS provider (&lt;a class=&#34;link&#34; href=&#34;https://ens.domains/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;ENS&lt;/a&gt; - ethereum name service) and the content storing part involves decentralized storage solution is for example &lt;a class=&#34;link&#34; href=&#34;https://ipfs.tech/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;IPFS&lt;/a&gt; (interplanetary file system).&lt;/p&gt;
 &lt;p&gt;Starting with redirection part. As it is hardly possible to block a blockchain-based name resolver (internet service provider would need to block all traffic to the blockchain - e.g. ethereum - network) and it is fairly easy to replace the target, this makes the URL to certain website virtually invincible. So user can just bookmark this URL and it will redirect to the currently active domain of the resource you are trying to reach. Think of the Pirate Bay torrent tracker - they are always changing domain name to avoid being blocked, but you need to search for the current name, as you bookmark won&amp;rsquo;t work.&lt;/p&gt;
 &lt;p&gt;Now to the storage part. If certain lightweight content (text with minimal images) need to be protected from censorship, it can be stored on the decentralized storage, e.g. IPFS. It needs to be lightweight because the access speed is not the fastest. Such content will profit from the similar benefits as blockchain-based domain name resolver in terms of invulnarability - in order to block such content the ISP would need to bring down all nodes serving IPFS. So in combination with a decentralized domain - it will take A LOT of efforts from IPS side to bring your website down.&lt;/p&gt;
 &lt;p&gt;While the lottery-numbers part is obviously an amazing idea, I was much more excited by the blockchain part because of the relative ease of use for the end users and scalability.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;The Truth Wins is the showcase of how blockchain can go beyond speculation towards freedom of speech and truly borderless journalism.&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/enGJmBM4DHE&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
 &lt;h2 id=&#34;my-role&#34;&gt;my role&lt;/h2&gt;
 &lt;p&gt;I was curating the website development as creative technologist and was in charge of the implementation of the blockchain part.&lt;/p&gt;
 &lt;h2 id=&#34;where--with-whom&#34;&gt;where / with whom&lt;/h2&gt;
@@ -127,7 +138,7 @@ We were happy to know, that the idea and our implementation was positively recei
         <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/projects/avenue-pal/</guid>
-        <description>&lt;h1 id=&#34;what&#34;&gt;what&lt;/h1&gt;
+        <description>&lt;img src="http://localhost:1313/projects/avenue-pal/ap.jpeg" alt="Featured image of post project ｢ Avenue-Pal ｣ IT and Palliative Care" /&gt;&lt;h1 id=&#34;what&#34;&gt;what&lt;/h1&gt;
 &lt;p&gt;The project Avenue-Pal aimed to improve palliative care from three angles: hospitals, nursing homes and caregivers. In particular, metrics to optimize were the transfers, which often happen in the last phase of life (e.g. transfer of a terminally ill patient from a nursing home to a hospital). While overall goal was to develop a series of guidelines which hospitals, healthcare professionals and nursing home personal can follow, I was particularly involved in the development of an IT systems which would support the initiative.&lt;/p&gt;
 &lt;p&gt;The aim of the sub-project &amp;ldquo;Solution for Information &amp;amp; Communication&amp;rdquo; was to&lt;/p&gt;
 &lt;ol&gt;
@@ -159,12 +170,57 @@ The app contained curated and granularly prepared pieces of information, so that
 </description>
         </item>
         <item>
+        <title>project ｢ Dot Go ｣</title>
+        <link>http://localhost:1313/projects/dot-go/</link>
+        <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/projects/dot-go/</guid>
+        <description>&lt;img src="http://localhost:1313/projects/dot-go/dot-all.jpeg" alt="Featured image of post project ｢ Dot Go ｣" /&gt;&lt;h2 id=&#34;what&#34;&gt;What&lt;/h2&gt;
+&lt;p&gt;Dot Go is an &lt;a class=&#34;link&#34; href=&#34;https://dot-go.app/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;iOS app&lt;/a&gt; for visually impaired persons, which helps users identify objects and trigger actions. The core idea of the app is simple yet powerful - &lt;code&gt;real objects trigger actions&lt;/code&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;iPhone&amp;rsquo;s LiDAR to estimate the distance to the object accurately&lt;/li&gt;
+&lt;li&gt;computer vision algorithms to recognize common objects in the surroundings&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The workflow of the app:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Set a target object (e.g., socks)&lt;/li&gt;
+&lt;li&gt;Set up a scenario (e.g., play sound)&lt;/li&gt;
+&lt;li&gt;(Optionally - run shortcut, e.g., check out an item in Apple Reminders)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/IGdrJhuOo9A&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;As a result, as soon as a target object is recognized (user points smartphone at socks), the action is initiated (sound is played, and reminder is checked out). So a hypothetical user can now make lists of things easily, which is especially useful in, for example, unknown environments (while travelling).&lt;/p&gt;
+&lt;p&gt;The computer vision algorithm is optimized to work on-device, so no internet and no external API are required to use the app. The UI of the app is built and implemented by following accessibility guidelines, which were tested by real users.&lt;/p&gt;
+&lt;h2 id=&#34;my-role&#34;&gt;My Role&lt;/h2&gt;
+&lt;p&gt;I joined the project as a creative technologist when a proof of concept was done, but the requirements changed and the quality had to increase. So my first task was to redefine the scope, the metrics, and the desired outcome and get all stakeholders aligned about the new course of actions. Based on the created documentation, we decided to refresh the design and upgrade our object recognition algorithms, while having usability by the target audience (visually impaired users) as our main priority. After several sporty sprints, during which I led the developers team and kept in touch with designers and the agency, we rebuilt the app and delivered the project on time and in the required quality to the stakeholders.&lt;/p&gt;
+&lt;h2 id=&#34;where--with-whom&#34;&gt;Where / With Whom&lt;/h2&gt;
+&lt;p&gt;The app was implemented by &lt;a class=&#34;link&#34; href=&#34;https://www.hyperinteractive.de/dot-go/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Hyperinteractive Innovative Studio&lt;/a&gt; in collaboration with &lt;a class=&#34;link&#34; href=&#34;https://l2-labs.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;L2-Labs&lt;/a&gt; company. The product was created by the initiative of &lt;a class=&#34;link&#34; href=&#34;https://www.dotincorp.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Dot Inc.&lt;/a&gt; - an innovative Korean accessibility-focused company and a creative agency, &lt;a class=&#34;link&#34; href=&#34;https://www.house-of-communication.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Serviceplan&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;when&#34;&gt;When&lt;/h2&gt;
+&lt;p&gt;I joined the project in October 2020 (the project started in mid 2020) and was finished in Spring 2021.&lt;/p&gt;
+&lt;h2 id=&#34;so-what&#34;&gt;So What?&lt;/h2&gt;
+&lt;p&gt;The app won a relatively large number of awards (32), including the Eurobest Grand Prix and &lt;a class=&#34;link&#34; href=&#34;https://ifdesign.com/en/winner-ranking/project/dot-go/568645&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;iF design award&lt;/a&gt;, and won in multiple categories on various international platforms.&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>project ｢ Spike Sorting ｣ Multivariate Data</title>
         <link>http://localhost:1313/projects/spike-sorting-multivariate/</link>
         <pubDate>Wed, 18 Sep 2019 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/projects/spike-sorting-multivariate/</guid>
-        <description>&lt;h1 id=&#34;what&#34;&gt;what&lt;/h1&gt;
+        <description>&lt;img src="http://localhost:1313/projects/spike-sorting-multivariate/neuron-high.jpeg" alt="Featured image of post project ｢ Spike Sorting ｣ Multivariate Data" /&gt;&lt;h1 id=&#34;what&#34;&gt;what&lt;/h1&gt;
 &lt;p&gt;Automated classification of waveforms is an important method of data processing used in various fields of science, such as neuroscience, biomedical engineering, etc. This work shows the possibility of sorting special waveforms i.e. spikes recorded with multichannel electrode arrays by using principles of correlation and data-driven reference. A new method to estimate the number of k-means clusters by using a Monte Carlo method is introduced. To demonstrate the performance of the algorithm, generated signals were used, which are created to mimic multichannel recording of the extra-cellular neuronal signals.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Larionov, P., Juergens, T. &amp;amp; Schanze, T. (2019). Correlation-based spike sorting of multivariate data. Current Directions in Biomedical Engineering, 5(1), pp. 113-116. Retrieved 2 Oct. 2019, [](from doi:10.1515/cdbme-2019-0029)&lt;/p&gt;
@@ -219,7 +275,7 @@ Image: Death Registry Architecture&lt;/p&gt;
         <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/projects/spike-sorting-ecg/</guid>
-        <description>&lt;h2 id=&#34;what&#34;&gt;what&lt;/h2&gt;
+        <description>&lt;img src="http://localhost:1313/projects/spike-sorting-ecg/ecg.jpeg" alt="Featured image of post project ｢ Spike Sorting ｣ Adaptation for ECG" /&gt;&lt;h2 id=&#34;what&#34;&gt;what&lt;/h2&gt;
 &lt;p&gt;An adaptation of a spike sorting algorithm (published &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/projects/spike-sorting&#34; &gt;earlier&lt;/a&gt; by our research group) was performed in order to analyze ECG.
 Preliminary results show that a “spike sorting” of single ECG signals is possible, i.e. a sorting of P-waves, QRScomplexes, and T-waves. The clustering results indicate that differentiation between normal and anomalous P-waves, QRS-complexes, and T-waves is possible.&lt;/p&gt;
 &lt;blockquote&gt;
@@ -249,7 +305,7 @@ Publication was published as part of BMT 2018 scientific conference.&lt;/p&gt;
         <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/projects/spike-sorting/</guid>
-        <description>&lt;h1 id=&#34;what&#34;&gt;what&lt;/h1&gt;
+        <description>&lt;img src="http://localhost:1313/projects/spike-sorting/neuron.jpeg" alt="Featured image of post project ｢ Spike Sorting ｣" /&gt;&lt;h1 id=&#34;what&#34;&gt;what&lt;/h1&gt;
 &lt;p&gt;The ultimate goal of the spike sorting is to allocate a signal with a source. An algorithm which can effectively perform this task can be applied in wide variety of spheres, but we have selected as our target area the field of neuroscience. As the spike sorting is the first step to study brain and develop a brain-computer interface.&lt;/p&gt;
 &lt;p&gt;Goal of the project: development of an easy-to-use, resource-saving and fast algorithm of spike sorting, based on the calculation of correlations of spikes’ waveforms.&lt;/p&gt;
 &lt;blockquote&gt;
