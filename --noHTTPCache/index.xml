@@ -91,6 +91,34 @@
 </description>
         </item>
         <item>
+        <title>project ｢ AI Eric ｣</title>
+        <link>http://localhost:1313/projects/ai-eric/</link>
+        <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/projects/ai-eric/</guid>
+        <description>&lt;img src="http://localhost:1313/projects/ai-eric/eric.jpeg" alt="Featured image of post project ｢ AI Eric ｣" /&gt;&lt;h2 id=&#34;what---llm-based-ai-chatbot-trained-to-act-like-a-real-couple-therapist&#34;&gt;what - LLM based AI chatbot trained to act like a real couple therapist&lt;/h2&gt;
+&lt;p&gt;Digital twin of a real therapist, trained on decades of practice, dozens of books and interviews of &lt;a class=&#34;link&#34; href=&#34;https://www.eric-hegmann.de/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Eric Hegmann&lt;/a&gt; - popular German couple therapists.&lt;br&gt;
+The bot is powered by a &lt;a class=&#34;link&#34; href=&#34;https://openai.com/blog/openai-api&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;state-of-the-art large language model&lt;/a&gt; (LLM), which gives it enormous generalization boost. That said, to avoid any hallucinations and make the digital twin act like a real prototype (Eric himself), the bot was re-trained on large dataset of quesitons and ansewres, anonymized interventions and interviews held by Eric.&lt;br&gt;
+Besides that, we went extra-mile making the conversations to be stored in a secure way by implementing an encryption algorithm.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;AI-powered coach is able to democratize access to therapy on scale.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;my-role&#34;&gt;my role&lt;/h2&gt;
+&lt;p&gt;After I have started the initiative of building the AI-powered chatbots in the company (&lt;a class=&#34;link&#34; href=&#34;https://www.hyperinteractive.de/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Hyperinteractive Innovation Studio&lt;/a&gt;) and creating several proofs-of-concept, I acted as tech-lead and creative technologist throughout development of the solution for Eric Hegmann, which included leading the team of developers, prompt engineering and dataset processing. Besides that, I was planning and overseeing the launch of the solution, including test-phases, surveys, and analysis of the QA results.&lt;/p&gt;
+&lt;h2 id=&#34;where--with-whom&#34;&gt;where / with whom&lt;/h2&gt;
+&lt;p&gt;The implementation of the intelligent-website technology (sAIpien) is the property of Hyperinteractive Innovation Studio, Eric AI is whitelabel solution for one of Hyperinteractive&amp;rsquo;s clients. Significant during implementation contributions also came from Frédéric Urien, who took care of the solution&amp;rsquo;s setup, prompting and client&amp;rsquo;s communication in the first phase of the project, from Katya Kovaleva, who took care of the project&amp;rsquo;s timeline and social media announcements and from our CEO Dieter Pries, who was directing the project and brought the client in the first place. Of course, the AI coach implementation wouldn&amp;rsquo;t be possible without Eric&amp;rsquo;s support, open-mindness and enthusiasm.&lt;/p&gt;
+&lt;h2 id=&#34;when&#34;&gt;when&lt;/h2&gt;
+&lt;p&gt;2023-2024&lt;/p&gt;
+&lt;h2 id=&#34;so-what&#34;&gt;so what?&lt;/h2&gt;
+&lt;p&gt;As it was predicted in the &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/projects/dying-2045/&#34; &gt;chapter of the book&lt;/a&gt; I have participated - AI therapist (or, as it called in this case - coach) bots are starting to roll out. It is truly amazing, that I was able to took part in this development just one year after I made an educated guess, that such tools will be on a rise.&lt;br&gt;
+In the meantime, the AI Eric was tested by more than 130 people, with no negative feedback. The purpose of the first test was to figure out how stable the bot is. At the time of writing (December 2023) we are launching the second phase of testing, which would be aiming to improve quality of answers by interviewing a diverse demographic group of users after long-term testing.
+I am excited and hopeful, that this kind of solutions will make the therapy more accessible and will make the world a better place with happier people.&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>skills</title>
         <link>http://localhost:1313/skills/</link>
         <pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate>
@@ -437,21 +465,6 @@ Grade: A, (4.00, 98%)&lt;/li&gt;
 &lt;h2 id=&#34;so-what&#34;&gt;so what?&lt;/h2&gt;
 &lt;p&gt;&amp;ldquo;Dying in 2045&amp;rdquo; paints a vivid picture of a future where digital technology is deeply woven into our social fabric. It predicts significant transformations in healthcare, consumer behavior, and even our understanding of life and death. The book encourages readers to consider how these advancements might shape not just technology but our very humanity.&lt;/p&gt;
 &lt;p&gt;In my chapter, I predicted (the book was published in 2023, but all the drafts were ready more than year ago - editing and finalization takes time) the emergence of the next-level chatbots and their application as therapists.&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>project ｢ AI Eric ｣</title>
-        <link>http://localhost:1313/projects/ai-eric/</link>
-        <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/projects/ai-eric/</guid>
-        <description>&lt;h2 id=&#34;what&#34;&gt;what&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&#34;my-role&#34;&gt;my role&lt;/h2&gt;
-&lt;h2 id=&#34;where--with-whom&#34;&gt;where / with whom&lt;/h2&gt;
-&lt;h2 id=&#34;when&#34;&gt;when&lt;/h2&gt;
-&lt;h2 id=&#34;so-what&#34;&gt;so what?&lt;/h2&gt;
 </description>
         </item>
         <item>
