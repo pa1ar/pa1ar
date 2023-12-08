@@ -71,4 +71,4 @@ footer:
         other: Erstellt mit {{ .Generator }}
 
     designedBy:
-        other: Theme {{ .Theme }} von {{ .DesignedBy }} (verändert)
+        other: basiert auf Theme {{ .Theme }} 

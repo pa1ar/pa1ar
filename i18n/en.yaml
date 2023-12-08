@@ -70,4 +70,4 @@ footer:
         other: Built with {{ .Generator }}
 
     designedBy:
-        other: theme {{ .Theme }} by {{ .DesignedBy }} (altered)
+        other: based on theme {{ .Theme }}

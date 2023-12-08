@@ -29,12 +29,6 @@
     <loc>http://localhost:1313/skills/</loc>
     <lastmod>2023-11-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/skills/</loc>
-    <lastmod>2023-11-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/skills/</loc>
-    <lastmod>2023-11-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/macos/</loc>
     <lastmod>2023-10-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -51,18 +45,6 @@
     <lastmod>2023-10-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
-    <lastmod>2023-11-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/about/</loc>
-    <lastmod>2023-11-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/about/</loc>
-    <lastmod>2023-11-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/cv/</loc>
-    <lastmod>2023-11-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/cv/</loc>
     <lastmod>2023-11-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cv/</loc>
@@ -105,10 +87,6 @@
     <loc>http://localhost:1313/templates/project/</loc>
   </url><url>
     <loc>http://localhost:1313/templates/signal/</loc>
-  </url><url>
-    <loc>http://localhost:1313/contact/</loc>
-  </url><url>
-    <loc>http://localhost:1313/contact/</loc>
   </url><url>
     <loc>http://localhost:1313/contact/</loc>
   </url><url>

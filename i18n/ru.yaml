@@ -60,4 +60,4 @@ footer:
     builtWith:
         other: Создано при помощи {{ .Generator }}
     designedBy:
-        other: тема {{ .Theme }}, дизайн {{ .DesignedBy }} (видоизменена)
+        other: основано на {{ .Theme }}, дизайн {{ .DesignedBy }}
