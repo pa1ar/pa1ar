@@ -7,7 +7,7 @@ aliases:
   - lebenslauf
 license: false
 lastmod: 2023-11-14
-image: /page/about/plj.jpg
+image: page/about/plj.jpg
 comments: false
 ---
 

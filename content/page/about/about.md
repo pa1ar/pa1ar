@@ -12,7 +12,7 @@ menu:
     weight: -40
     params:
       icon: user-scan
-image: /page/about/pljs.jpg
+image: page/about/pljs.jpg
 comments: false
 ---
 ## Summary
