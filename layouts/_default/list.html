@@ -14,6 +14,8 @@
                 {{ if eq .Section "projects" }}
                     <!-- Display the count as 'N projects' -->
                     <h3 class="section-count">{{ len .Pages }} of N</h3>
+                    {{ $paginator := .Paginate (where .Site.RegularPages "Type" "projects") 20 }}
+                    
                 {{ else }}
                     <!-- For other sections, use the original display -->
                     <h3 class="section-count">{{ T "list.page" (len .Pages) }}</h3>

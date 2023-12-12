@@ -1,7 +1,7 @@
 ---
 title: "book ｢ Dying in 2045 ｣"
 weight: 
-description: 
+description: Exploration of digitalization's impact on society, healthcare and process of dying.
 project: true
 draft: false
 slug: dying-2045

@@ -1,13 +1,16 @@
+<!-- THIS FILE DOES NOT WORK AS INTENDED -->
+<!-- I have no idea why it doesn't work, but it doesn't. -->
+<!-- to adjust list view for projects, go to layouts/_default/list.html and adjust 'if' with the project selector -->
+
 {{ define "main" }}
   <div class="projects">
     <h1>Projects</h1>
-
-    {{ $projects := where .Site.RegularPages "Params.project" true }}
+    {{ $projects := where .Site.RegularPages "Type" "projects" }}
     {{ if $projects }}
       {{ range $projects }}
         <div class="list-item">
           <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-          <p>{{ .Summary }}</p>
+          <p>{{ .Description }}</p>
         </div>
       {{ end }}
     {{ else }}

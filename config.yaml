@@ -2,6 +2,8 @@ baseurl: https://1ar.io/
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 8
+params:
+  projectsPaginate: 20 # Specific setting for projects
 title: pavel 1ar.ionov
 description: inception of digital constructs
 copyright: Pavel Larionov
