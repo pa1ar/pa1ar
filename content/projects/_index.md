@@ -18,6 +18,8 @@ comments: false
 readingTime: false
 draft: 
 license: false
-paginate: 2
+
+widgets:
+  - x
 ---
 

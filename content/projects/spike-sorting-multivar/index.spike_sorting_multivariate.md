@@ -18,7 +18,7 @@ license: false
 # what  
 Automated classification of waveforms is an important method of data processing used in various fields of science, such as neuroscience, biomedical engineering, etc. This work shows the possibility of sorting special waveforms i.e. spikes recorded with multichannel electrode arrays by using principles of correlation and data-driven reference. A new method to estimate the number of k-means clusters by using a Monte Carlo method is introduced. To demonstrate the performance of the algorithm, generated signals were used, which are created to mimic multichannel recording of the extra-cellular neuronal signals.
 
-> Larionov, P., Juergens, T. & Schanze, T. (2019). Correlation-based spike sorting of multivariate data. Current Directions in Biomedical Engineering, 5(1), pp. 113-116. Retrieved 2 Oct. 2019, [](from doi:10.1515/cdbme-2019-0029)
+> Larionov, P., Juergens, T. & Schanze, T. (2019). Correlation-based spike sorting of multivariate data. Current Directions in Biomedical Engineering, 5(1), pp. 113-116. Retrieved 2 Oct. 2019, [doi:10.1515/cdbme-2019-0029](https://doi.org/10.1515/cdbme-2019-0029)
 
 # my role
 Main author and developer, project leader.

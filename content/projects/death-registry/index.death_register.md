@@ -6,7 +6,7 @@ project: true
 draft: false
 slug: death-register-germany
 date: 2019-06-01
-image: 
+image: podr.jpeg
 categories: 
   - signal
 toc: true
@@ -21,8 +21,9 @@ Currently, only deaths in hospitals are reported, which is seen as inadequate fo
 
 > George, W., Fritz, T., Papke, J., Weber, K., & Larionov, P. (2019). Braucht die Versorgungsforschung in Deutschland ein Sterbeortregister? in Monitor Versorgungsforschung (06/19), S. 57-60 doi: [10.24945/MVF.06.19.1866-0533.2191](https://www.monitor-versorgungsforschung.de/abstract/braucht-die-versorgungsforschung-in-deutschland-ein-sterbeortregister/?cookie-state-change=1701386391787).
 
-![](projects/death_places_registry.png)
-Image: Death Registry Architecture
+![Control Function for the Places of Death Register](scheme.jpg)  
+
+
 # my role
 Co-author, data visualization.
 # where / with whom  
