@@ -1,2 +1,4 @@
+.gitignore
 .obsidian/
-.--noHTTPCache/
+./.--noHTTPCache/
+.vscode/
