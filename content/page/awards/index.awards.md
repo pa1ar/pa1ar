@@ -11,7 +11,7 @@ menu:
     weight: -45
     params:
       icon: asterisk-simple
-image: 
+image: awards.jpeg
 comments: false
 ---
 
