@@ -214,10 +214,17 @@ menu:
           params:
               icon: brand-threads
 
+        - identifier: tiktok
+          name: Tiktok
+          url: https://www.tiktok.com/@pa1ario
+          weight: 3
+          params:
+              icon: brand-tiktok
+
         - identifier: linkedin
           name: LinkedIn
           url: https://www.linkedin.com/in/pavel-larionov/
-          weight: 3
+          weight: 4
           params:
               icon: brand-linkedin
 

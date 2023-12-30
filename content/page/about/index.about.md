@@ -51,6 +51,9 @@ I am thrilled about the boundless potential of human-machine symbiosis, and neve
 
 **List of skills is [here](/skills).** 
 
+![](logos_strip.png)
+**List of awards is [here](/awards).** 
+
 -----
 ## Professional
 

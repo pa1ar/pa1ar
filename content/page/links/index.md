@@ -4,7 +4,7 @@ description: "feel free to use these referral links"
 
 menu:
   main:
-    weight: -50
+    weight: -100
     params:
       icon: link
 
