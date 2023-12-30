@@ -47,6 +47,25 @@ Learn more about the Dot Go project [here](/projects/dot-go/).
 | [🥇 The Andy's](https://andys.adforum.com/award-organization/6650193/showcase/2023/ad/34656131) | gold (Reset) |
 | [🥇 The Andy's](https://andys.adforum.com/award-organization/6650193/showcase/2023/ad/34656131) | gold (Idea) |
 
+### The Truth Wins
+Learn more about the Truth Wins project [here](/projects/the-truth-wins/).
+
+| Award | Category |
+| --- | --- |
+| [🥈 One Club](https://www.oneclub.org/awards/theoneshow/-award/49347/the-truth-wins) | silver (Social Post / Single Platform Series) |
+| [🎖️ One Club](https://www.oneclub.org/awards/theoneshow/-award/48161/the-truth-wins) | merit (Social Media Post / Series) |
+| [🎖️ One Club](https://www.oneclub.org/awards/theoneshow/-award/48724/the-truth-wins) | merit (Online Community Platform / Use of Existing Platform) |
+| [🎖️ One Club](https://www.oneclub.org/awards/theoneshow/-award/48168/the-truth-wins) | merit (Non-traditional & Guerrilla Marketing) |
+| [🎖️ One Club](https://www.oneclub.org/awards/theoneshow/-award/48724/the-truth-wins) | merit (Online Community Platform / Use of Existing Platform) |
+| [🥉 ADC (Art Directors Club)](https://www.oneclub.org/awards/adcawards/-award/46887/the-truth-wins) | bronze (Design for Good / Advertising - Single) |
+| [🎖️ ADC (Art Directors Club)](https://www.oneclub.org/awards/adcawards/-award/47322/the-truth-wins) | merit (Craft in Online / Mobile Apps / Content Strategy) |
+| [🎖️ ADC (Art Directors Club)](https://www.oneclub.org/awards/adcawards/-award/46936/the-truth-wins) | merit (Direct / Digital - Single) |
+| [🥈 Clio Awards](https://clios.com/awards/winner/public-relations/reporters-without-borders-rsf/the-truth-wins-130176) | silver (Public Relations / Cause Related) |
+| [🥈 Clio Awards](https://clios.com/awards/winner/public-relations/reporters-without-borders-rsf/the-truth-wins-130311) | silver (Public Relations / Public Affairs) |
+| [🥈 Clio Awards](https://clios.com/awards/winner/social-media/reporters-without-borders-rsf/the-truth-wins-130319) | silver (Social Media / Single Platform) |
+| [🥉 Clio Awards](https://clios.com/awards/winner/digital-mobile/reporters-without-borders-rsf/the-truth-wins-130312) | bronze (Digital/Mobile / Other) |
+| [shortlist Clio Awards](https://clios.com/awards/winner/media/reporters-without-borders-rsf/the-truth-wins-130318) | shortlist (Media / Social Media) |
+
 ## 2022
 ### Dot Go App
 Learn more about the Dot Go project [here](/projects/dot-go/).
