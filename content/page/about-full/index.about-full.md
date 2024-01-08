@@ -15,6 +15,10 @@ With the Master of Science degree in Biomedical Engineering, technical project l
 
 As a Creative Technologist at HyperInteractive Innovation Studio, I engage with teams to turn imaginative ideas into tangible solutions. Hyperinteractive's projects often sit at the crosssection of creativity and technology, aimed at solving problems or creating value for the clients. Notable projects include developing an award-winning iOS app [Dot Go](/projects/dot-go) for the visually impaired, [The Truth Wins](/projects/the-truth-wins) campaign to bypass censorship and igniting AI initiatives within the company, manifested by one of the latest projects - [AI Eric](/projects/ai-eric) relationship coach.
 
+<a href="/awards">
+  <img src="logos_strip.png" alt="logos strip">
+</a>
+
 Earlier, I was working on projects in the field of biomedical technology, contributed to neuroscience research by developing a [spike sorting](/projects/spike-sorting) algorithm, and leading a project to improve [palliative care](/projects/avenue-pal) through tech-enabled solutions. Alongside, I've always enjoyed sharing knowledge, be it through tutoring engineering subjects in the lab of my university, leading martial arts groups for kids and adults, or introducing collaborative digital tools for perpetual knowledge management to the co-workers.
 
 I am thrilled about the boundless potential of human-machine symbiosis, and never stop exploring new ways to harness technology for meaningful solutions.
@@ -56,7 +60,7 @@ Hyperinteractive Innovation Studio | Oct 2021 - present
 - Delivered comprehensive reports, capturing major milestones of the projects to the stakeholders.
 
 **Significant Contributions:**
-- Projects with my direct participation as leader of multidisciplinary development units, creative technologist received **more than 50 international industry awards within 2 years of assignment**, including iF design awards, Cannes Liones, Eurobest, New York Festival, Art Directors Club etc.
+- Projects with my direct participation as leader of multidisciplinary development units, creative technologist received **more than 50 international industry awards within 2 years of assignment**, including iF design awards, Cannes Liones, Eurobest, New York Festival, Art Directors Club etc. See full list of awards [1ar.io/awards](/awards).
 - Initiated and led AI development initiative, successfully integrating AI solutions in various projects.
 - Initiated innovation-focused knowledge exchange within the company, which since then is held on weekly basis and was the basis for external workshops for clients and partners.
 

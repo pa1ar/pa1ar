@@ -21,6 +21,10 @@ With the Master of Science degree in Biomedical Engineering, technical project l
 
 As a Creative Technologist at HyperInteractive Innovation Studio, I engage with teams to turn imaginative ideas into tangible solutions. Hyperinteractive's projects often sit at the crosssection of creativity and technology, aimed at solving problems or creating value for the clients. Notable projects include developing an award-winning iOS app [Dot Go](/projects/dot-go) for the visually impaired, [The Truth Wins](/projects/the-truth-wins) campaign to bypass censorship and igniting AI initiatives within the company, manifested by one of the latest projects - [AI Eric](/projects/ai-eric) relationship coach.
 
+<a href="/awards">
+  <img src="logos_strip.png" alt="logos strip">
+</a>
+
 Earlier, I was working on projects in the field of biomedical technology, contributed to neuroscience research by developing a [spike sorting](/projects/spike-sorting) algorithm, and leading a project to improve [palliative care](/projects/avenue-pal) through tech-enabled solutions. Alongside, I've always enjoyed sharing knowledge, be it through tutoring engineering subjects in the lab of my university, leading martial arts groups for kids and adults, or introducing collaborative digital tools for perpetual knowledge management to the co-workers.
 
 I am thrilled about the boundless potential of human-machine symbiosis, and never stop exploring new ways to harness technology for meaningful solutions.
@@ -51,11 +55,10 @@ I am thrilled about the boundless potential of human-machine symbiosis, and neve
 
 **List of skills is [here](/skills).** 
 
-![](logos_strip.png)
-**List of awards is [here](/awards).** 
-
 -----
 ## Professional
+
+![delivering a keynote, Cannes Lions, 2022](cannes-2.JPG) ![Serviceplan troops](cannes-3.JPG)
 
 ### Current Place of Work:
 [**Hyperinteractive Innovation Studio**](https://hyperinteractive.de)  
@@ -84,6 +87,8 @@ What I do at Hyperinteractive:
 **My full CV can be found [here](/cv).**
 
 ## Publications
+
+![presenting a paper about spikesorting](bmt-6.jpeg) ![BMT scientific conference, 2019](bmt-5.jpeg)
 
 1. [**Digitalization, Scenarios of Dying a Digitalized Society**](/projects/dying-2045)
 2. [**Correlation-based Spike Sorting of Multivariate Data**](/projects/spike-sorting-multivariate)
