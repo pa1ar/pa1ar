@@ -25,12 +25,6 @@ Maybe someday we will have an easier way, but for now there is a workaround.
 The trick is to **simulate drag-and-drop** while inside of the app.  
 In other words, we need force the green  `+`  sign to appear.
 
-<!-- <div align="center">
-  <img src="apple-note-1.jpeg" alt="1ar.io here is a textual URL" width="50%">
-  <br>
-  <small style="color: rgba(255, 255, 255, 0.7);">1ar.io here is a textual URL</small>
-</div> -->
-
 1. create/open a note
 2. paste/type textual URL to the note
 3. dismiss keyboard (swipe down outside of the keyboard)
@@ -67,8 +61,8 @@ You can do the same on MacOS, but the process is a bit different and even more w
 
 ![pick URL from the page you want to create thumbnail for](macos-1.jpg) ![drop it off to the note](macos-2.jpg)
 
-Here is a video to demonstrate the process:
+Here is a video to demonstrate the process on macos:
 
-<!-- {{< youtube 8T088LlOxko >}} -->
+{{< youtube 0AETyMolDCw >}}
 
-I hope it helps and would be happy if you could let me know if you can reproduce this. Feel free drop a comment here, [tag/DM me on 𝕏](https://x.com/pa1ar) or drop a comment on [YouTube](https://www.youtube.com/@pa1ar)/[TikTok](https://www.tiktok.com/@1ar.io).
+I hope it helps and would be happy if you could let me know if you can reproduce this. Feel free drop a comment here, [tag/DM me on 𝕏](https://x.com/pa1ar) or drop a comment on [YouTube](https://www.youtube.com/@pa1ar)/[TikTok](https://www.tiktok.com/@1ar.io/video/7322218545662807329?is_from_webapp=1&sender_device=pc&web_id=7319913510544295457).
