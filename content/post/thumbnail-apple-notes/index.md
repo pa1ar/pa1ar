@@ -3,6 +3,7 @@ title: "How to create a preview thumbnail for a ULR in Apple Notes on iOS and Ma
 description: Creating thumbnails for URLs from within the Apple Notes
 image: thumbnail-generated.jpeg
 date: 2024-01-09T19:07:02+01:00
+slug: thumbnail-apple-notes
 
 categories:
   - noise
@@ -36,6 +37,7 @@ In other words, we need force the green  `+`  sign to appear.
 4. tap and hold on the URL
 5. move it out of the way so that you can see the body of the note
 6. tap with another finger on the body of the note (goal is to call the keyboard again)
+- alternative: tap on UNDO (optionally on redo - to preserve the state of the note). *Discovered by [@soundsgoodtome on YouTube](https://www.youtube.com/shorts/8T088LlOxko).*
 7. at that point, green plus should appear near the plate with the URL you should still be holding with your finger
 8. point with the cursor where you would like to place the thumbnail
 9. remove finger from the screen to paste the thumbnail
@@ -67,6 +69,6 @@ You can do the same on MacOS, but the process is a bit different and even more w
 
 Here is a video to demonstrate the process:
 
-{{< youtube 8T088LlOxko >}}
+<!-- {{< youtube 8T088LlOxko >}} -->
 
 I hope it helps and would be happy if you could let me know if you can reproduce this. Feel free drop a comment here, [tag/DM me on 𝕏](https://x.com/pa1ar) or drop a comment on [YouTube](https://www.youtube.com/@pa1ar)/[TikTok](https://www.tiktok.com/@1ar.io).
