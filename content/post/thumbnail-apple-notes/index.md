@@ -65,4 +65,4 @@ Here is a video to demonstrate the process on macos:
 
 {{< youtube 0AETyMolDCw >}}
 
-I hope it helps and would be happy if you could let me know if you can reproduce this. Feel free drop a comment here, [tag/DM me on 𝕏](https://x.com/pa1ar) or drop a comment on [YouTube](https://www.youtube.com/@pa1ar)/[TikTok](https://www.tiktok.com/@1ar.io/video/7322218545662807329?is_from_webapp=1&sender_device=pc&web_id=7319913510544295457).
+I hope it helps and would be happy if you could let me know if you can reproduce this. Feel free drop a comment here, [tag/DM me on 𝕏](https://x.com/pa1ar/status/1744852069385994705?s=20) or drop a comment on [YouTube](https://www.youtube.com/@pa1ar)/[TikTok](https://www.tiktok.com/@1ar.io/video/7322218545662807329?is_from_webapp=1&sender_device=pc&web_id=7319913510544295457).
