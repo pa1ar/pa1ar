@@ -1,13 +1,366 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Pages on 1ar.io</title>
+        <title>Pages on pavel 1ar.ionov</title>
         <link>https://1ar.io/page/</link>
-        <description>Recent content in Pages on 1ar.io</description>
+        <description>Recent content in Pages on pavel 1ar.ionov</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Pavel Larionov</copyright>
-        <lastBuildDate>Sun, 05 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://1ar.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 30 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://1ar.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>awards</title>
+        <link>https://1ar.io/awards/</link>
+        <pubDate>Sat, 30 Dec 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://1ar.io/awards/</guid>
+        <description>&lt;img src="https://1ar.io/awards/awards.jpeg" alt="Featured image of post awards" /&gt;&lt;p&gt;&lt;img src=&#34;https://1ar.io/awards/logos_rectangle.png&#34;
+	width=&#34;1920&#34;
+	height=&#34;1440&#34;
+	srcset=&#34;https://1ar.io/awards/logos_rectangle_hu2199d4932ea3be3bfaa8d67fce680080_116081_480x0_resize_box_3.png 480w, https://1ar.io/awards/logos_rectangle_hu2199d4932ea3be3bfaa8d67fce680080_116081_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;320px&#34;
+	
+&gt;
+&lt;strong&gt;Full list of projects is &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects&#34; &gt;here&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;2023&#34;&gt;2023&lt;/h2&gt;
+&lt;h3 id=&#34;dot-go-app&#34;&gt;Dot Go App&lt;/h3&gt;
+&lt;p&gt;Learn more about the Dot Go project &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/dot-go/&#34; &gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Award&lt;/th&gt;
+&lt;th&gt;Category&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://ifdesign.com/en/winner-ranking/project/dot-go/568645&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;🏆 iF Design Award&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;design award (Communication / Apps / Software)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://ifdesign.com/en/winner-ranking/project/dot-go/563656&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;🏆 iF Design Award&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;design award (User Interface / Digital Media Interfaces)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://clios.com/awards/winner/digital-mobile-social-media-craft/dot/dot-go-the-first-object-interaction-app-for-the-vi-132090&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;🥈 Clio Awards&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;silver (Digital/Mobile &amp;amp; Social Media Craft)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://clios.com/awards/winner/innovation/dot/dot-go-the-first-object-interaction-app-for-the-vi-132092&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;🥈 Clio Awards&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;silver (Innovation)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://clios.com/awards/winner/creative-use-of-data/dot/dot-go-the-first-object-interaction-app-for-the-vi-132091&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;🥉 Clio Awards&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;bronze (Creative Use of Data)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://clios.com/awards/winner/digital-mobile/dot/dot-go-the-first-object-interaction-app-for-the-vi-132089&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;🥉 Clio Awards&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;bronze (Digital/Mobile)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://clios.com/awards/winner/media/dot/dot-go-the-first-object-interaction-app-for-the-vi-136087&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;shortlist Clio Awards&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;shortlist (Media)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.dandad.org/awards/professional/2023/236525/dot-go-the-first-object-interaction-app-for-the-visually-impaired/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;✏️ d&amp;amp;ad&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;graphite (Experiential / Use of MR)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.dandad.org/awards/professional/2023/236525/dot-go-the-first-object-interaction-app-for-the-visually-impaired/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;✏️ d&amp;amp;ad&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;graphite (Direct / Innovation)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.dandad.org/awards/professional/2023/236525/dot-go-the-first-object-interaction-app-for-the-visually-impaired/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;🪵 d&amp;amp;ad&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;silver (Digital / Health &amp;amp; Wellbeing)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.dandad.org/awards/professional/2023/236525/dot-go-the-first-object-interaction-app-for-the-visually-impaired/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;shortlist d&amp;amp;ad&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;shortlist (Digital / Use of Technology)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://winners.webbyawards.com/2023/apps-dapps-and-software/app-features/best-practices/246824/dot-go-the-first-object-interaction-app-for-the-visually-impaired&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;🥇 webby&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;webby (Apps, dApps and Software Best Practices)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://winners.webbyawards.com/2023/apps-dapps-and-software/app-features/best-practices/246824/dot-go-the-first-object-interaction-app-for-the-visually-impaired&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;🥇 webby&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;webby Apps, dApps and Software Best Practices)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://winners.webbyawards.com/2023/apps-dapps-and-software/app-features/best-practices/246824/dot-go-the-first-object-interaction-app-for-the-visually-impaired&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;🥇 webby&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;People&amp;rsquo;s Voice Award (Apps, dApps and Software / Experimental &amp;amp; Innovation 2023)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.oneclub.org/awards/adcawards/-award/47321/dot-go&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;🎖️ ADC (Art Directors Club)&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;merit (Design for Good / Interactive)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.oneclub.org/awards/theoneshow/-award/48681/dot-go&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;🥇 One Club&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;gold (Innovation &amp;amp; Transformation / Innovation in Interactive, Online &amp;amp; Mobile)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.oneclub.org/awards/theoneshow/-award/48691/dot-go&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;🥈 One Club&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;silver (Augmented, Virtual &amp;amp; Mixed Reality)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.oneclub.org/awards/theoneshow/-award/47850/dot-go&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;🥉 One Club&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;bronze (Use of Technology)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.oneclub.org/awards/theoneshow/-award/48691/dot-go&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;🎖️ One Club&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;merit (Digital Design)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://andys.adforum.com/award-organization/6650193/showcase/2023/ad/34656131&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;🥇 The Andy&amp;rsquo;s&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;gold (Reset)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://andys.adforum.com/award-organization/6650193/showcase/2023/ad/34656131&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;🥇 The Andy&amp;rsquo;s&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;gold (Idea)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;the-truth-wins&#34;&gt;The Truth Wins&lt;/h3&gt;
+&lt;p&gt;Learn more about the Truth Wins project &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/the-truth-wins/&#34; &gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Award&lt;/th&gt;
+&lt;th&gt;Category&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.oneclub.org/awards/theoneshow/-award/49347/the-truth-wins&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;🥈 One Club&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;silver (Social Post / Single Platform Series)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.oneclub.org/awards/theoneshow/-award/48161/the-truth-wins&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;🎖️ One Club&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;merit (Social Media Post / Series)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.oneclub.org/awards/theoneshow/-award/48724/the-truth-wins&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;🎖️ One Club&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;merit (Online Community Platform / Use of Existing Platform)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.oneclub.org/awards/theoneshow/-award/48168/the-truth-wins&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;🎖️ One Club&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;merit (Non-traditional &amp;amp; Guerrilla Marketing)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.oneclub.org/awards/theoneshow/-award/48724/the-truth-wins&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;🎖️ One Club&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;merit (Online Community Platform / Use of Existing Platform)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.oneclub.org/awards/adcawards/-award/46887/the-truth-wins&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;🥉 ADC (Art Directors Club)&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;bronze (Design for Good / Advertising - Single)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.oneclub.org/awards/adcawards/-award/47322/the-truth-wins&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;🎖️ ADC (Art Directors Club)&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;merit (Craft in Online / Mobile Apps / Content Strategy)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.oneclub.org/awards/adcawards/-award/46936/the-truth-wins&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;🎖️ ADC (Art Directors Club)&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;merit (Direct / Digital - Single)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://clios.com/awards/winner/public-relations/reporters-without-borders-rsf/the-truth-wins-130176&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;🥈 Clio Awards&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;silver (Public Relations / Cause Related)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://clios.com/awards/winner/public-relations/reporters-without-borders-rsf/the-truth-wins-130311&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;🥈 Clio Awards&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;silver (Public Relations / Public Affairs)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://clios.com/awards/winner/social-media/reporters-without-borders-rsf/the-truth-wins-130319&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;🥈 Clio Awards&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;silver (Social Media / Single Platform)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://clios.com/awards/winner/digital-mobile/reporters-without-borders-rsf/the-truth-wins-130312&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;🥉 Clio Awards&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;bronze (Digital/Mobile / Other)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://clios.com/awards/winner/media/reporters-without-borders-rsf/the-truth-wins-130318&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;shortlist Clio Awards&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;shortlist (Media / Social Media)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;2022&#34;&gt;2022&lt;/h2&gt;
+&lt;h3 id=&#34;dot-go-app-1&#34;&gt;Dot Go App&lt;/h3&gt;
+&lt;p&gt;Learn more about the Dot Go project &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/dot-go/&#34; &gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Award&lt;/th&gt;
+&lt;th&gt;Category&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://1ar.io/awards/cannes-lions-Brand_Experience___Activation_-_Winner.pdf&#34; &gt;🥈 Cannes Lions&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;silver (Brand Experience &amp;amp; Activation)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nyfadvertising.com/Winners/List/e0f7632b-8c97-4c2f-b450-dcdacdc7a3ba&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;🥇 New York Festivals&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;gold (Innovation: Technology)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nyfadvertising.com/Winners/List/e0f7632b-8c97-4c2f-b450-dcdacdc7a3ba&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;🥈 New York Festivals&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;silver (Best Innovation)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nyfadvertising.com/Winners/List/e0f7632b-8c97-4c2f-b450-dcdacdc7a3ba&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;🥈 New York Festivals&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;silver (Product Innovation)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.nyfadvertising.com/Winners/List/e0f7632b-8c97-4c2f-b450-dcdacdc7a3ba&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;🥈 New York Festivals&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;silver (Apps)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://winners.epica-awards.com/2022/winner/63-00635-DIG/serviceplan-germany/dot-go-the-first-object-interaction-app-for-the-visually-impaired&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;🥇 Epica Awards&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;gold (Apps &amp;amp; Games)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://winners.epica-awards.com/2022/winner/35-00634-DIG/serviceplan-germany/dot-go-the-first-object-interaction-app-for-the-visually-impaired&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;🥈 Epica Awards&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;silver (Creative Use of AI)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;the-truth-wins-1&#34;&gt;The Truth Wins&lt;/h3&gt;
+&lt;p&gt;Learn more about the Truth Wins project &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/the-truth-wins/&#34; &gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Award&lt;/th&gt;
+&lt;th&gt;Category&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.lovethework.com/en-GB/awards/pr-196?year=2022&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;🥈 Cannes Lions&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;silver (PR Lions)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.lovethework.com/en-GB/awards/sustainable-development-goals-200?year=2022&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;🥈 Cannes Lions&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;bronze (Sustainable Development Goals Lions)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.lovethework.com/en-GB/eurobest/media?entry_type_id=7&amp;amp;year=2022&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;🥇 Eurobest&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;gold (Media)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.lovethework.com/en-GB/eurobest/media?entry_type_id=7&amp;amp;year=2022&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;🥉 Eurobest&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;bronze (Culture &amp;amp; Context)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.lovethework.com/en-GB/eurobest/pr?entry_type_id=11&amp;amp;year=2022&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;🥉 Eurobest&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;bronze (Social Engagement &amp;amp; Influencer Marketing)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.lovethework.com/en-GB/eurobest/social-influencer?entry_type_id=5&amp;amp;year=2022&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;🥉 Eurobest&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;bronze (Social Insights &amp;amp; Engagement)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.lovethework.com/en-GB/eurobest/direct?entry_type_id=6&amp;amp;year=2022&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;shortlist Eurobest&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;shortlist (Direct)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.lovethework.com/en-GB/eurobest/social-influencer?entry_type_id=5&amp;amp;year=2022&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;shortlist Eurobest&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;shortlist (Social &amp;amp; Influencer)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.geretyawards.com/?action=ows:entries.details&amp;amp;e=95871&amp;amp;project_year=2022&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;🥇 Gerety Awards&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;gold (MEDIA CUT - MOBILE)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.geretyawards.com/?action=ows:entries.details&amp;amp;e=95839&amp;amp;project_year=2022&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;🥈 Gerety Awards&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;silver (WORK FOR GOOD CUT - MOBILE)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.geretyawards.com/?action=ows:entries.details&amp;amp;e=95840&amp;amp;project_year=2022&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;🥉 Gerety Awards&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;bronze (COMMUNICATION CUT - MOBILE)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;2021&#34;&gt;2021&lt;/h2&gt;
+&lt;h3 id=&#34;dot-go-app-2&#34;&gt;Dot Go App&lt;/h3&gt;
+&lt;p&gt;Learn more about the Dot Go project &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/dot-go/&#34; &gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Award&lt;/th&gt;
+&lt;th&gt;Category&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://www2.eurobest.com/winners/2021/innovation/index.cfm?award=1&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;🏆 Eurobest&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;grand prix (Innovation)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://www2.eurobest.com/winners/2021/interactive/entry.cfm?entryid=2906&amp;amp;award=3&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;🥈 Eurobest&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;silver (Digital Craft)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        </item>
+        <item>
         <title>skills</title>
         <link>https://1ar.io/skills/</link>
         <pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate>
@@ -58,15 +411,150 @@
         <pubDate>Sat, 14 Oct 2023 00:00:00 +0000</pubDate>
         
         <guid>https://1ar.io/about/</guid>
-        <description>&lt;img src="https://1ar.io/page/about/pl.jpeg" alt="Featured image of post about" /&gt;&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+        <description>&lt;img src="https://1ar.io/about/pljs.JPG" alt="Featured image of post about" /&gt;&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 &lt;p&gt;With the Master of Science degree in Biomedical Engineering, technical project leading experience, scientific and international relations background, I am driven by the endless potential of technology and innovation to bridge gaps, solve real-world problems, and enhance lives.&lt;/p&gt;
-&lt;p&gt;As a Creative Technologist at HyperInteractive Innovation Studio, I engage with teams to turn imaginative ideas into tangible solutions. Our projects often sit at the nexus of creativity and technology, aimed at solving problems or creating value for our clients. Notable projects include developing an award-winning iOS app Dot Go for the visually impaired and igniting AI initiatives within the company.&lt;/p&gt;
-&lt;p&gt;Earlier, I was working on biomedical engineering projects, contributing to neuroscience research, and leading a project to improve palliative care through tech-enabled solutions. Alongside, I&amp;rsquo;ve always enjoyed sharing knowledge, be it through tutoring engineering subjects in the lab of my university, leading martial arts groups for kids and adults, or introducing collaborative digital tools for perpetual knowledge management.&lt;/p&gt;
-&lt;p&gt;I am thrilled about the boundless potential of human-machine symbiosis, and tirelessly explore new ways to harness technology for meaningful solutions.&lt;/p&gt;
+&lt;p&gt;As a Creative Technologist at HyperInteractive Innovation Studio, I engage with teams to turn imaginative ideas into tangible solutions. Hyperinteractive&amp;rsquo;s projects often sit at the crosssection of creativity and technology, aimed at solving problems or creating value for the clients. Notable projects include developing an award-winning iOS app &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/dot-go&#34; &gt;Dot Go&lt;/a&gt; for the visually impaired, &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/the-truth-wins&#34; &gt;The Truth Wins&lt;/a&gt; campaign to bypass censorship and igniting AI initiatives within the company, manifested by one of the latest projects - &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/ai-eric&#34; &gt;AI Eric&lt;/a&gt; relationship coach.&lt;/p&gt;
+&lt;a href=&#34;https://1ar.io/awards&#34;&gt;
+  &lt;img src=&#34;logos_strip.png&#34; alt=&#34;logos strip&#34;&gt;
+&lt;/a&gt;
+&lt;p&gt;Earlier, I was working on projects in the field of biomedical technology, contributed to neuroscience research by developing a &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/spike-sorting&#34; &gt;spike sorting&lt;/a&gt; algorithm, and leading a project to improve &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/avenue-pal&#34; &gt;palliative care&lt;/a&gt; through tech-enabled solutions. Alongside, I&amp;rsquo;ve always enjoyed sharing knowledge, be it through tutoring engineering subjects in the lab of my university, leading martial arts groups for kids and adults, or introducing collaborative digital tools for perpetual knowledge management to the co-workers.&lt;/p&gt;
+&lt;p&gt;I am thrilled about the boundless potential of human-machine symbiosis, and never stop exploring new ways to harness technology for meaningful solutions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;My full CV can be found &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/cv&#34; &gt;here&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;areas-of-expertise&#34;&gt;Areas of Expertise&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Innovation &amp;amp; Digital transformation&lt;/li&gt;
+&lt;li&gt;Innovation Direction&lt;/li&gt;
+&lt;li&gt;Strategic Planning &amp;amp; Execution&lt;/li&gt;
+&lt;li&gt;Research &amp;amp; Development Leading &amp;amp; Execution&lt;/li&gt;
+&lt;li&gt;International Business &amp;amp; Relations&lt;/li&gt;
+&lt;li&gt;Idea-to-launch Product Development&lt;/li&gt;
+&lt;li&gt;Client Interaction and Engagement&lt;/li&gt;
+&lt;li&gt;Scientific Publications&lt;/li&gt;
+&lt;li&gt;Public Speaking and Workshop Facilitation&lt;/li&gt;
+&lt;li&gt;Coaching&lt;/li&gt;
+&lt;li&gt;Relationship Management&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;languages&#34;&gt;Languages&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;English: Fluent&lt;/li&gt;
+&lt;li&gt;German: Fluent&lt;/li&gt;
+&lt;li&gt;Russian: Native&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;List of skills is &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/skills&#34; &gt;here&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;professional&#34;&gt;Professional&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://1ar.io/about/cannes-2.JPG&#34;
+	width=&#34;9528&#34;
+	height=&#34;6328&#34;
+	srcset=&#34;https://1ar.io/about/cannes-2_hua316f685cb00ec9cec0ce4ee33af75ed_3609329_480x0_resize_q75_box.JPG 480w, https://1ar.io/about/cannes-2_hua316f685cb00ec9cec0ce4ee33af75ed_3609329_1024x0_resize_q75_box.JPG 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;delivering a keynote, Cannes Lions, 2022&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;150&#34;
+		data-flex-basis=&#34;361px&#34;
+	
+&gt; &lt;img src=&#34;https://1ar.io/about/cannes-3.JPG&#34;
+	width=&#34;9528&#34;
+	height=&#34;6328&#34;
+	srcset=&#34;https://1ar.io/about/cannes-3_hu9b0cdf39799b69c60b61aed0efcf3606_3304014_480x0_resize_q75_box.JPG 480w, https://1ar.io/about/cannes-3_hu9b0cdf39799b69c60b61aed0efcf3606_3304014_1024x0_resize_q75_box.JPG 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Serviceplan troops&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;150&#34;
+		data-flex-basis=&#34;361px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;current-place-of-work&#34;&gt;Current Place of Work:&lt;/h3&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://hyperinteractive.de&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;strong&gt;Hyperinteractive Innovation Studio&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+Official position: Creative Technologist&lt;br&gt;
+Since: Oct 2021&lt;/p&gt;
+&lt;p&gt;What I do at Hyperinteractive:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lead multidisciplinary technical development units for innovative digital projects, ensuring timely and quality delivery.&lt;/li&gt;
+&lt;li&gt;Prepare the architectural design of solutions encompassing sketches, diagrams, wireframes, roadmaps, and estimations.&lt;/li&gt;
+&lt;li&gt;Conduct case research, refine concepts based on initial briefs, and engage with clients during pitch and kickstart meetings to ensure alignment with project objectives.&lt;/li&gt;
+&lt;li&gt;Delivere comprehensive reports, capturing major milestones of the projects to the stakeholders.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Significant Contributions:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Projects with my direct participation as leader of multidisciplinary development units, creative technologist received &lt;strong&gt;more than 50 international industry awards within 2 years of assignment&lt;/strong&gt;, including iF design awards, Cannes Liones, Eurobest, New York Festival, Art Directors Club etc.&lt;/li&gt;
+&lt;li&gt;Initiated and led AI development initiative, successfully integrating AI solutions in various projects.&lt;/li&gt;
+&lt;li&gt;Initiated innovation-focused knowledge exchange within the company, which since then is held on weekly basis and was the basis for external workshops for clients and partners.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;My full CV can be found &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/cv&#34; &gt;here&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;M.Sc. Biomedical Engineering, University of Applied Sciences Mittelhessen | &lt;a class=&#34;link&#34; href=&#34;https://www.thm.de/site/en/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;thm.de&lt;/a&gt;  | 2017 - 2019&lt;/li&gt;
+&lt;li&gt;B.Sc. Biomedical Engineering, University of Applied Sciences Mittelhessen | &lt;a class=&#34;link&#34; href=&#34;https://www.thm.de/site/en/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;thm.de&lt;/a&gt; | 2013 - 2017&lt;/li&gt;
+&lt;li&gt;B.A. International Relations, Sarsen Amanzholov East-Kazakhstan State University | &lt;a class=&#34;link&#34; href=&#34;https://vku.edu.kz/en/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;vku.kz&lt;/a&gt; | 2007 - 2012&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;My full CV can be found &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/cv&#34; &gt;here&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://1ar.io/about/bmt-6.jpeg&#34;
+	width=&#34;1024&#34;
+	height=&#34;768&#34;
+	srcset=&#34;https://1ar.io/about/bmt-6_huc249a752feb2d084d015603019d41490_94391_480x0_resize_q75_box.jpeg 480w, https://1ar.io/about/bmt-6_huc249a752feb2d084d015603019d41490_94391_1024x0_resize_q75_box.jpeg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;presenting a paper about spikesorting&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;320px&#34;
+	
+&gt; &lt;img src=&#34;https://1ar.io/about/bmt-5.jpeg&#34;
+	width=&#34;1024&#34;
+	height=&#34;768&#34;
+	srcset=&#34;https://1ar.io/about/bmt-5_hue8809023e63696ff023dae6b529de093_129342_480x0_resize_q75_box.jpeg 480w, https://1ar.io/about/bmt-5_hue8809023e63696ff023dae6b529de093_129342_1024x0_resize_q75_box.jpeg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;BMT scientific conference, 2019&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;133&#34;
+		data-flex-basis=&#34;320px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/dying-2045&#34; &gt;&lt;strong&gt;Digitalization, Scenarios of Dying a Digitalized Society&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/spike-sorting-multivariate&#34; &gt;&lt;strong&gt;Correlation-based Spike Sorting of Multivariate Data&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/death-register-germany&#34; &gt;&lt;strong&gt;Does Healthcare Research in Germany Need a Register of Places of Death?&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/spike-sorting-ecg&#34; &gt;&lt;strong&gt;Adaption of a Spike Sorting Algorithm to ECG Signals&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/spike-sorting&#34; &gt;&lt;strong&gt;Correlation Based Spike Sorting&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;My full CV can be found &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/cv&#34; &gt;here&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Pavel&#39;s CV</title>
+        <link>https://1ar.io/cv/</link>
+        <pubDate>Sat, 14 Oct 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://1ar.io/cv/</guid>
+        <description>&lt;img src="https://1ar.io/cv/plj.JPG" alt="Featured image of post Pavel&#39;s CV" /&gt;&lt;p&gt;With the Master of Science degree in Biomedical Engineering, technical project leading experience, scientific and international relations background, I am driven by the endless potential of technology and innovation to bridge gaps, solve real-world problems, and enhance lives.&lt;/p&gt;
+&lt;p&gt;As a Creative Technologist at HyperInteractive Innovation Studio, I engage with teams to turn imaginative ideas into tangible solutions. Hyperinteractive&amp;rsquo;s projects often sit at the crosssection of creativity and technology, aimed at solving problems or creating value for the clients. Notable projects include developing an award-winning iOS app &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/dot-go&#34; &gt;Dot Go&lt;/a&gt; for the visually impaired, &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/the-truth-wins&#34; &gt;The Truth Wins&lt;/a&gt; campaign to bypass censorship and igniting AI initiatives within the company, manifested by one of the latest projects - &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/ai-eric&#34; &gt;AI Eric&lt;/a&gt; relationship coach.&lt;/p&gt;
+&lt;a href=&#34;https://1ar.io/awards&#34;&gt;
+  &lt;img src=&#34;logos_strip.png&#34; alt=&#34;logos strip&#34;&gt;
+&lt;/a&gt;
+&lt;p&gt;Earlier, I was working on projects in the field of biomedical technology, contributed to neuroscience research by developing a &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/spike-sorting&#34; &gt;spike sorting&lt;/a&gt; algorithm, and leading a project to improve &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/avenue-pal&#34; &gt;palliative care&lt;/a&gt; through tech-enabled solutions. Alongside, I&amp;rsquo;ve always enjoyed sharing knowledge, be it through tutoring engineering subjects in the lab of my university, leading martial arts groups for kids and adults, or introducing collaborative digital tools for perpetual knowledge management to the co-workers.&lt;/p&gt;
+&lt;p&gt;I am thrilled about the boundless potential of human-machine symbiosis, and never stop exploring new ways to harness technology for meaningful solutions.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;areas-of-expertise&#34;&gt;Areas of Expertise&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Innovation &amp;amp; Digital Transformation&lt;/li&gt;
 &lt;li&gt;Innovation Direction&lt;/li&gt;
 &lt;li&gt;Strategic Planning &amp;amp; Execution&lt;/li&gt;
 &lt;li&gt;Research &amp;amp; Development Leading &amp;amp; Execution&lt;/li&gt;
@@ -99,7 +587,7 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Significant Contributions:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Projects with my direct participation as leader of multidisciplinary development units, creative technologist received &lt;strong&gt;more than 50 international industry awards within 2 years of assignment&lt;/strong&gt;, including iF design awards, Cannes Liones, Eurobest, New York Festival, Art Directors Club etc.&lt;/li&gt;
+&lt;li&gt;Projects with my direct participation as leader of multidisciplinary development units, creative technologist received &lt;strong&gt;more than 50 international industry awards within 2 years of assignment&lt;/strong&gt;, including iF design awards, Cannes Liones, Eurobest, New York Festival, Art Directors Club etc. See full list of awards &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/awards&#34; &gt;1ar.io/awards&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;Initiated and led AI development initiative, successfully integrating AI solutions in various projects.&lt;/li&gt;
 &lt;li&gt;Initiated innovation-focused knowledge exchange within the company, which since then is held on weekly basis and was the basis for external workshops for clients and partners.&lt;/li&gt;
 &lt;/ul&gt;
@@ -227,7 +715,7 @@ Grade: A, (4.00, 98%)&lt;/li&gt;
 &lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Digitalization, Scenarios of Dying a Digitalized Society&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/dying-2045&#34; &gt;&lt;strong&gt;Digitalization, Scenarios of Dying a Digitalized Society&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;In: &lt;em&gt;How Will We Die in the Future?&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;Publisher: Psychosozial-Verlag, Date: Sep, 2023&lt;/li&gt;
@@ -237,7 +725,7 @@ Grade: A, (4.00, 98%)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Correlation-based Spike Sorting of Multivariate Data&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/spike-sorting-multivariate&#34; &gt;&lt;strong&gt;Correlation-based Spike Sorting of Multivariate Data&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Publisher: De Gruyter, Date: Sep 18, 2019&lt;/li&gt;
 &lt;li&gt;Larionov, P., Juergens, T. &amp;amp; Schanze, T. (2019). Current Directions in Biomedical Engineering, 5(1), pp. 113-116. &lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.1515/cdbme-2019-0029&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -246,7 +734,7 @@ Grade: A, (4.00, 98%)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Does Healthcare Research in Germany Need a Register of Places of Death?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/death-register-germany&#34; &gt;&lt;strong&gt;Does Healthcare Research in Germany Need a Register of Places of Death?&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Publisher: Monitor Versorgungsforschung, Date: Jun 1, 2019&lt;/li&gt;
 &lt;li&gt;George, W., Fritz, T., Papke, J., Weber, K., &amp;amp; Larionov, P. (2019). 12. 48-51. &lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.24945/MVF.06.19.1866-0533.2191&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -255,7 +743,7 @@ Grade: A, (4.00, 98%)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Adaption of a Spike Sorting Algorithm to ECG Signals&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/spike-sorting-ecg&#34; &gt;&lt;strong&gt;Adaption of a Spike Sorting Algorithm to ECG Signals&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Publisher: De Gruyter, Date: Sep 1, 2018&lt;/li&gt;
 &lt;li&gt;Larionov, P., Janssen J.-D. and Schanze T. (2018). Biomedical Engineering / Biomedizinische Technik, Volume 63, Issue s1, Page 394. &lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.1515/bmt-2018-6051&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -264,7 +752,7 @@ Grade: A, (4.00, 98%)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Correlation Based Spike Sorting&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/spike-sorting&#34; &gt;&lt;strong&gt;Correlation Based Spike Sorting&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Publisher: Pabst Science Publishers, Date: Mar 16, 2018&lt;/li&gt;
 &lt;li&gt;Larionov, P. and Schanze T. (2018). Automed 2018 - Villingen-Schwenningen, March 15-16, Automed 2018 in Villingen-Schwenningen Tagungsband, pp. 71-73.&lt;/li&gt;

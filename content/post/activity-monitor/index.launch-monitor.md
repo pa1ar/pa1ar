@@ -8,7 +8,7 @@ categories:
 tags:
   - macOS
   - tutorial
-weight: 1
+
 ---
 
 `/Users/USERNAME/Library/Services/Run Activity Monitor.workflow`

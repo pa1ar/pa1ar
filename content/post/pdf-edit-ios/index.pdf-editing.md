@@ -8,7 +8,6 @@ categories:
 tags:
   - macOS
   - tutorial
-weight: 1
 ---
 
 For the situations when you need to remove one or another page, or add additional page to you PDF file on iPhone.
