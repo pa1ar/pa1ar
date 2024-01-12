@@ -17,7 +17,7 @@ comments: false
 
 - Leading Research & Development units, full app lifecycle (idea-to-launch)
 - Concept creation and ideation for complex digital products and experiences
-- AI-driven personal workflow (prompt engineering, automation, acceleration, scaling)
+- Planning and creating AI-driven workflows (prompt engineering, automation, acceleration, scaling)
 - Agile or waterfall project delivery
 - Value-oriented application of AI-technologies 
 - Utility-oriented application of blockchain technologies
@@ -45,7 +45,7 @@ comments: false
 - Software concept design (including AI-powered applications)
 - Software architecture design
 - Python-, Swift-based rapid prototyping 
-- Reverse engineering (code/assets injection)
+- Algorithmic and AI-driven data analysis (e.g. user behavior, market research, etc.)
 - Creation of the block schemes, solution maps, user journeys, personas and technical documentation
 - Wireframes and low-fidelity prototypes creation (Figma)
 - Advanced skills in field of knowledge base and project management software (Notion, Asana, Google Sheets etc.) and software-based automation

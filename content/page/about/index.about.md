@@ -35,17 +35,18 @@ I am thrilled about the boundless potential of human-machine symbiosis, and neve
 
 ## Areas of Expertise
 
+- Idea-to-Launch Product Development Leadership
+- Research & Development: Leading & Execution 
+- AI: Solutions Planning & Protyping, Prompt Engineering
 - Innovation & Digital transformation
 - Innovation Direction
 - Strategic Planning & Execution
-- Research & Development Leading & Execution 
+- Automation, Acceleration, Scaling
 - International Business & Relations
-- Idea-to-launch Product Development
 - Client Interaction and Engagement
-- Scientific Publications
-- Public Speaking and Workshop Facilitation
+- Scientific Publications: Production & Reviewing
+- Public Speaking and Event Facilitation
 - Coaching
-- Relationship Management
 
 ### Languages
 
