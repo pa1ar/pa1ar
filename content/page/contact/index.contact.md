@@ -1,6 +1,6 @@
 ---
 title: contact
-description: "form to reach me out"
+description: "fill out the form to reach me out"
 license: false
 comments: false
 readingTime: false
@@ -12,5 +12,6 @@ menu:
       icon: forms
 ---
 
+Want to hire me short or long term? Here is what I can do.
 
 {{<contact>}}

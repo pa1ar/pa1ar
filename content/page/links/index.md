@@ -6,7 +6,7 @@ menu:
   main:
     weight: -100
     params:
-      icon: link
+      icon: settings-heart
 
 comments: false
 readingTime: false
