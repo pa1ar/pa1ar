@@ -37,6 +37,10 @@ links:
     description: VPN service with unlimited amount of simultaneously active clients connections (+30 days to any subscription plan)
     website: https://surfshark.club/friend/hdzrYxTX
     image: /images/logo-surfshark.png
+  - title: Smartsteuer
+    description: Tax declaration service for Germany (5€ off for your tax declaration)
+    website: https://www.smartsteuer.de/kwk/?ref=428123
+    image: /images/logo-smartsteuer.png
   
 
 ---
