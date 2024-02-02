@@ -1,5 +1,5 @@
 ---
-title: about
+title: ABOUT
 description: "Pavel Larionov: Tech Lead, Creative Tech, M.Sc. Biomedical Engineering, B.A. International Relations"
 date: 2023-10-14
 aliases:

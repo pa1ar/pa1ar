@@ -1,8 +1,8 @@
 toggleMenu:
-    other: Toggle Menu
+    other: menu
 
 darkMode:
-    other: Dark Mode
+    other: dark mode
 
 list:
     page:
@@ -10,24 +10,24 @@ list:
         other: "{{ .Count }} pages"
 
     section:
-        other: Section
+        other: section
 
     subsection:
-        one: Subsection
-        other: Subsections
+        one: subsection
+        other: subsections
 
 article:
     back:
-        other: Back
+        other: back
 
     tableOfContents:
-        other: Table of contents
+        other: table of contents
 
     relatedContent:
-        other: Related content
+        other: related content
 
     lastUpdatedOn:
-        other: Last updated on
+        other: last updated on
 
     readingTime:
         one: "{{ .Count }} minute read"
@@ -35,29 +35,29 @@ article:
 
 notFound:
     title:
-        other: Not Found
+        other: not found
 
     subtitle:
-        other: This page does not exist
+        other: this page does not exist
 
 widget:
     archives:
         title:
-            other: Archives
+            other: archives
 
         more:
-            other: More
+            other: more
 
     tagCloud:
         title:
-            other: Tags
+            other: tags
     categoriesCloud:
         title:
-            other: Categories
+            other: categories
 
 search:
     title:
-        other: Search
+        other: search
 
     placeholder:
         other: what is it you are searching for?
@@ -67,7 +67,7 @@ search:
 
 footer:
     builtWith:
-        other: Built with {{ .Generator }}
+        other: built with {{ .Generator }}
 
     designedBy:
         other: based on theme {{ .Theme }}

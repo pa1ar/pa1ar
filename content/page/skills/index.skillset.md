@@ -1,5 +1,5 @@
 ---
-title: skills
+title: SKILLS
 description: "what i can do"
 date: 2023-11-05
 license: false

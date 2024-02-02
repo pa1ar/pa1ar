@@ -6,7 +6,7 @@ menu:
       icon: tallymarks
 
 description: incepted over years
-title: "projects" 
+title: "PROJECTS" 
 layout: "projects"
 slug: projects
 date: 

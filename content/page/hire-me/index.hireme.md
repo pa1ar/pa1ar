@@ -1,5 +1,5 @@
 ---
-title: hire me
+title: HIRE ME
 description: "I can amplify your project with bleeding edge technology or scale existing things up. Read on to find out more."
 license: false
 comments: false

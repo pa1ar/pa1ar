@@ -1,5 +1,5 @@
 ---
-title: tools
+title: TOOLS
 description: "tools and products i use and enjoy. feel free to use those referral links."
 
 menu:
@@ -41,6 +41,13 @@ links:
     description: Tax declaration service for Germany (5€ off for your tax declaration)
     website: https://www.smartsteuer.de/kwk/?ref=428123
     image: /images/logo-smartsteuer.png
-  
+  - title: Scalable Capital
+    description: trade ETF, stocks and crypto on web or via app
+    website: https://de.scalable.capital/en/invitation/bn99vp
+    image: /images/logo-scalable.png
+  - title: Trade Republic
+    description: trade ETF, stocks and crypto on web or via app
+    website: https://ref.trade.re/scg22m9z
+    image: /images/logo-traderepublic.png
 
 ---

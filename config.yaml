@@ -150,10 +150,11 @@ params:
             id:
     widgets:
         homepage:
+            # - type: share-button
             - type: search
-            - type: archives
-              params:
-                  limit: 5
+            # - type: archives
+            #   params:
+            #       limit: 5
             - type: categories
               params:
                   limit: 10
@@ -161,6 +162,8 @@ params:
               params:
                   limit: 10
             # - type: x // x feed
+            
+
         page:
             - type: share-button
             - type: search

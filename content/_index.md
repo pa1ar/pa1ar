@@ -1,7 +1,7 @@
 ---
 menu:
     main:
-        name: home
+        name: HOME
         weight: -100
         params:
             icon: prism

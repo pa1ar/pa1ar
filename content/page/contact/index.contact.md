@@ -1,5 +1,5 @@
 ---
-title: contact
+title: CONTACT
 description: "fill out the form to reach me out"
 license: false
 comments: false

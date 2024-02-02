@@ -1,5 +1,5 @@
 ---
-title: awards
+title: AWARDS
 description: chronological list of awards and achievements for projects and initiatives I was involved in
 date: 2023-12-30
 aliases:

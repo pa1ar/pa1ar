@@ -2,7 +2,7 @@
 title: "How to create a preview thumbnail for a ULR in Apple Notes on iOS and MacOS"
 description: Creating thumbnails for URLs from within the Apple Notes
 image: thumbnail-generated.jpeg
-date: 2024-01-09T19:07:02+01:00
+date: 2024-02-02
 slug: thumbnail-apple-notes
 
 categories:
@@ -18,12 +18,32 @@ draft: false
 
 > Apple Notes creates beautiful thumbnails for URLs, when you share a URL to the note. Unfortunately, there is no straightforward way to create a thumbnail on demand while you are writing the note, e.g. I'd expect smth like long tap → create thumbnail or smth. 
 
-Maybe someday we will have an easier way, but for now there is a workaround.
+Maybe someday we will have an easier way, but for now there is a workaround. It works for both [iOS](/p/thumbnail-apple-notes/#how-to-create-a-thumbnail-preview-for-a-url-from-within-the-apple-notes-on-ios-iphoneipad) and [MacOS](/p/thumbnail-apple-notes/#how-to-create-a-thumbnail-preview-for-a-url-from-within-the-apple-notes-on-macos-macbook).
 
 ## How to create a thumbnail preview for a URL from within the Apple Notes on iOS (iPhone/iPad)
 
 The trick is to **simulate drag-and-drop** while inside of the app.  
 In other words, we need force the green  `+`  sign to appear.
+
+### Method 1, easy
+
+This method was proposed by [@soundsgoodtome on YouTube](https://www.youtube.com/shorts/8T088LlOxko) in comments under the first video I have published on this topic with ([Method 2](/p/thumbnail-apple-notes/#method-2-original)). Since then I am only using Method 1.
+
+![holding URL, drag-and-drop mode off](undo-redo-1.jpeg) ![drag-and-drop mode activated after tapping on UNDO](undo-redo-2.jpeg) ![pasted thumbnail preview](undo-redo-3.jpeg)
+
+1. create/open a note
+2. paste/type textual URL to the note
+3. tap and hold on the URL
+4. tap with another finger on the UNDO button 
+- green plus should appear near the plate with the URL as drag-and-drop mode activates at that moment
+5. tap REDO to preserve the state of the note after pressing UNDO
+9. remove finger from the screen to paste the thumbnail
+
+{{< youtube VJIVwmABwLw >}}
+
+### Method 2, original
+
+This method is somewhat tricky, hence not recommended.
 
 1. create/open a note
 2. paste/type textual URL to the note
@@ -31,16 +51,13 @@ In other words, we need force the green  `+`  sign to appear.
 4. tap and hold on the URL
 5. move it out of the way so that you can see the body of the note
 6. tap with another finger on the body of the note (goal is to call the keyboard again)
-- alternative: tap on UNDO (optionally on redo - to preserve the state of the note). *Discovered by [@soundsgoodtome on YouTube](https://www.youtube.com/shorts/8T088LlOxko).*
-7. at that point, green plus should appear near the plate with the URL you should still be holding with your finger
+- at that point, green plus should appear near the plate with the URL you should still be holding with your finger
 8. point with the cursor where you would like to place the thumbnail
 9. remove finger from the screen to paste the thumbnail
 
 ![holding URL plate without on-screen keyboard](apple-note-2.jpeg) ![holding URL plate with on-screen keyboard - green + is visible](apple-note-3.jpeg) ![thumbnail inserted](apple-note-4.jpeg)
 
 For some really weird reason, sometimes this plus appears later, so occasionally the process needs to be repeated.
-
-I've created a video to demonstrate the process a while back, but someone asked me in the comments to provide a text version of this trick.
 
 {{< youtube 8T088LlOxko >}}
 

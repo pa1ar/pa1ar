@@ -34,24 +34,14 @@
             }
         }
 
-        // @for $i from 1 through length($defaultTagBackgrounds) {
-        //     &:nth-child(#{length($defaultTagBackgrounds)}n + #{$i}) {
-        //         .article-category a {
-        //             background: nth($defaultTagBackgrounds, $i);
-        //             color: nth($defaultTagColors, $i);
-        //         }
-        //     }
-        // }
         @for $i from 1 through length($defaultTagBackgrounds) {
             &:nth-child(#{length($defaultTagBackgrounds)}n + #{$i}) {
                 .article-category a {
                     background: nth($defaultTagBackgrounds, $i);
                     color: nth($defaultTagColors, $i);
-                    border: var(--badge-border-width) solid var(--badge-border-color);
                 }
             }
         }
-        
     }
 }
 
@@ -141,47 +131,22 @@
 .article-tags {
     display: flex;
     gap: 10px;
-}
 
-
-.share-button-style {
-
-    color: var(--card-text-color-main);
-    // color: var(--accent-color-text);
-    // background-color: var(--accent-color);
-    background: var(--card-background);
-    padding: 8px 24px;
-    border-radius: var(--tag-border-radius);
-    box-shadow: var(--shadow-l1);
-    border: none;
-    display: inline-block;
-    font-size: 1.4rem;
-    transition: background-color 0.5s ease;
-
-    &:hover {
-        box-shadow: var(--shadow-l2);
-        cursor: pointer;
-        // color: var(--accent-color-text);
-        // background-color: var(--accent-color-darker);
-    }
-}
-
-.article-tags a {
-    color: var(--accent-color-text);
-    background-color: var(--accent-color);
-    padding: 8px 16px;
-    border-radius: var(--tag-border-radius);
-    border: none;
-    display: inline-block;
-    font-size: 1.4rem;
-    transition: background-color 0.5s ease;
-
-    &:hover {
+    a {
         color: var(--accent-color-text);
-        background-color: var(--accent-color-darker);
+        background-color: var(--accent-color);
+        padding: 8px 16px;
+        border-radius: var(--tag-border-radius);
+        display: inline-block;
+        font-size: 1.4rem;
+        transition: background-color 0.5s ease;
+
+        &:hover {
+            color: var(--accent-color-text);
+            background-color: var(--accent-color-darker);
+        }
     }
 }
-
 
 /* Compact style article list */
 .article-list--compact {
