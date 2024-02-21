@@ -11,33 +11,32 @@ image: plj.jpg
 comments: false
 ---
 
-With the Master of Science degree in Biomedical Engineering, technical project leading experience, scientific and international relations background, I am driven by the endless potential of technology and innovation to bridge gaps, solve real-world problems, and enhance lives.
+Analytical and visionary technical director  with a Master of Science in Biomedical Engineering and extensive experience in digital technology, leading IT projects, and driving digital transformation. Over a decade of experience in bridging the gap between technology, product development, and business strategy. Demonstrated success in pioneering projects and leveraging AI to fuel growth and enrich customer experiences. Proficient in catalyzing cooperation among diverse teams and departments to synchronize technology efforts with business objectives.
 
-As a Creative Technologist at HyperInteractive Innovation Studio, I engage with teams to turn imaginative ideas into tangible solutions. Hyperinteractive's projects often sit at the crosssection of creativity and technology, aimed at solving problems or creating value for the clients. Notable projects include developing an award-winning iOS app [Dot Go](/projects/dot-go) for the visually impaired, [The Truth Wins](/projects/the-truth-wins) campaign to bypass censorship and igniting AI initiatives within the company, manifested by one of the latest projects - [AI Eric](/projects/ai-eric) relationship coach.
+Notable projects include leading development of an award-winning iOS app [Dot Go](/projects/dot-go) for the visually impaired, [The Truth Wins](/projects/the-truth-wins) campaign to navigate around censorship and sparking AI initiatives within the company, manifested by the most recent project - [AI Eric](/projects/ai-eric), a relationship coach.
 
 <a href="/awards">
   <img src="logos_strip.png" alt="logos strip">
 </a>
 
-Earlier, I was working on projects in the field of biomedical technology, contributed to neuroscience research by developing a [spike sorting](/projects/spike-sorting) algorithm, and leading a project to improve [palliative care](/projects/avenue-pal) through tech-enabled solutions. Alongside, I've always enjoyed sharing knowledge, be it through tutoring engineering subjects in the lab of my university, leading martial arts groups for kids and adults, or introducing collaborative digital tools for perpetual knowledge management to the co-workers.
+Previously engaged in biomedical technology, I contributed to neuroscience research by developing a [spike sorting](/projects/spike-sorting) algorithm, and leading a project to improve [palliative care](/projects/avenue-pal) through tech-enabled solutions. Alongside, I've always enjoyed sharing knowledge, be it through tutoring engineering subjects in the lab of my university, leading martial arts groups for kids and adults, or introducing collaborative digital tools for perpetual knowledge management to the co-workers.
 
-I am thrilled about the boundless potential of human-machine symbiosis, and never stop exploring new ways to harness technology for meaningful solutions.
+I am thrilled about the boundless potential of AI and human-machine symbiosis, and never stop exploring new ways to harness technology for meaningful solutions.
 
 ------
 
 ## Areas of Expertise
 
+- Strategic IT and Product Vision
+- AI Integration and Leadership
 - Innovation & Digital Transformation
-- Innovation Direction
-- Strategic Planning & Execution
-- Research & Development Leading & Execution 
+- Leading & Execution Research & Development 
 - International Business & Relations
+- Data-Driven Decision Making
 - Idea-to-launch Product Development
-- Client Interaction and Engagement
-- Scientific Publications
+- Client Engagement and Relationship Management
+- Technical and Scientific Writing
 - Public Speaking and Workshop Facilitation
-- Coaching
-- Relationship Management
 
 List of skills is [here](/skills).
 ### Languages
@@ -52,17 +51,13 @@ List of skills is [here](/skills).
 ### Hyperinteractive Innovation Studio 
 Fully remote team with headquarters in Hamburg, Germany
 #### **<u>Creative Technologist</u>** 
-Hyperinteractive Innovation Studio | Oct 2021 - present
+Hyperinteractive Innovation Studio | Oct 2021 - Feb 2024 (2 yrs 5 mos)
 
-- Led multidisciplinary technical development units for innovative digital projects, ensuring timely and quality delivery.
-- Prepared the architectural design of solutions encompassing sketches, diagrams, wireframes, roadmaps, and estimations.
-- Conducted case research, refined concepts based on initial briefs, and engaged with clients during pitch and kickstart meetings to ensure alignment with project objectives.
-- Delivered comprehensive reports, capturing major milestones of the projects to the stakeholders.
-
-**Significant Contributions:**
-- Projects with my direct participation as leader of multidisciplinary development units, creative technologist received **more than 50 international industry awards within 2 years of assignment**, including iF design awards, Cannes Liones, Eurobest, New York Festival, Art Directors Club etc. See full list of awards [1ar.io/awards](/awards).
-- Initiated and led AI development initiative, successfully integrating AI solutions in various projects.
-- Initiated innovation-focused knowledge exchange within the company, which since then is held on weekly basis and was the basis for external workshops for clients and partners.
+- Prepared comprehensive research documentation, ideation sessions, architecture design, technical evaluation, project timelines, and cost estimations, and presented those findings as pitches to clients for over 30 projects. About 50% of those projects were successfully executed, ensuring steady income for the company.
+- Led development, coordinated testing, and launches for more than 15 projects as a creative technologist and technical director for cross-functional teams, ensuring transparent client communication, timely delivery, and high-quality control.
+- Projects with my direct participation as leader of multidisciplinary development units received over 50 international industry awards within 2 years of assignment, including iF Design Awards, Cannes Lions, Eurobest, New York Festival, Art Directors Club, etc., boosting the company's market visibility. See full list of awards [1ar.io/awards](/awards).
+- Integrated AI into 8 projects and pioneered the implementation of generative GPT-powered solutions, increasing user satisfaction by up to 80%.
+- Initiated and nurtured a knowledge exchange program within the company, facilitated over 100 internal sessions, wrote 3 articles about cutting edge technologies for company's blog, and led 3 external workshops with up to 100+ participants, leading to new business opportunities.
 
 ### University of Applied Sciences
 Giessen (Hesse), Germany 
@@ -73,8 +68,6 @@ University of Applied Sciences | Sep 2019 - May 2021 (1 yr 9 mos)
 
 - Led a Research & Development Unit of 18 team members in a joint project Avenue-Pal aimed at improving palliative care through tech-enabled solutions.
 - Engaged in business development & management, public relations, and public speaking to promote project outcomes.
-
-Significant contributions:
 - Organized and delivered final hybrid keynote, gathering high-profile governmental and scientific stakeholders. 
 - Contributed to the series of publications, capturing the outcomes of the project Avenue-Pal from technical, organizational and sociological perspectives. 
 

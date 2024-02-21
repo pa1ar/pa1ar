@@ -17,17 +17,17 @@ comments: false
 ---
 ## Summary
 
-With the Master of Science degree in Biomedical Engineering, technical project leading experience, scientific and international relations background, I am driven by the endless potential of technology and innovation to bridge gaps, solve real-world problems, and enhance lives.
+Analytical and visionary technical director  with a Master of Science in Biomedical Engineering and extensive experience in digital technology, leading IT projects, and driving digital transformation. Over a decade of experience in bridging the gap between technology, product development, and business strategy. Demonstrated success in pioneering projects and leveraging AI to fuel growth and enrich customer experiences. Proficient in catalyzing cooperation among diverse teams and departments to synchronize technology efforts with business objectives.
 
-As a Creative Technologist at HyperInteractive Innovation Studio, I engage with teams to turn imaginative ideas into tangible solutions. Hyperinteractive's projects often sit at the crosssection of creativity and technology, aimed at solving problems or creating value for the clients. Notable projects include developing an award-winning iOS app [Dot Go](/projects/dot-go) for the visually impaired, [The Truth Wins](/projects/the-truth-wins) campaign to bypass censorship and igniting AI initiatives within the company, manifested by one of the latest projects - [AI Eric](/projects/ai-eric) relationship coach.
+Notable projects include leading development of an award-winning iOS app [Dot Go](/projects/dot-go) for the visually impaired, [The Truth Wins](/projects/the-truth-wins) campaign to navigate around censorship and sparking AI initiatives within the company, manifested by the most recent project - [AI Eric](/projects/ai-eric), a relationship coach.
 
 <a href="/awards">
   <img src="logos_strip.png" alt="logos strip">
 </a>
 
-Earlier, I was working on projects in the field of biomedical technology, contributed to neuroscience research by developing a [spike sorting](/projects/spike-sorting) algorithm, and leading a project to improve [palliative care](/projects/avenue-pal) through tech-enabled solutions. Alongside, I've always enjoyed sharing knowledge, be it through tutoring engineering subjects in the lab of my university, leading martial arts groups for kids and adults, or introducing collaborative digital tools for perpetual knowledge management to the co-workers.
+Previously engaged in biomedical technology, I contributed to neuroscience research by developing a [spike sorting](/projects/spike-sorting) algorithm, and leading a project to improve [palliative care](/projects/avenue-pal) through tech-enabled solutions. Alongside, I've always enjoyed sharing knowledge, be it through tutoring engineering subjects in the lab of my university, leading martial arts groups for kids and adults, or introducing collaborative digital tools for perpetual knowledge management to the co-workers.
 
-I am thrilled about the boundless potential of human-machine symbiosis, and never stop exploring new ways to harness technology for meaningful solutions.
+I am thrilled about the boundless potential of AI and human-machine symbiosis, and never stop exploring new ways to harness technology for meaningful solutions.
 
 **My full CV can be found [here](/cv).**
 
