@@ -21,7 +21,7 @@ Notable projects include leading development of an award-winning iOS app [Dot Go
 
 Previously engaged in biomedical technology, I contributed to neuroscience research by developing a [spike sorting](/projects/spike-sorting) algorithm, and leading a project to improve [palliative care](/projects/avenue-pal) through tech-enabled solutions. Alongside, I've always enjoyed sharing knowledge, be it through tutoring engineering subjects in the lab of my university, leading martial arts groups for kids and adults, or introducing collaborative digital tools for perpetual knowledge management to the co-workers.
 
-I am thrilled about the boundless potential of AI and human-machine symbiosis, and never stop exploring new ways to harness technology for meaningful solutions.
+I am thrilled about the boundless potential of human-machine symbiosis, and never stop exploring new ways to harness technology for meaningful solutions.
 
 ------
 
@@ -66,28 +66,31 @@ Giessen (Hesse), Germany
 #### Information Technology Project Lead
 University of Applied Sciences | Sep 2019 - May 2021 (1 yr 9 mos)
 
-- Led a Research & Development Unit of 18 team members in a joint project Avenue-Pal aimed at improving palliative care through tech-enabled solutions.
-- Engaged in business development & management, public relations, and public speaking to promote project outcomes.
-- Organized and delivered final hybrid keynote, gathering high-profile governmental and scientific stakeholders. 
-- Contributed to the series of publications, capturing the outcomes of the project Avenue-Pal from technical, organizational and sociological perspectives. 
+Led a Research & Development Unit of 18 team members in an Avenue-Pal consortium project, aimed at improving palliative care nationwide through tech-enabled solutions: Caregiver App and HelpDesk.
+
+- Led the development of the Caregiver App, a mobile application for iOS and Android, which significantly simplified patient information capture in a compatible data exchange format and provided granular educational support for caregivers at various stages of palliative care by providing over 60 curated articles. The app was tested by over 10 individuals and evaluated by independent healthcare professionals as highly beneficial.
+- Led the development of the HelpDesk, a web-based assistance platform for caring homes and hospitals, converting text-based guidelines into an actionable and dynamic system with over 857 items, which was evaluated as highly helpful by participating healthcare institutions.
+- Engaged in project management and achieved the possibility to gradually grow the project team from 5 to 18 members, ensuring timely delivery and high-quality control.
+- Organized the final symposium and delivered one of the keynotes about the project for 100+ participants, gathering high-profile governmental and scientific stakeholders from all parts of Germany.
+- Contributed to more than 3 publications, capturing the outcomes of the Avenue-Pal project from technical, organizational, and sociological perspectives, ensuring the project's visibility and potential for further funding.
 
 #### Project Engineer 
 University of Applied Sciences | Dec 2018 - Aug 2019 (9 mos)
 
-- Contributed to the IT-solution part of the project Avenue-Pal, aiming to enhance the quality of life of patients in their last life phase by improving information flow between doctors and palliative experts.
+Concept design and prototyping of the Caregiver App and HelpDesk for the Avenue-Pal consortium project, aiming to enhance the quality of life of patients nationwide in their last life phase by improving the information flow between doctors and palliative experts and reducing the non-indicated patient transfers from 20% to 5%, which affects 150,000 individuals annually.
 
-Significant contributions:
-- Conducted user research based on high-fidelity prototype, leading to several iterations of reconceptualization for the initial idea, saving costs of development. 
+- Conducted user research and a 7+ expert review of the high-fidelity prototype for the solutions developed in the project, leading to 2 major iterations of reconceptualization for the initial idea, which helped significantly optimize the cost by ensuring the correct direction of development.
+- Managed the procurement of 20+ pieces of equipment and 3 different software tools, ensuring a uniform development environment.
 
 #### **Research Associate and Tutor** 
 University of Applied Sciences | Dec 2016 - Nov 2018 (2 yrs)
 
-- Member of the scientific group of Prof. Dr. Thomas Schanze (field of studies: neuroscience, biological signal processing).
-- Tutored modules in "Digital Systems", "Theory of Systems and Controlling Technology".
+Member of the scientific group of Prof. Dr. Thomas Schanze, contributing to research in neuroscience and biological signal processing.
 
-Significant contributions:
-- Contributed to neuroscience research and published scientific papers on spike sorting of neurological signals as main author.
-- Supervised bachelor students in their thesis writing phase, promoting scientific activity and publication writing.
+- Tutored 50+ students across 2 modules ("Digital Systems", "Theory of Systems and Control Technology"), resulting in an 85%+ pass rate in practical examinations and marked improvements in students' practical application skills.
+- Author and co-author of 5 peer-reviewed scientific papers (read 642 times and cited 6 times) on spike sorting of neurological signals, published in national journals and presented at scientific conferences, ensuring an increase in the university's scientific score and recognizability.
+- Supervised 3 bachelor students in their thesis writing phase, organized practical experiments for 20+ master students, which promoted scientific activity and publication writing among young researchers.
+- Assisted in the organization of two international scientific conferences, "Bioniq", which were held at the university in Germany and in Cyprus, attracting over 150 attendees in total, ensuring the university's visibility and potential for international cooperation between German and Iraqi students.
 
 ### Additional Experience:
 - **Managing Director** (Frankfurt am Main, Germany) | Veronica Medical Equipment Ltd. | Jun 2014 - May 2019 (5 yrs)  

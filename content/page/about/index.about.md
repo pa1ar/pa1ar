@@ -27,7 +27,7 @@ Notable projects include leading development of an award-winning iOS app [Dot Go
 
 Previously engaged in biomedical technology, I contributed to neuroscience research by developing a [spike sorting](/projects/spike-sorting) algorithm, and leading a project to improve [palliative care](/projects/avenue-pal) through tech-enabled solutions. Alongside, I've always enjoyed sharing knowledge, be it through tutoring engineering subjects in the lab of my university, leading martial arts groups for kids and adults, or introducing collaborative digital tools for perpetual knowledge management to the co-workers.
 
-I am thrilled about the boundless potential of AI and human-machine symbiosis, and never stop exploring new ways to harness technology for meaningful solutions.
+I am thrilled about the boundless potential of human-machine symbiosis, and never stop exploring new ways to harness technology for meaningful solutions.
 
 **My full CV can be found [here](/cv).**
 
@@ -35,18 +35,16 @@ I am thrilled about the boundless potential of AI and human-machine symbiosis, a
 
 ## Areas of Expertise
 
-- Idea-to-Launch Product Development Leadership
-- Research & Development: Leading & Execution 
-- AI: Solutions Planning & Protyping, Prompt Engineering
-- Innovation & Digital transformation
-- Innovation Direction
-- Strategic Planning & Execution
-- Automation, Acceleration, Scaling
+- Strategic IT and Product Vision
+- AI Integration and Leadership
+- Innovation & Digital Transformation
+- Leading & Execution Research & Development 
 - International Business & Relations
-- Client Interaction and Engagement
-- Scientific Publications: Production & Reviewing
-- Public Speaking and Event Facilitation
-- Coaching
+- Data-Driven Decision Making
+- Idea-to-launch Product Development
+- Client Engagement and Relationship Management
+- Technical and Scientific Writing
+- Public Speaking and Workshop Facilitation
 
 ### Languages
 
