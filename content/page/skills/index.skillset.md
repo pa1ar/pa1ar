@@ -8,7 +8,7 @@ comments: false
 menu:
   main:
     title: skills
-    weight: -40
+    weight: 20
     params:
       icon: body-scan
 ---

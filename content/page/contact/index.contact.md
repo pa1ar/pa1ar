@@ -7,7 +7,7 @@ readingTime: false
 menu:
   main:
     title: contact
-    weight: -20
+    weight: 70
     params:
       icon: forms
 ---

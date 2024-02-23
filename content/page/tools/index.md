@@ -4,7 +4,7 @@ description: "tools and products i use and enjoy. feel free to use those referra
 
 menu:
   main:
-    weight: -100
+    weight: 50
     params:
       icon: settings-heart
 

@@ -9,7 +9,7 @@ license: false
 lastmod: 2023-11-14
 menu:
   main:
-    weight: -40
+    weight: 10
     params:
       icon: user-scan
 image: pljs.jpg

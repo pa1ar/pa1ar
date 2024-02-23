@@ -7,7 +7,7 @@ readingTime: false
 menu:
   main:
     title: hire me
-    weight: -30
+    weight: 60
     params:
       icon: arrow-big-up-lines
 ---

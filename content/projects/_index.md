@@ -1,7 +1,7 @@
 ---
 menu:
   main:
-    weight: -90
+    weight: 30
     params:
       icon: tallymarks
 
