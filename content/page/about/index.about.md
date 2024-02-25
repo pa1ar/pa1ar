@@ -15,6 +15,13 @@ menu:
 image: pljs.jpg
 comments: false
 ---
+
+<div class="button-container">
+  <a href="/cv" 
+  class="button" id="full-cv">｢ read full CV ｣</a>
+</div>
+
+
 ## Summary
 
 Analytical and visionary technical director  with a Master of Science in Biomedical Engineering and extensive experience in digital technology, leading IT projects, and driving digital transformation. Over a decade of experience in bridging the gap between technology, product development, and business strategy. Demonstrated success in pioneering projects and leveraging AI to fuel growth and enrich customer experiences. Proficient in catalyzing cooperation among diverse teams and departments to synchronize technology efforts with business objectives.
@@ -28,8 +35,6 @@ Notable projects include leading development of an award-winning iOS app [Dot Go
 Previously engaged in biomedical technology, I contributed to neuroscience research by developing a [spike sorting](/projects/spike-sorting) algorithm, and leading a project to improve [palliative care](/projects/avenue-pal) through tech-enabled solutions. Alongside, I've always enjoyed sharing knowledge, be it through tutoring engineering subjects in the lab of my university, leading martial arts groups for kids and adults, or introducing collaborative digital tools for perpetual knowledge management to the co-workers.
 
 I am thrilled about the boundless potential of human-machine symbiosis, and never stop exploring new ways to harness technology for meaningful solutions.
-
-**My full CV can be found [here](/cv).**
 
 ------
 
