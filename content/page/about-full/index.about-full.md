@@ -1,17 +1,34 @@
 ---
-title: Pavel's CV
+title: Pavel Larionov
 description: "Pavel Larionov: Tech Lead, Creative Tech, M.Sc. Biomedical Engineering, B.A. International Relations"
-date: 2024-02-23
+date: 2024-02-25
 slug: cv
 aliases:
   - lebenslauf
+menu:
+  main:
+    weight: 11
+    name: CV
+    params:
+      icon: text-scan-2
 license: false
-lastmod: 2024-02-22
+lastmod: 2024-02-25
 image: plj.jpg
 comments: false
+
 ---
 
-Analytical and visionary technical director  with a Master of Science in Biomedical Engineering and extensive experience in digital technology, leading IT projects, and driving digital transformation. Over a decade of experience in bridging the gap between technology, product development, and business strategy. Demonstrated success in pioneering projects and leveraging AI to fuel growth and enrich customer experiences. Proficient in catalyzing cooperation among diverse teams and departments to synchronize technology efforts with business objectives.
+<!-- title: Pavel Larionov -->
+
+<div class="button-container">
+  <a href="CV Pavel Larionov EN.pdf" 
+  target="_blank" class="button" id="cv-en">｢ CV as PDF | EN ｣</a>
+  <a href="CV Pavel Larionov DE.pdf" 
+  target="_blank" class="button" id="cv-de">｢ CV as PDF | DE ｣</a>
+</div>
+
+
+Analytical and visionary innovation and technology leader with a Master of Science degree in biomedical engineering and extensive experience in digital technology, IT project leadership, and digital transformation. Over a decade of experience bridging the gap between technology, product development and business strategy. Demonstrated success in pioneering projects and leveraging AI to drive growth and enrich the customer experience. Skilled at catalyzing collaboration across diverse teams and departments to synchronize technology efforts with business goals.
 
 Notable projects include leading development of an award-winning iOS app [Dot Go](/projects/dot-go) for the visually impaired, [The Truth Wins](/projects/the-truth-wins) campaign to navigate around censorship and sparking AI initiatives within the company, manifested by the most recent project - [AI Eric](/projects/ai-eric), a relationship coach.
 
@@ -94,9 +111,9 @@ Member of the scientific group of Prof. Dr. Thomas Schanze, contributing to rese
 
 ### Additional Experience:
 - **Managing Director** (Frankfurt am Main, Germany) | Veronica Medical Equipment Ltd. | Jun 2014 - May 2019 (5 yrs)  
-- **International Sales Manager** (Öskemen, Kazakhstan) | West-Trading (medical equipment wholesale and technical support) | Jan 2013 - Jun 2014 (1 yr 6 mos)  
+- **International Sales Manager** (Öskemen, Kazakhstan) | West-Trading (medical equipment, wholesale and technical support) | Jan 2013 - Jun 2014 (1 yr 6 mos)  
 - **Sales Manager** (Öskemen, Kazakhstan) | Tropicana Touristic Agency | Jan 2013 - Jun 2014 (1 yr 6 mos)
-- **Assistant Coach **(Öskemen, Kazakhstan) | Öskemen Aikido & Kendo Martial Arts Dojo | (2011, 1 yr)
+- **Assistant Coach** (Öskemen, Kazakhstan) | Öskemen Aikido & Kendo Martial Arts Dojo | 2011 (1 yr)
 
 ## Education
 
@@ -106,7 +123,7 @@ Member of the scientific group of Prof. Dr. Thomas Schanze, contributing to rese
 - **Master’s thesis:** *"Spike Sorting of Multivariate Signals"*, Grade: A, (1.1, 94%).  
 *Developed an improved method of spike sorting for multichannel electrode arrays (also applicable for non-medial fields), which was published in a peer-reviewed journal and presented at a scientific conference.*  
 - ***Honors & Awards:** Awarded the DAAD scholarship for selected international Master students, showing notable academic achievements and potential.  
-- **Activities:** Member of the Institute of the Biomedical Technology (IBMT). Participated in the Bioniq International Biomedical Summer School in Cyprus.  
+- **Activities:** Member of the Institute of Biomedical Technology (IBMT). Participated in the Bioniq International Biomedical Summer School in Cyprus.  
 - **Focus areas:** biosignals, neuroscience, algorithms, biocybernetics, and prosthetics, aligning with current industry innovations in medical technology.
 
 ### B.Sc. Biomedical Engineering 
@@ -124,7 +141,39 @@ Grade: B+, 3.56, 89% (USA grading scale)
 
 - **Bachelor’s Thesis:** *“International Partnership between Germany and Kazakhstan”*, Grade: A, (4.00, 98%)  
 - **Activities:** engaged in the debate club and organized student events, developing strong communication, negotiation, and leadership skills.
-- **Focus areas:** history, politics, regional management, diplomacy (conflict solving, ethics and protocols, international negotiations), foreign languages (English and German, a very little bit of Chinese)
+- **Focus areas:** history, politics, regional management, diplomacy (conflict solving, ethics and protocols, international negotiations), foreign languages (English and German, Chinese)
+
+## Awards
+
+### 2023
+**Dot Go App**  
+- iF Design Award: Design Award (Communication/Apps/Software), Design Award (User Interface/Digital Media Interfaces)
+- Clio Awards: 2 Silver (Digital/Mobile & Social Media Craft, Innovation), 2 Bronze (Creative Use of Data, Digital/Mobile)
+- D&AD: 2 Graphite (Experiential/Use of MR, Direct/Innovation), Silver (Digital/Health & Wellbeing)
+- Webby: Best Practices, People’s Voice Award (Apps, dApps and Software/Experimental & Innovation)
+- ADC: Merit (Design for Good/Interactive)
+- One Club: Gold (Innovation & Transformation, Online & Mobile), Silver (Augmented, Virtual & Mixed Reality), Bronze (Use of Technology), Merit (Digital Design)
+- The Andy’s: 2 Gold (Reset, Idea)
+
+**The Truth Wins**  
+- One Club: Silver (Social Post/Single Platform Series), 4 Merit (Various Categories)
+- ADC: Bronze (Design for Good/Advertising - Single), 3 Merit (Various Categories)
+- Clio Awards: 3 Silver (PR/Cause Related, Public Affairs, Social Media/Single Platform), Bronze (Digital/Mobile/Other)
+
+### 2022
+**Dot Go App**  
+- Cannes Lions: Silver (Brand Experience & Activation)
+- New York Festivals: Gold (Innovation: Technology), 3 Silver (Best Innovation, Product Innovation, Apps)
+- Epica Awards: Gold (Apps & Games), Silver (Creative Use of AI)
+
+**The Truth Wins**  
+- Cannes Lions: Silver (PR Lions), Bronze (Sustainable Development Goals Lions)
+- Eurobest: Gold (Media), 3 Bronze (Culture & Context, Social Engagement & Influencer Marketing, Social Insights & Engagement)
+- Gerety Awards: Gold (Media Cut/Mobile), Silver (Work for Good Cut/Mobile), Bronze (Communication Cut/Mobile)
+
+### 2021
+**Dot Go App**  
+- Eurobest: Grand Prix (Innovation), Silver (Digital Craft)
 
 ## Publications
 

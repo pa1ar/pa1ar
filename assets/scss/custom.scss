@@ -144,7 +144,7 @@
 }
 
 
-.share-button-style {
+.button {
 
     color: var(--card-text-color-main);
     // color: var(--accent-color-text);
@@ -310,3 +310,43 @@
         }
     }
 }
+
+@media print {
+    /* Hide the featured image */
+    .article-image {
+      display: none;
+    //   width: 20%;
+    //   border-radius: var(--card-border-radius);
+    }
+  
+    /* Adjust the body font size and margins to scale down content */
+    .article-content {
+      font-size: 12pt;
+      line-height: 1.3;
+    }
+  
+    .h2, .h3 {
+        font-size: 16pt !important;
+    }
+
+    /* Adjust specific elements as needed to improve print layout */
+    .content-container {
+      width: 100%;
+      margin: 0 auto;
+    }
+
+    .contact-info, .for-print { 
+        display: block !important;
+        line-height: 1.3;
+    }
+  
+    .main-article {
+      box-shadow: none !important;
+    }
+
+    /* Hide elements that are not necessary for the printed version */
+    .menu, .site-footer, .site-name, .article-subtitle, .article-title, .article-time, .social-menu, .button-container {
+      display: none;
+    }
+  }
+  

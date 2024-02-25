@@ -24,6 +24,7 @@
 {{ end }}
 
 {{ define "main" }}
+
     {{ partial "article/article.html" . }}
 
     {{ if .Params.links }}
@@ -38,9 +39,13 @@
 
     {{ partialCached "footer/footer" . }}
 
+
     {{ partialCached "article/components/photoswipe" . }}
 {{ end }}
 
 {{ define "right-sidebar" }}
     {{ if .Scratch.Get "hasWidget" }}{{ partial "sidebar/right.html" (dict "Context" . "Scope" "page") }}{{ end}}
+    
 {{ end }}
+
+

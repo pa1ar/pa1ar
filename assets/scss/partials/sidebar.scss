@@ -60,7 +60,7 @@
                 }
             }
 
-            .site-description {
+            .site-description, .contact-info {
                 font-size: 1.4rem;
             }
         }
@@ -140,7 +140,7 @@
         }
     }
 
-    .site-description {
+    .site-description, .contact-info {
         color: var(--body-text-color);
         font-weight: normal;
         margin: 0;
