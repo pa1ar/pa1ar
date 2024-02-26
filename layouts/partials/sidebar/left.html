@@ -18,7 +18,7 @@
                     {{ if $avatar }}
                         {{ $avatarResized := $avatar.Resize "300x" }}
                         <img src="{{ $avatarResized.RelPermalink }}" width="{{ $avatarResized.Width }}"
-                            height="{{ $avatarResized.Height }}" class="site-logo" loading="lazy" alt="Avatar">
+                            height="{{ $avatarResized.Height }}" class="site-logo" loading="eager" alt="Avatar">
                     {{ else }}
                         {{ errorf "Failed loading avatar from %q" . }}
                     {{ end }}
