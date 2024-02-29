@@ -34,14 +34,15 @@
             }
         }
 
-        @for $i from 1 through length($defaultTagBackgrounds) {
-            &:nth-child(#{length($defaultTagBackgrounds)}n + #{$i}) {
-                .article-category a {
-                    background: nth($defaultTagBackgrounds, $i);
-                    color: nth($defaultTagColors, $i);
-                }
-            }
-        }
+        // this adds WEIRD COLORS to the tags, do not enable 
+        // @for $i from 1 through length($defaultTagBackgrounds) {
+        //     &:nth-child(#{length($defaultTagBackgrounds)}n + #{$i}) {
+        //         .article-category, .cta a {
+        //             background: nth($defaultTagBackgrounds, $i);
+        //             color: nth($defaultTagColors, $i);
+        //         }
+        //     }
+        // }
     }
 }
 
@@ -127,7 +128,7 @@
     }
 }
 
-.article-category,
+.article-category, .cta,
 .article-tags {
     display: flex;
     gap: 10px;
@@ -140,6 +141,7 @@
         display: inline-block;
         font-size: 1.4rem;
         transition: background-color 0.5s ease;
+        border: var(--badge-border-width) solid var(--badge-border-color); // THIS ADDS A BORDER TO THE TAGS
 
         &:hover {
             color: var(--accent-color-text);

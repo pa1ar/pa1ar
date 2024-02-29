@@ -18,15 +18,10 @@ comments: false
 
 ---
 
-<!-- title: Pavel Larionov -->
-
 <div class="button-container">
-  <a href="CV_Pavel_Larionov_EN.pdf" 
-  target="_blank" class="button" id="cv-en">｢ CV as PDF | EN ｣</a>
-  <a href="CV_Pavel_Larionov_DE.pdf" 
-  target="_blank" class="button" id="cv-de">｢ CV as PDF | DE ｣</a>
+  {{< cta title="｢ CV as PDF | EN ｣" url="CV_Pavel_Larionov_EN.pdf" >}}
+  {{< cta title="｢ CV as PDF | DE ｣" url="CV_Pavel_Larionov_DE.pdf" >}}
 </div>
-
 
 Analytical and visionary innovation and technology leader with a Master of Science degree in biomedical engineering and extensive experience in digital technology, IT project leadership, and digital transformation. Over a decade of experience bridging the gap between technology, product development and business strategy. Demonstrated success in pioneering projects and leveraging AI to drive growth and enrich the customer experience. Skilled at catalyzing collaboration across diverse teams and departments to synchronize technology efforts with business goals.
 
@@ -147,7 +142,7 @@ Grade: B+, 3.56, 89% (USA grading scale)
 
 ### 2023
 **#1 Technical Director of 2023**
-- Ranked #1 in the Global Top 25 Technical Directors in the Creativepool Annual 2023 rankings, based on the number of awards won and the quality of the projects.
+- **Ranked #1** in the [Global Top 25 Technical Directors](https://creativepool.com/top-25/technical-directors/) in the Creativepool Annual 2023 rankings, based on the number of awards won and the quality of the projects.
 
 **Dot Go App**  
 - iF Design Award: Design Award (Communication/Apps/Software), Design Award (User Interface/Digital Media Interfaces)

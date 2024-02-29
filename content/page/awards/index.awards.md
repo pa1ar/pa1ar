@@ -20,6 +20,9 @@ comments: false
  **Full list of projects is [here](/projects).**
 
 ## 2023
+### #1 Technical Director of 2023
+- **Ranked #1** in the [Global Top 25 Technical Directors](https://creativepool.com/top-25/technical-directors/) in the Creativepool Annual 2023 rankings, based on the number of awards won and the quality of the projects.
+
 ### Dot Go App
 Learn more about the Dot Go project [here](/projects/dot-go/).
 

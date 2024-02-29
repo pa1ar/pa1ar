@@ -16,10 +16,7 @@ image: pljs.jpg
 comments: false
 ---
 
-<div class="button-container">
-  <a href="/cv" 
-  class="button" id="full-cv">｢ read full CV ｣</a>
-</div>
+{{< cta title="｢ read full CV ｣" url="/cv" >}}
 
 
 ## Summary
@@ -57,17 +54,13 @@ I am thrilled about the boundless potential of human-machine symbiosis, and neve
 - German: Fluent
 - Russian: Native
 
-<div class="button-container">
-  <a href="/skills" 
-  class="button" id="skills">｢ list of skills ｣</a>
-</div>
-
+{{< cta title="｢ skills ｣" url="/skills" >}}
 
 -----
 ## Professional
 
 **#1 Technical Director of 2023**
-- Ranked #1 in the Global Top 25 Technical Directors in the Creativepool Annual 2023 rankings, based on the number of awards won and the quality of the projects.
+- **Ranked #1** in the [Global Top 25 Technical Directors](https://creativepool.com/top-25/technical-directors/) in the Creativepool Annual 2023 rankings, based on the number of awards won and the quality of the projects.
 
 ![delivering a keynote to creative directors, Cannes Lions, 2022](cannes-2.JPG) ![Serviceplan troops, Cannes Lions, 2022](cannes-3.JPG)
 
@@ -80,11 +73,7 @@ I am thrilled about the boundless potential of human-machine symbiosis, and neve
 - **Sales Manager** | Tropicana Touristic Agency | Jan 2013 - Jun 2014 (1 yr 6 mos)
 - **Assistant Coach** | Öskemen Aikido & Kendo Martial Arts Dojo | 2011 (1 yr)
 
-<div class="button-container">
-  <a href="/cv" 
-  class="button" id="full-cv">｢ read full CV ｣</a>
-</div>
-
+{{< cta title="｢ read full CV ｣" url="/cv" >}}
 
 ## Education
 
@@ -92,11 +81,7 @@ I am thrilled about the boundless potential of human-machine symbiosis, and neve
 - B.Sc. Biomedical Engineering, University of Applied Sciences Mittelhessen | [thm.de](https://www.thm.de/site/en/) | 2013 - 2017    
 - B.A. International Relations, Sarsen Amanzholov East-Kazakhstan State University | [vku.kz](https://vku.edu.kz/en/) | 2007 - 2012  
 
-<div class="button-container">
-  <a href="/cv" 
-  class="button" id="full-cv">｢ read full CV ｣</a>
-</div>
-
+{{< cta title="｢ read full CV ｣" url="/cv" >}}
 
 ## Publications
 
@@ -114,7 +99,4 @@ I am thrilled about the boundless potential of human-machine symbiosis, and neve
 5. [**Adaption of a Spike Sorting Algorithm to ECG Signals**](/projects/spike-sorting-ecg)
 6. [**Correlation Based Spike Sorting**](/projects/spike-sorting)
 
-<div class="button-container">
-  <a href="/cv" 
-  class="button" id="full-cv">｢ read full CV ｣</a>
-</div>
+{{< cta title="｢ read full CV ｣" url="/cv" >}}
