@@ -17,6 +17,10 @@ links:
     description: Advanced business and personal documentation tool 
     website: https://affiliate.notion.so/1ar
     image: /images/logo-notion.png
+  - title: Arc Browser
+    description: Truly innovative browser with lots of productivity and AI-powered features.
+    website: https://arc.net/gift/3542e4e9
+    image: /images/logo-arc.png
   - title: Wise
     description: International money transfers with low fees, tracking and humane UI (one fee-free transfer up to €500)
     website: https://wise.com/invite/dic/pavell157
