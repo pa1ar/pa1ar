@@ -21,9 +21,9 @@ comments: false
 <!-- title: Pavel Larionov -->
 
 <div class="button-container">
-  <a href="CV Pavel Larionov EN.pdf" 
+  <a href="CV_Pavel_Larionov_EN.pdf" 
   target="_blank" class="button" id="cv-en">｢ CV as PDF | EN ｣</a>
-  <a href="CV Pavel Larionov DE.pdf" 
+  <a href="CV_Pavel_Larionov_DE.pdf" 
   target="_blank" class="button" id="cv-de">｢ CV as PDF | DE ｣</a>
 </div>
 
