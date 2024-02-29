@@ -1,12 +1,12 @@
 ---
 title: ABOUT
-description: "Pavel Larionov: Tech Lead, Creative Tech, M.Sc. Biomedical Engineering, B.A. International Relations"
-date: 2023-10-14
+description: "Pavel Larionov: Technical Director, Innovation Leader, Creative Technologist, M.Sc. Biomedical Engineering, B.A. International Relations"
+date: 2024-02-29
 aliases:
   - about-us
   - about-hugo
 license: false
-lastmod: 2023-11-14
+lastmod: 2024-02-29
 menu:
   main:
     weight: 10
@@ -57,30 +57,34 @@ I am thrilled about the boundless potential of human-machine symbiosis, and neve
 - German: Fluent
 - Russian: Native
 
-**List of skills is [here](/skills).** 
+<div class="button-container">
+  <a href="/skills" 
+  class="button" id="skills">｢ list of skills ｣</a>
+</div>
+
 
 -----
 ## Professional
 
-![delivering a keynote, Cannes Lions, 2022](cannes-2.JPG) ![Serviceplan troops](cannes-3.JPG)
+**#1 Technical Director of 2023**
+- Ranked #1 in the Global Top 25 Technical Directors in the Creativepool Annual 2023 rankings, based on the number of awards won and the quality of the projects.
 
-### Current Place of Work:
-[**Hyperinteractive Innovation Studio**](https://hyperinteractive.de)  
-Official position: Creative Technologist  
-Since: Oct 2021 
+![delivering a keynote to creative directors, Cannes Lions, 2022](cannes-2.JPG) ![Serviceplan troops, Cannes Lions, 2022](cannes-3.JPG)
 
-What I do at Hyperinteractive:
-- Lead multidisciplinary technical development units for innovative digital projects, ensuring timely and quality delivery.
-- Prepare the architectural design of solutions encompassing sketches, diagrams, wireframes, roadmaps, and estimations.
-- Conduct case research, refine concepts based on initial briefs, and engage with clients during pitch and kickstart meetings to ensure alignment with project objectives.
-- Delivere comprehensive reports, capturing major milestones of the projects to the stakeholders.
+- **Creative Technologist** at Hyperinteractive Innovation Studio | Oct 2021 - Feb 2024 (2 yrs 5 mos)
+- **Information Technology Project Lead** at the University of Applied Sciences Mittelhessen | Sep 2019 - May 2021 (1 yr 9 mos)
+- **Project Engineer** at the University of Applied Sciences Mittelhessen | Dec 2018 - Aug 2019 (9 mos)
+- **Research Associate** and Tutor at the University of Applied Sciences | Dec 2016 - Nov 2018 (2 yrs)
+- **Managing Director** at Veronica Medical Equipment Ltd. | Jun 2014 - May 2019 (5 yrs) 
+- **International Sales Manager** | West-Trading (Medical Equipment) | Jan 2013 - Jun 2014 (1 yr 6 mos)  
+- **Sales Manager** | Tropicana Touristic Agency | Jan 2013 - Jun 2014 (1 yr 6 mos)
+- **Assistant Coach** | Öskemen Aikido & Kendo Martial Arts Dojo | 2011 (1 yr)
 
-**Significant Contributions:**
-- Projects with my direct participation as leader of multidisciplinary development units, creative technologist received **more than 50 international industry awards within 2 years of assignment**, including iF design awards, Cannes Liones, Eurobest, New York Festival, Art Directors Club etc.
-- Initiated and led AI development initiative, successfully integrating AI solutions in various projects.
-- Initiated innovation-focused knowledge exchange within the company, which since then is held on weekly basis and was the basis for external workshops for clients and partners.
+<div class="button-container">
+  <a href="/cv" 
+  class="button" id="full-cv">｢ read full CV ｣</a>
+</div>
 
-**My full CV can be found [here](/cv).**
 
 ## Education
 
@@ -88,16 +92,29 @@ What I do at Hyperinteractive:
 - B.Sc. Biomedical Engineering, University of Applied Sciences Mittelhessen | [thm.de](https://www.thm.de/site/en/) | 2013 - 2017    
 - B.A. International Relations, Sarsen Amanzholov East-Kazakhstan State University | [vku.kz](https://vku.edu.kz/en/) | 2007 - 2012  
 
-**My full CV can be found [here](/cv).**
+<div class="button-container">
+  <a href="/cv" 
+  class="button" id="full-cv">｢ read full CV ｣</a>
+</div>
+
 
 ## Publications
 
-![presenting a paper about spikesorting](bmt-6.jpeg) ![BMT scientific conference, 2019](bmt-5.jpeg)
+![presenting a paper about spikesorting, 2019](bmt-6.jpeg) ![BMT scientific conference, 2019](bmt-5.jpeg)
 
-1. [**Digitalization, Scenarios of Dying a Digitalized Society**](/projects/dying-2045)
-2. [**Correlation-based Spike Sorting of Multivariate Data**](/projects/spike-sorting-multivariate)
-3. [**Does Healthcare Research in Germany Need a Register of Places of Death?**](/projects/death-register-germany)
-4. [**Adaption of a Spike Sorting Algorithm to ECG Signals**](/projects/spike-sorting-ecg)
-5. [**Correlation Based Spike Sorting**](/projects/spike-sorting)
+1. **Series of articles for [Hyperinteractive Innovation Studio's blog](https://www.hyperinteractive.de/blog/), 2024.**
+    - [*Composite AI: the Art of AI collaboration*](https://www.hyperinteractive.de/composite-ai-the-art-of-ai-collaboration/) | [archive](https://web.archive.org/web/20240222235901/https://www.hyperinteractive.de/composite-ai-the-art-of-ai-collaboration/)
+    - [*Beyond Centralized Social Media: How Open Protocols are Reshaping Internet*](https://www.hyperinteractive.de/fediverse/) | [archive](https://web.archive.org/web/20240223001927/https://www.hyperinteractive.de/fediverse/)
+    - [*Reimagining Offline Experiences with Spatial Computing*](https://www.hyperinteractive.de/reimagining-offline-experiences-with-spatial-computing/) | [archive](https://web.archive.org/web/20240223000418/https://www.hyperinteractive.de/reimagining-offline-experiences-with-spatial-computing/)
+    - [*Navigating the Future: Top 5 Tech Trends for 2024*](https://www.hyperinteractive.de/navigating-the-future-top-5-tech-trends-for-2024-shaping-hyperinteractive/) | [archive](https://web.archive.org/web/20240223001145/https://www.hyperinteractive.de/navigating-the-future-top-5-tech-trends-for-2024-shaping-hyperinteractive/)
 
-**My full CV can be found [here](/cv).**
+2. [**Digitalization, Scenarios of Dying a Digitalized Society**](/projects/dying-2045)
+3. [**Correlation-based Spike Sorting of Multivariate Data**](/projects/spike-sorting-multivariate)
+4. [**Does Healthcare Research in Germany Need a Register of Places of Death?**](/projects/death-register-germany)
+5. [**Adaption of a Spike Sorting Algorithm to ECG Signals**](/projects/spike-sorting-ecg)
+6. [**Correlation Based Spike Sorting**](/projects/spike-sorting)
+
+<div class="button-container">
+  <a href="/cv" 
+  class="button" id="full-cv">｢ read full CV ｣</a>
+</div>

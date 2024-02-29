@@ -1,7 +1,7 @@
 ---
 title: Pavel Larionov
-description: "Pavel Larionov: Tech Lead, Creative Tech, M.Sc. Biomedical Engineering, B.A. International Relations"
-date: 2024-02-25
+description: "Pavel Larionov: Technical Director, Innovation Leader, Creative Technologist, M.Sc. Biomedical Engineering, B.A. International Relations"
+date: 2024-02-29
 slug: cv
 aliases:
   - lebenslauf
@@ -12,7 +12,7 @@ menu:
     params:
       icon: text-scan-2
 license: false
-lastmod: 2024-02-25
+lastmod: 2024-02-29
 image: plj.jpg
 comments: false
 
@@ -76,12 +76,12 @@ Hyperinteractive Innovation Studio | Oct 2021 - Feb 2024 (2 yrs 5 mos)
 - Integrated AI into 8 projects and pioneered the implementation of generative GPT-powered solutions, increasing user satisfaction by up to 80%.
 - Initiated and nurtured a knowledge exchange program within the company, facilitated over 100 internal sessions, wrote 3 articles about cutting edge technologies for company's blog, and led 3 external workshops with up to 100+ participants, leading to new business opportunities.
 
-### University of Applied Sciences
+### University of Applied Sciences Mittelhessen
 Giessen (Hesse), Germany 
 **Two promotions within 4.5 years of assignment**
 
 #### Information Technology Project Lead
-University of Applied Sciences | Sep 2019 - May 2021 (1 yr 9 mos)
+University of Applied Sciences Mittelhessen | Sep 2019 - May 2021 (1 yr 9 mos)
 
 Led a Research & Development Unit of 18 team members in an [Avenue-Pal](https://innovationsfonds.g-ba.de/projekte/versorgungsforschung/avenue-pal-analyse-und-verbesserung-des-sektor-und-bereichsuebergreifenden-schnittstellen-und-verlegungsmanagements-in-der-palliativversorgung.161) consortium project, which was funded with €2 million, aimed at improving palliative care nationwide through tech-enabled solutions: Caregiver App and HelpDesk.
 
@@ -92,7 +92,7 @@ Led a Research & Development Unit of 18 team members in an [Avenue-Pal](https://
 - Contributed to more than 3 publications, capturing the outcomes of the Avenue-Pal project from technical, organizational, and sociological perspectives, ensuring the project's visibility and potential for further funding.
 
 #### Project Engineer 
-University of Applied Sciences | Dec 2018 - Aug 2019 (9 mos)
+University of Applied Sciences Mittelhessen | Dec 2018 - Aug 2019 (9 mos)
 
 Concept design and prototyping of the Caregiver App and HelpDesk for the [Avenue-Pal](https://innovationsfonds.g-ba.de/projekte/versorgungsforschung/avenue-pal-analyse-und-verbesserung-des-sektor-und-bereichsuebergreifenden-schnittstellen-und-verlegungsmanagements-in-der-palliativversorgung.161) consortium project, aiming to enhance the quality of life of patients nationwide in their last life phase by improving the information flow between doctors and palliative experts and reducing the non-indicated patient transfers from 20% to 5%, which affects 150,000 individuals annually.
 
@@ -146,6 +146,9 @@ Grade: B+, 3.56, 89% (USA grading scale)
 ## Awards
 
 ### 2023
+**#1 Technical Director of 2023**
+- Ranked #1 in the Global Top 25 Technical Directors in the Creativepool Annual 2023 rankings, based on the number of awards won and the quality of the projects.
+
 **Dot Go App**  
 - iF Design Award: Design Award (Communication/Apps/Software), Design Award (User Interface/Digital Media Interfaces)
 - Clio Awards: 2 Silver (Digital/Mobile & Social Media Craft, Innovation), 2 Bronze (Creative Use of Data, Digital/Mobile)
