@@ -7,20 +7,20 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Pavel Larionov</copyright>
-        <lastBuildDate>Wed, 06 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://1ar.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 02 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://1ar.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>noise</title>
+        <link>https://1ar.io/categories/noise/</link>
+        <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://1ar.io/categories/noise/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>signal</title>
         <link>https://1ar.io/categories/signal/</link>
         <pubDate>Wed, 06 Dec 2023 00:00:00 +0000</pubDate>
         
         <guid>https://1ar.io/categories/signal/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>noise</title>
-        <link>https://1ar.io/categories/noise/</link>
-        <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
-        
-        <guid>https://1ar.io/categories/noise/</guid>
         <description></description>
         </item>
         

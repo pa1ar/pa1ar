@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>projects on pavel 1ar.ionov</title>
+        <title>PROJECTS on pavel 1ar.ionov</title>
         <link>https://1ar.io/projects/</link>
-        <description>Recent content in projects on pavel 1ar.ionov</description>
+        <description>Recent content in PROJECTS on pavel 1ar.ionov</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Pavel Larionov</copyright>
@@ -22,6 +22,21 @@ Besides that, we went extra-mile making the conversations to be stored in a secu
 &lt;blockquote&gt;
 &lt;p&gt;AI-powered coach is able to democratize access to therapy on scale.&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;https://1ar.io/projects/ai-eric/eric.jpeg&#34;
+	width=&#34;720&#34;
+	height=&#34;1280&#34;
+	srcset=&#34;https://1ar.io/projects/ai-eric/eric_hube3343b77de99cb499300b8d9b324547_358592_480x0_resize_q75_box.jpeg 480w, https://1ar.io/projects/ai-eric/eric_hube3343b77de99cb499300b8d9b324547_358592_1024x0_resize_q75_box.jpeg 1024w&#34;
+	loading=&#34;eager&#34;
+	
+		alt=&#34;from Eric AI 2.0 announcement&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;56&#34;
+		data-flex-basis=&#34;135px&#34;
+	
+&gt;
+&lt;/p&gt;
 &lt;h2 id=&#34;my-role&#34;&gt;my role&lt;/h2&gt;
 &lt;p&gt;After I have started the initiative of building the AI-powered chatbots in the company (&lt;a class=&#34;link&#34; href=&#34;https://www.hyperinteractive.de/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Hyperinteractive Innovation Studio&lt;/a&gt;) and creating several proofs-of-concept, I acted as tech-lead and creative technologist throughout development of the solution for Eric Hegmann, which included leading the team of developers, prompt engineering and dataset processing. Besides that, I was planning and overseeing the launch of the solution, including test-phases, surveys, and analysis of the QA results.&lt;/p&gt;
@@ -31,7 +46,8 @@ Besides that, we went extra-mile making the conversations to be stored in a secu
 &lt;p&gt;2023-2024&lt;/p&gt;
 &lt;h2 id=&#34;so-what&#34;&gt;so what?&lt;/h2&gt;
 &lt;p&gt;As it was predicted in the &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/dying-2045/&#34; &gt;chapter of the book&lt;/a&gt; I have participated - AI therapist (or, as it called in this case - coach) bots are starting to roll out. It is truly amazing, that I was able to took part in this development just one year after I made an educated guess, that such tools will be on a rise.&lt;br&gt;
-In the meantime, the AI Eric was tested by more than 130 people, with no negative feedback. The purpose of the first test was to figure out how stable the bot is. At the time of writing (December 2023) we are launching the second phase of testing, which would be aiming to improve quality of answers by interviewing a diverse demographic group of users after long-term testing.
+In the meantime, the AI Eric was tested by more than 200 people, with no negative feedback. The purpose of the first test was to figure out how stable the bot is. Two-phased testing shows amazing results, which we have captured in Eric AI launch &lt;a class=&#34;link&#34; href=&#34;https://www.instagram.com/p/C3D2ldFMBly/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;announcement&lt;/a&gt;.
 I am excited and hopeful, that this kind of solutions will make the therapy more accessible and will make the world a better place with happier people.&lt;/p&gt;
 </description>
         </item>
@@ -52,7 +68,7 @@ I am excited and hopeful, that this kind of solutions will make the therapy more
 	width=&#34;3024&#34;
 	height=&#34;4032&#34;
 	srcset=&#34;https://1ar.io/projects/dying-2045/cover_front_hu0fe5f15035e89835aeb2586ca521296f_989091_480x0_resize_q75_box.JPG 480w, https://1ar.io/projects/dying-2045/cover_front_hu0fe5f15035e89835aeb2586ca521296f_989091_1024x0_resize_q75_box.JPG 1024w&#34;
-	loading=&#34;lazy&#34;
+	loading=&#34;eager&#34;
 	
 		alt=&#34;book cover, front&#34;
 	
@@ -61,11 +77,12 @@ I am excited and hopeful, that this kind of solutions will make the therapy more
 		data-flex-grow=&#34;75&#34;
 		data-flex-basis=&#34;180px&#34;
 	
-&gt; &lt;img src=&#34;https://1ar.io/projects/dying-2045/cover-back.JPG&#34;
+&gt;
+ &lt;img src=&#34;https://1ar.io/projects/dying-2045/cover-back.JPG&#34;
 	width=&#34;3024&#34;
 	height=&#34;4032&#34;
 	srcset=&#34;https://1ar.io/projects/dying-2045/cover-back_hu31c0ccc4b1a2d4d9bbee3dd7ee9b2b34_975693_480x0_resize_q75_box.JPG 480w, https://1ar.io/projects/dying-2045/cover-back_hu31c0ccc4b1a2d4d9bbee3dd7ee9b2b34_975693_1024x0_resize_q75_box.JPG 1024w&#34;
-	loading=&#34;lazy&#34;
+	loading=&#34;eager&#34;
 	
 		alt=&#34;book cover, back&#34;
 	
@@ -74,7 +91,8 @@ I am excited and hopeful, that this kind of solutions will make the therapy more
 		data-flex-grow=&#34;75&#34;
 		data-flex-basis=&#34;180px&#34;
 	
-&gt;&lt;/p&gt;
+&gt;
+&lt;/p&gt;
 &lt;h3 id=&#34;my-chapter&#34;&gt;my chapter&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Larionov, P. (2023). Szenarien einer digitalisierten Gesellschaft. In Psychosozial-Verlag eBooks (pp. 297–312). &lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.30820/9783837961058-297&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -231,7 +249,7 @@ The app contained curated and granularly prepared pieces of information, so that
 	width=&#34;2668&#34;
 	height=&#34;1500&#34;
 	srcset=&#34;https://1ar.io/projects/dot-go/dot-all_huebbfad1edfa8e198fe68a27ac6a615ca_897158_480x0_resize_q75_box.jpeg 480w, https://1ar.io/projects/dot-go/dot-all_huebbfad1edfa8e198fe68a27ac6a615ca_897158_1024x0_resize_q75_box.jpeg 1024w&#34;
-	loading=&#34;lazy&#34;
+	loading=&#34;eager&#34;
 	
 		alt=&#34;Dot Go App&#34;
 	
@@ -240,7 +258,8 @@ The app contained curated and granularly prepared pieces of information, so that
 		data-flex-grow=&#34;177&#34;
 		data-flex-basis=&#34;426px&#34;
 	
-&gt;&lt;/p&gt;
+&gt;
+&lt;/p&gt;
 &lt;h2 id=&#34;my-role&#34;&gt;My Role&lt;/h2&gt;
 &lt;p&gt;I joined the project as a creative technologist when a proof of concept was done, but the requirements changed and the quality had to increase. So my first task was to redefine the scope, the metrics, and the desired outcome and get all stakeholders aligned about the new course of actions. Based on the created documentation, we decided to refresh the design and upgrade our object recognition algorithms, while having usability by the target audience (visually impaired users) as our main priority. After several sporty sprints, during which I led the developers team and kept in touch with designers and the agency, we rebuilt the app and delivered the project on time and in the required quality to the stakeholders.&lt;/p&gt;
 &lt;h2 id=&#34;where--with-whom&#34;&gt;Where / With Whom&lt;/h2&gt;
@@ -297,7 +316,7 @@ Scientific group of Prof. Dr. Thomas Schanze.&lt;/p&gt;
 	width=&#34;512&#34;
 	height=&#34;1728&#34;
 	srcset=&#34;https://1ar.io/projects/death-register-germany/scheme_hucb3a330635407ac89677321b73005351_180130_480x0_resize_q75_box.jpg 480w, https://1ar.io/projects/death-register-germany/scheme_hucb3a330635407ac89677321b73005351_180130_1024x0_resize_q75_box.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
+	loading=&#34;eager&#34;
 	
 		alt=&#34;Control Function for the Places of Death Register&#34;
 	
@@ -306,7 +325,8 @@ Scientific group of Prof. Dr. Thomas Schanze.&lt;/p&gt;
 		data-flex-grow=&#34;29&#34;
 		data-flex-basis=&#34;71px&#34;
 	
-&gt;&lt;/p&gt;
+&gt;
+&lt;/p&gt;
 &lt;h1 id=&#34;my-role&#34;&gt;my role&lt;/h1&gt;
 &lt;p&gt;Co-author, data visualization.&lt;/p&gt;
 &lt;h1 id=&#34;where--with-whom&#34;&gt;where / with whom&lt;/h1&gt;

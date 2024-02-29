@@ -22,6 +22,21 @@ Besides that, we went extra-mile making the conversations to be stored in a secu
 &lt;blockquote&gt;
 &lt;p&gt;AI-powered coach is able to democratize access to therapy on scale.&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;https://1ar.io/projects/ai-eric/eric.jpeg&#34;
+	width=&#34;720&#34;
+	height=&#34;1280&#34;
+	srcset=&#34;https://1ar.io/projects/ai-eric/eric_hube3343b77de99cb499300b8d9b324547_358592_480x0_resize_q75_box.jpeg 480w, https://1ar.io/projects/ai-eric/eric_hube3343b77de99cb499300b8d9b324547_358592_1024x0_resize_q75_box.jpeg 1024w&#34;
+	loading=&#34;eager&#34;
+	
+		alt=&#34;from Eric AI 2.0 announcement&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;56&#34;
+		data-flex-basis=&#34;135px&#34;
+	
+&gt;
+&lt;/p&gt;
 &lt;h2 id=&#34;my-role&#34;&gt;my role&lt;/h2&gt;
 &lt;p&gt;After I have started the initiative of building the AI-powered chatbots in the company (&lt;a class=&#34;link&#34; href=&#34;https://www.hyperinteractive.de/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Hyperinteractive Innovation Studio&lt;/a&gt;) and creating several proofs-of-concept, I acted as tech-lead and creative technologist throughout development of the solution for Eric Hegmann, which included leading the team of developers, prompt engineering and dataset processing. Besides that, I was planning and overseeing the launch of the solution, including test-phases, surveys, and analysis of the QA results.&lt;/p&gt;
@@ -31,7 +46,8 @@ Besides that, we went extra-mile making the conversations to be stored in a secu
 &lt;p&gt;2023-2024&lt;/p&gt;
 &lt;h2 id=&#34;so-what&#34;&gt;so what?&lt;/h2&gt;
 &lt;p&gt;As it was predicted in the &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/dying-2045/&#34; &gt;chapter of the book&lt;/a&gt; I have participated - AI therapist (or, as it called in this case - coach) bots are starting to roll out. It is truly amazing, that I was able to took part in this development just one year after I made an educated guess, that such tools will be on a rise.&lt;br&gt;
-In the meantime, the AI Eric was tested by more than 130 people, with no negative feedback. The purpose of the first test was to figure out how stable the bot is. At the time of writing (December 2023) we are launching the second phase of testing, which would be aiming to improve quality of answers by interviewing a diverse demographic group of users after long-term testing.
+In the meantime, the AI Eric was tested by more than 200 people, with no negative feedback. The purpose of the first test was to figure out how stable the bot is. Two-phased testing shows amazing results, which we have captured in Eric AI launch &lt;a class=&#34;link&#34; href=&#34;https://www.instagram.com/p/C3D2ldFMBly/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;announcement&lt;/a&gt;.
 I am excited and hopeful, that this kind of solutions will make the therapy more accessible and will make the world a better place with happier people.&lt;/p&gt;
 </description>
         </item>
@@ -52,7 +68,7 @@ I am excited and hopeful, that this kind of solutions will make the therapy more
 	width=&#34;3024&#34;
 	height=&#34;4032&#34;
 	srcset=&#34;https://1ar.io/projects/dying-2045/cover_front_hu0fe5f15035e89835aeb2586ca521296f_989091_480x0_resize_q75_box.JPG 480w, https://1ar.io/projects/dying-2045/cover_front_hu0fe5f15035e89835aeb2586ca521296f_989091_1024x0_resize_q75_box.JPG 1024w&#34;
-	loading=&#34;lazy&#34;
+	loading=&#34;eager&#34;
 	
 		alt=&#34;book cover, front&#34;
 	
@@ -61,11 +77,12 @@ I am excited and hopeful, that this kind of solutions will make the therapy more
 		data-flex-grow=&#34;75&#34;
 		data-flex-basis=&#34;180px&#34;
 	
-&gt; &lt;img src=&#34;https://1ar.io/projects/dying-2045/cover-back.JPG&#34;
+&gt;
+ &lt;img src=&#34;https://1ar.io/projects/dying-2045/cover-back.JPG&#34;
 	width=&#34;3024&#34;
 	height=&#34;4032&#34;
 	srcset=&#34;https://1ar.io/projects/dying-2045/cover-back_hu31c0ccc4b1a2d4d9bbee3dd7ee9b2b34_975693_480x0_resize_q75_box.JPG 480w, https://1ar.io/projects/dying-2045/cover-back_hu31c0ccc4b1a2d4d9bbee3dd7ee9b2b34_975693_1024x0_resize_q75_box.JPG 1024w&#34;
-	loading=&#34;lazy&#34;
+	loading=&#34;eager&#34;
 	
 		alt=&#34;book cover, back&#34;
 	
@@ -74,7 +91,8 @@ I am excited and hopeful, that this kind of solutions will make the therapy more
 		data-flex-grow=&#34;75&#34;
 		data-flex-basis=&#34;180px&#34;
 	
-&gt;&lt;/p&gt;
+&gt;
+&lt;/p&gt;
 &lt;h3 id=&#34;my-chapter&#34;&gt;my chapter&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Larionov, P. (2023). Szenarien einer digitalisierten Gesellschaft. In Psychosozial-Verlag eBooks (pp. 297–312). &lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.30820/9783837961058-297&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -166,7 +184,7 @@ I am excited and hopeful, that this kind of solutions will make the therapy more
 	width=&#34;1600&#34;
 	height=&#34;948&#34;
 	srcset=&#34;https://1ar.io/p/dying-2045-digital/obsidian_hu443304c6bdc5f6b606472c2ddc4cd025_708325_480x0_resize_box_3.png 480w, https://1ar.io/p/dying-2045-digital/obsidian_hu443304c6bdc5f6b606472c2ddc4cd025_708325_1024x0_resize_box_3.png 1024w&#34;
-	loading=&#34;lazy&#34;
+	loading=&#34;eager&#34;
 	
 		alt=&#34;Obsidian.md&amp;rsquo;s graph view represents interconnected notes, which can be used to cluster and explore topics in personal and professional knowledge databases.&#34;
 	
@@ -175,7 +193,8 @@ I am excited and hopeful, that this kind of solutions will make the therapy more
 		data-flex-grow=&#34;168&#34;
 		data-flex-basis=&#34;405px&#34;
 	
-&gt;&lt;/p&gt;
+&gt;
+&lt;/p&gt;
 &lt;p&gt;With digitalization in healthcare, the process of becoming truly digital varies significantly. Some data is captured in a very digital-friendly, granular form, which is what the FHIR (Fast Healthcare Interoperability Resources) HL7 (Health Level Seven International) standard tries to roll out globally. This standard fundamentally enables interoperability by structuring data, so that every supported system can interpret and allocate the incoming data stream correctly. For example, one field with the patient&amp;rsquo;s name should always be labeled in an unambiguous way, vastly reducing the chance of machine error. However, not every medical system and medical device supports this standard, leaving some data very isolated.&lt;/p&gt;
 &lt;p&gt;Patients often receive results of lab analyses on paper or in PDF, and the same goes for prescriptions. Digital patient records are &lt;a class=&#34;link&#34; href=&#34;https://www.rnd.de/wirtschaft/umfrage-von-bitkom-und-hartmannbund-kliniken-und-praxen-fehlt-digitaler-wandel-UBVZMOXHNVEIHDOWTKX5RPFZ2I.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;barely used&lt;/a&gt;. This means that when patients visit another doctor, the data must either be requested from the lab or entered manually. The ePA (Elektronische Patientenakte) should address this issue by giving patients access to their results and allowing them to grant access to such data to certain doctors or clinics. As long as the adoption of the ePA remains marginally low (&amp;ldquo;Elektronische Patientenakte: Einführung Läuft Schleppend, 2022&amp;rdquo;), the situation won’t change.&lt;/p&gt;
@@ -271,7 +290,7 @@ Without any doubt, each manufacturer and developer also uses the collected data 
 	width=&#34;1480&#34;
 	height=&#34;884&#34;
 	srcset=&#34;https://1ar.io/p/dying-2045-digital/Behavioral_Health_Workforce_hue6b6e50b14b55f18a5570bf580f9e3f0_133160_480x0_resize_box_3.png 480w, https://1ar.io/p/dying-2045-digital/Behavioral_Health_Workforce_hue6b6e50b14b55f18a5570bf580f9e3f0_133160_1024x0_resize_box_3.png 1024w&#34;
-	loading=&#34;lazy&#34;
+	loading=&#34;eager&#34;
 	
 		alt=&#34;behavioral health workforce in US&#34;
 	
@@ -280,7 +299,8 @@ Without any doubt, each manufacturer and developer also uses the collected data 
 		data-flex-grow=&#34;167&#34;
 		data-flex-basis=&#34;401px&#34;
 	
-&gt;&lt;/p&gt;
+&gt;
+&lt;/p&gt;
 &lt;p&gt;The intersection of healthcare shortages and the escalating issue of loneliness presents a particularly challenging situation. The rapid advancement of AI technology offers potential solutions. For instance, the impressive development in generative art through AI platforms like &lt;a class=&#34;link&#34; href=&#34;https://openai.com/blog/dall-e/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Dall-E&lt;/a&gt; and &lt;a class=&#34;link&#34; href=&#34;https://www.midjourney.com/home/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;MidJourney&lt;/a&gt; illustrates the leaps made in AI capabilities. These generative engines transform text into compositionally sensible images, a concept that was almost unimaginable just a few years ago.&lt;/p&gt;
@@ -293,7 +313,7 @@ Without any doubt, each manufacturer and developer also uses the collected data 
 	width=&#34;926&#34;
 	height=&#34;912&#34;
 	srcset=&#34;https://1ar.io/p/dying-2045-digital/abuse1_huda31b3bf7a525fb5494d0a4e9c7ac19c_113236_480x0_resize_box_3.png 480w, https://1ar.io/p/dying-2045-digital/abuse1_huda31b3bf7a525fb5494d0a4e9c7ac19c_113236_1024x0_resize_box_3.png 1024w&#34;
-	loading=&#34;lazy&#34;
+	loading=&#34;eager&#34;
 	
 		alt=&#34;user&amp;rsquo;s test request to the chatbot&#34;
 	
@@ -302,11 +322,12 @@ Without any doubt, each manufacturer and developer also uses the collected data 
 		data-flex-grow=&#34;101&#34;
 		data-flex-basis=&#34;243px&#34;
 	
-&gt; &lt;img src=&#34;https://1ar.io/p/dying-2045-digital/abuse2.png&#34;
+&gt;
+ &lt;img src=&#34;https://1ar.io/p/dying-2045-digital/abuse2.png&#34;
 	width=&#34;840&#34;
 	height=&#34;942&#34;
 	srcset=&#34;https://1ar.io/p/dying-2045-digital/abuse2_hu4c25c94522bb6d31cf30b8980029dc53_109397_480x0_resize_box_3.png 480w, https://1ar.io/p/dying-2045-digital/abuse2_hu4c25c94522bb6d31cf30b8980029dc53_109397_1024x0_resize_box_3.png 1024w&#34;
-	loading=&#34;lazy&#34;
+	loading=&#34;eager&#34;
 	
 		alt=&#34;chatbot&amp;rsquo;s response&#34;
 	
@@ -315,7 +336,8 @@ Without any doubt, each manufacturer and developer also uses the collected data 
 		data-flex-grow=&#34;89&#34;
 		data-flex-basis=&#34;214px&#34;
 	
-&gt;&lt;/p&gt;
+&gt;
+&lt;/p&gt;
 &lt;p&gt;While humans can also be neglectful and make errors, it&amp;rsquo;s important that users don&amp;rsquo;t rely entirely on AI. In fact, it&amp;rsquo;s prudent advice not to rely completely on anything. As machines become increasingly proficient in tasks they are trained to perform, a virtual &amp;ldquo;being&amp;rdquo; designed to be understanding and attentive could be perceived by many as a better partner than a real one. Although this reliance on AI could potentially have a negative impact on human relationships, with people criticizing each other for not being as responsive as machines, there is also an opportunity to learn from these AI systems.&lt;/p&gt;
 &lt;p&gt;The capacity of AI to listen and respond without judgment or fatigue could serve as a model for improving human interactions. By observing how AI maintains patience, offers unbiased support, and handles repetitive inquiries without frustration, people might gain insights into enhancing their communication and empathy skills. However, it&amp;rsquo;s crucial to maintain a balance. Human connections offer depth, emotional nuances, and a level of understanding that AI cannot replicate. Personal relationships are integral to human experience and well-being, providing aspects of interaction that AI cannot fulfill.&lt;/p&gt;
 &lt;p&gt;Therefore, while AI can be a valuable tool in areas like mental health support, especially in the face of professional shortages and increasing loneliness, it should complement rather than replace human connections. Embracing the strengths of AI while acknowledging and preserving the unique value of human interactions will be essential as we navigate this evolving landscape.&lt;/p&gt;
@@ -381,12 +403,13 @@ Without any doubt, each manufacturer and developer also uses the collected data 
 	
 	
 	
-	loading=&#34;lazy&#34;
+	loading=&#34;eager&#34;
 	
 		alt=&#34;the transition&#34;
 	
 	
-&gt;&lt;/p&gt;
+&gt;
+&lt;/p&gt;
 &lt;p&gt;Imagine this: The estimation for a person is several months. In these months, the person decides to create a digital twin and let it live in one of the virtual worlds. The person collects as much data as possible, makes additional recordings of their voice, provides video recordings - all this data is collected and processed with full consent. The last weeks are spent in full submersion mode - the person lives in a headset, while the body is connected to systems of artificial (and maybe autonomous) life support. The relatives are not around, at least not physically, but the person can spend time with children or grandchildren in VR. In the last moments, the person is still online. The system detects that the final moments are close and starts a special event for the relatives, who are on the other side of reality. For them, it looks like the person’s avatar is changing, becoming even more real in the virtual world, symbolizing the transition. When the digital twin is created, the person in the real world has passed away. A special service (agreement signed upfront) takes care of the body autonomously. A gravestone is not required, as the copy will remain in the digital world, and the relatives and friends can interact with the person almost as before. The only difference is, to meet with the person, they don’t have to drive to another city; it is enough to put on the headset or drop a text message. For the relatives, little has changed. With time, more people will join the person on the other side - it is like an ancestral tree, but much more advanced. Instead of a priest, a headset could accompany us in our last dive into the metaverse. They call this simulation - the New Heaven. Commercial ends. Order now.&lt;/p&gt;
 </description>
         </item>
@@ -504,7 +527,7 @@ The app contained curated and granularly prepared pieces of information, so that
 	width=&#34;2668&#34;
 	height=&#34;1500&#34;
 	srcset=&#34;https://1ar.io/projects/dot-go/dot-all_huebbfad1edfa8e198fe68a27ac6a615ca_897158_480x0_resize_q75_box.jpeg 480w, https://1ar.io/projects/dot-go/dot-all_huebbfad1edfa8e198fe68a27ac6a615ca_897158_1024x0_resize_q75_box.jpeg 1024w&#34;
-	loading=&#34;lazy&#34;
+	loading=&#34;eager&#34;
 	
 		alt=&#34;Dot Go App&#34;
 	
@@ -513,7 +536,8 @@ The app contained curated and granularly prepared pieces of information, so that
 		data-flex-grow=&#34;177&#34;
 		data-flex-basis=&#34;426px&#34;
 	
-&gt;&lt;/p&gt;
+&gt;
+&lt;/p&gt;
 &lt;h2 id=&#34;my-role&#34;&gt;My Role&lt;/h2&gt;
 &lt;p&gt;I joined the project as a creative technologist when a proof of concept was done, but the requirements changed and the quality had to increase. So my first task was to redefine the scope, the metrics, and the desired outcome and get all stakeholders aligned about the new course of actions. Based on the created documentation, we decided to refresh the design and upgrade our object recognition algorithms, while having usability by the target audience (visually impaired users) as our main priority. After several sporty sprints, during which I led the developers team and kept in touch with designers and the agency, we rebuilt the app and delivered the project on time and in the required quality to the stakeholders.&lt;/p&gt;
 &lt;h2 id=&#34;where--with-whom&#34;&gt;Where / With Whom&lt;/h2&gt;
@@ -570,7 +594,7 @@ Scientific group of Prof. Dr. Thomas Schanze.&lt;/p&gt;
 	width=&#34;512&#34;
 	height=&#34;1728&#34;
 	srcset=&#34;https://1ar.io/projects/death-register-germany/scheme_hucb3a330635407ac89677321b73005351_180130_480x0_resize_q75_box.jpg 480w, https://1ar.io/projects/death-register-germany/scheme_hucb3a330635407ac89677321b73005351_180130_1024x0_resize_q75_box.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
+	loading=&#34;eager&#34;
 	
 		alt=&#34;Control Function for the Places of Death Register&#34;
 	
@@ -579,7 +603,8 @@ Scientific group of Prof. Dr. Thomas Schanze.&lt;/p&gt;
 		data-flex-grow=&#34;29&#34;
 		data-flex-basis=&#34;71px&#34;
 	
-&gt;&lt;/p&gt;
+&gt;
+&lt;/p&gt;
 &lt;h1 id=&#34;my-role&#34;&gt;my role&lt;/h1&gt;
 &lt;p&gt;Co-author, data visualization.&lt;/p&gt;
 &lt;h1 id=&#34;where--with-whom&#34;&gt;where / with whom&lt;/h1&gt;

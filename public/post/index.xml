@@ -7,7 +7,218 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Pavel Larionov</copyright>
-        <lastBuildDate>Sun, 15 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://1ar.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 02 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://1ar.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>How to create a preview thumbnail for a ULR in Apple Notes on iOS and MacOS</title>
+        <link>https://1ar.io/p/thumbnail-apple-notes/</link>
+        <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://1ar.io/p/thumbnail-apple-notes/</guid>
+        <description>&lt;img src="https://1ar.io/p/thumbnail-apple-notes/thumbnail-generated.jpeg" alt="Featured image of post How to create a preview thumbnail for a ULR in Apple Notes on iOS and MacOS" /&gt;&lt;blockquote&gt;
+&lt;p&gt;Apple Notes creates beautiful thumbnails for URLs, when you share a URL to the note. Unfortunately, there is no straightforward way to create a thumbnail on demand while you are writing the note, e.g. I&amp;rsquo;d expect smth like long tap → create thumbnail or smth.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Maybe someday we will have an easier way, but for now there is a workaround. It works for both &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/p/thumbnail-apple-notes/#how-to-create-a-thumbnail-preview-for-a-url-from-within-the-apple-notes-on-ios-iphoneipad&#34; &gt;iOS&lt;/a&gt; and &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/p/thumbnail-apple-notes/#how-to-create-a-thumbnail-preview-for-a-url-from-within-the-apple-notes-on-macos-macbook&#34; &gt;MacOS&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;how-to-create-a-thumbnail-preview-for-a-url-from-within-the-apple-notes-on-ios-iphoneipad&#34;&gt;How to create a thumbnail preview for a URL from within the Apple Notes on iOS (iPhone/iPad)&lt;/h2&gt;
+&lt;p&gt;The trick is to &lt;strong&gt;simulate drag-and-drop&lt;/strong&gt; while inside of the app.&lt;br&gt;
+In other words, we need force the green  &lt;code&gt;+&lt;/code&gt;  sign to appear.&lt;/p&gt;
+&lt;h3 id=&#34;method-1-easy&#34;&gt;Method 1, easy&lt;/h3&gt;
+&lt;p&gt;This method was proposed by &lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/shorts/8T088LlOxko&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;@soundsgoodtome on YouTube&lt;/a&gt; in comments under the first video I have published on this topic with (&lt;a class=&#34;link&#34; href=&#34;https://1ar.io/p/thumbnail-apple-notes/#method-2-original&#34; &gt;Method 2&lt;/a&gt;). Since then I am only using Method 1.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://1ar.io/p/thumbnail-apple-notes/undo-redo-1.jpeg&#34;
+	width=&#34;1179&#34;
+	height=&#34;2556&#34;
+	srcset=&#34;https://1ar.io/p/thumbnail-apple-notes/undo-redo-1_hu0039bba89a66a7de1164b428f30945a3_147823_480x0_resize_q75_box.jpeg 480w, https://1ar.io/p/thumbnail-apple-notes/undo-redo-1_hu0039bba89a66a7de1164b428f30945a3_147823_1024x0_resize_q75_box.jpeg 1024w&#34;
+	loading=&#34;eager&#34;
+	
+		alt=&#34;holding URL, drag-and-drop mode off&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;46&#34;
+		data-flex-basis=&#34;110px&#34;
+	
+&gt;
+ &lt;img src=&#34;https://1ar.io/p/thumbnail-apple-notes/undo-redo-2.jpeg&#34;
+	width=&#34;1179&#34;
+	height=&#34;2556&#34;
+	srcset=&#34;https://1ar.io/p/thumbnail-apple-notes/undo-redo-2_huf7a706ae1953d2595b15078d9f8ecc42_172068_480x0_resize_q75_box.jpeg 480w, https://1ar.io/p/thumbnail-apple-notes/undo-redo-2_huf7a706ae1953d2595b15078d9f8ecc42_172068_1024x0_resize_q75_box.jpeg 1024w&#34;
+	loading=&#34;eager&#34;
+	
+		alt=&#34;drag-and-drop mode activated after tapping on UNDO&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;46&#34;
+		data-flex-basis=&#34;110px&#34;
+	
+&gt;
+ &lt;img src=&#34;https://1ar.io/p/thumbnail-apple-notes/undo-redo-3.jpeg&#34;
+	width=&#34;1179&#34;
+	height=&#34;2556&#34;
+	srcset=&#34;https://1ar.io/p/thumbnail-apple-notes/undo-redo-3_hu41e3049ffa0150dbf18984003c49350d_188600_480x0_resize_q75_box.jpeg 480w, https://1ar.io/p/thumbnail-apple-notes/undo-redo-3_hu41e3049ffa0150dbf18984003c49350d_188600_1024x0_resize_q75_box.jpeg 1024w&#34;
+	loading=&#34;eager&#34;
+	
+		alt=&#34;pasted thumbnail preview&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;46&#34;
+		data-flex-basis=&#34;110px&#34;
+	
+&gt;
+&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;create/open a note&lt;/li&gt;
+&lt;li&gt;paste/type textual URL to the note&lt;/li&gt;
+&lt;li&gt;tap and hold on the URL&lt;/li&gt;
+&lt;li&gt;tap with another finger on the UNDO button&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;green plus should appear near the plate with the URL as drag-and-drop mode activates at that moment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;tap REDO to preserve the state of the note after pressing UNDO&lt;/li&gt;
+&lt;li&gt;remove finger from the screen to paste the thumbnail&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/VJIVwmABwLw&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&#34;method-2-original&#34;&gt;Method 2, original&lt;/h3&gt;
+&lt;p&gt;This method is somewhat tricky, hence not recommended.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;create/open a note&lt;/li&gt;
+&lt;li&gt;paste/type textual URL to the note&lt;/li&gt;
+&lt;li&gt;dismiss keyboard (swipe down outside of the keyboard)&lt;/li&gt;
+&lt;li&gt;tap and hold on the URL&lt;/li&gt;
+&lt;li&gt;move it out of the way so that you can see the body of the note&lt;/li&gt;
+&lt;li&gt;tap with another finger on the body of the note (goal is to call the keyboard again)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;at that point, green plus should appear near the plate with the URL you should still be holding with your finger&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;8&#34;&gt;
+&lt;li&gt;point with the cursor where you would like to place the thumbnail&lt;/li&gt;
+&lt;li&gt;remove finger from the screen to paste the thumbnail&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;https://1ar.io/p/thumbnail-apple-notes/apple-note-2.jpeg&#34;
+	width=&#34;1179&#34;
+	height=&#34;2556&#34;
+	srcset=&#34;https://1ar.io/p/thumbnail-apple-notes/apple-note-2_hu7ef010e7ebe8b311b72349d6fb290120_142857_480x0_resize_q75_box.jpeg 480w, https://1ar.io/p/thumbnail-apple-notes/apple-note-2_hu7ef010e7ebe8b311b72349d6fb290120_142857_1024x0_resize_q75_box.jpeg 1024w&#34;
+	loading=&#34;eager&#34;
+	
+		alt=&#34;holding URL plate without on-screen keyboard&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;46&#34;
+		data-flex-basis=&#34;110px&#34;
+	
+&gt;
+ &lt;img src=&#34;https://1ar.io/p/thumbnail-apple-notes/apple-note-3.jpeg&#34;
+	width=&#34;1179&#34;
+	height=&#34;2556&#34;
+	srcset=&#34;https://1ar.io/p/thumbnail-apple-notes/apple-note-3_hu7ef010e7ebe8b311b72349d6fb290120_227531_480x0_resize_q75_box.jpeg 480w, https://1ar.io/p/thumbnail-apple-notes/apple-note-3_hu7ef010e7ebe8b311b72349d6fb290120_227531_1024x0_resize_q75_box.jpeg 1024w&#34;
+	loading=&#34;eager&#34;
+	
+		alt=&#34;holding URL plate with on-screen keyboard - green &amp;#43; is visible&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;46&#34;
+		data-flex-basis=&#34;110px&#34;
+	
+&gt;
+ &lt;img src=&#34;https://1ar.io/p/thumbnail-apple-notes/apple-note-4.jpeg&#34;
+	width=&#34;1179&#34;
+	height=&#34;2556&#34;
+	srcset=&#34;https://1ar.io/p/thumbnail-apple-notes/apple-note-4_hu7ef010e7ebe8b311b72349d6fb290120_183124_480x0_resize_q75_box.jpeg 480w, https://1ar.io/p/thumbnail-apple-notes/apple-note-4_hu7ef010e7ebe8b311b72349d6fb290120_183124_1024x0_resize_q75_box.jpeg 1024w&#34;
+	loading=&#34;eager&#34;
+	
+		alt=&#34;thumbnail inserted&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;46&#34;
+		data-flex-basis=&#34;110px&#34;
+	
+&gt;
+&lt;/p&gt;
+&lt;p&gt;For some really weird reason, sometimes this plus appears later, so occasionally the process needs to be repeated.&lt;/p&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/8T088LlOxko&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;how-to-create-a-thumbnail-preview-for-a-url-from-within-the-apple-notes-on-macos-macbook&#34;&gt;How to create a thumbnail preview for a URL from within the Apple Notes on MacOS (Macbook)&lt;/h2&gt;
+&lt;p&gt;You can do the same on MacOS, but the process is a bit different and even more weird. The principle remains the same - we need to drag-and-drop the URL to the body of the note.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;You must have a trackpad for this to work, as you will need forcetouch to open the quick preview of the URL.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;create/open a note&lt;/li&gt;
+&lt;li&gt;paste/type textual URL to the note&lt;/li&gt;
+&lt;li&gt;use trackpad to click and hold on the URL&lt;/li&gt;
+&lt;li&gt;the preview will open (you can release the trackpad)&lt;/li&gt;
+&lt;li&gt;click and drag the URL from the preview; you need to select URL which will lead to the page you want to create a thumbnail for.&lt;/li&gt;
+&lt;li&gt;drag the URL-plate to the body of the note&lt;/li&gt;
+&lt;li&gt;release the trackpad to paste the thumbnail&lt;/li&gt;
+&lt;li&gt;repeat if needed, as you can drop as many thumbnails as you want from this preview (it won&amp;rsquo;t close until you click outside of it)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;https://1ar.io/p/thumbnail-apple-notes/macos-1.jpg&#34;
+	width=&#34;824&#34;
+	height=&#34;1020&#34;
+	srcset=&#34;https://1ar.io/p/thumbnail-apple-notes/macos-1_hu891c2f83036833b54f1a3b5ac4cc3ee0_38144_480x0_resize_q75_box.jpg 480w, https://1ar.io/p/thumbnail-apple-notes/macos-1_hu891c2f83036833b54f1a3b5ac4cc3ee0_38144_1024x0_resize_q75_box.jpg 1024w&#34;
+	loading=&#34;eager&#34;
+	
+		alt=&#34;pick URL from the page you want to create thumbnail for&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;80&#34;
+		data-flex-basis=&#34;193px&#34;
+	
+&gt;
+ &lt;img src=&#34;https://1ar.io/p/thumbnail-apple-notes/macos-2.jpg&#34;
+	width=&#34;824&#34;
+	height=&#34;1020&#34;
+	srcset=&#34;https://1ar.io/p/thumbnail-apple-notes/macos-2_hua22f3e3f9cccb2fe3c1ac3f886d4eb57_39759_480x0_resize_q75_box.jpg 480w, https://1ar.io/p/thumbnail-apple-notes/macos-2_hua22f3e3f9cccb2fe3c1ac3f886d4eb57_39759_1024x0_resize_q75_box.jpg 1024w&#34;
+	loading=&#34;eager&#34;
+	
+		alt=&#34;drop it off to the note&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;80&#34;
+		data-flex-basis=&#34;193px&#34;
+	
+&gt;
+&lt;/p&gt;
+&lt;p&gt;Here is a video to demonstrate the process on macos:&lt;/p&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/0AETyMolDCw&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;I hope it helps and would be happy if you could let me know if you can reproduce this. Feel free drop a comment here, &lt;a class=&#34;link&#34; href=&#34;https://x.com/pa1ar/status/1744852069385994705?s=20&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;tag/DM me on 𝕏&lt;/a&gt; or drop a comment on &lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/@pa1ar&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;YouTube&lt;/a&gt;/&lt;a class=&#34;link&#34; href=&#34;https://www.tiktok.com/@1ar.io/video/7322218545662807329?is_from_webapp=1&amp;amp;sender_device=pc&amp;amp;web_id=7319913510544295457&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;TikTok&lt;/a&gt;.&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Basic PDF page editing on iOS</title>
         <link>https://1ar.io/p/basic-pdf-page-editing-on-ios/</link>
         <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
@@ -26,7 +237,7 @@
 	width=&#34;764&#34;
 	height=&#34;964&#34;
 	srcset=&#34;https://1ar.io/p/basic-pdf-page-editing-on-ios/pdf_hu9eb74e8032f8978e197c743729ee8e93_125450_480x0_resize_box_3.png 480w, https://1ar.io/p/basic-pdf-page-editing-on-ios/pdf_hu9eb74e8032f8978e197c743729ee8e93_125450_1024x0_resize_box_3.png 1024w&#34;
-	loading=&#34;lazy&#34;
+	loading=&#34;eager&#34;
 	
 		alt=&#34;PDF file with pages preview&#34;
 	
@@ -35,7 +246,8 @@
 		data-flex-grow=&#34;79&#34;
 		data-flex-basis=&#34;190px&#34;
 	
-&gt;&lt;/p&gt;
+&gt;
+&lt;/p&gt;
 &lt;div class=&#34;video-wrapper&#34;&gt;
     &lt;video
     controls
@@ -63,7 +275,7 @@
 	width=&#34;1112&#34;
 	height=&#34;992&#34;
 	srcset=&#34;https://1ar.io/p/hotkey-for-activity-monitor-on-macos/automator_hufba2ea6e00ea288c293c5b6517fbe5f4_294524_480x0_resize_box_3.png 480w, https://1ar.io/p/hotkey-for-activity-monitor-on-macos/automator_hufba2ea6e00ea288c293c5b6517fbe5f4_294524_1024x0_resize_box_3.png 1024w&#34;
-	loading=&#34;lazy&#34;
+	loading=&#34;eager&#34;
 	
 		alt=&#34;using automator&#34;
 	
@@ -72,11 +284,12 @@
 		data-flex-grow=&#34;112&#34;
 		data-flex-basis=&#34;269px&#34;
 	
-&gt; &lt;img src=&#34;https://1ar.io/p/hotkey-for-activity-monitor-on-macos/shortcut.png&#34;
+&gt;
+ &lt;img src=&#34;https://1ar.io/p/hotkey-for-activity-monitor-on-macos/shortcut.png&#34;
 	width=&#34;1560&#34;
 	height=&#34;1416&#34;
 	srcset=&#34;https://1ar.io/p/hotkey-for-activity-monitor-on-macos/shortcut_hu4ed0ccca613623cd8fa3beca68ef5887_572836_480x0_resize_box_3.png 480w, https://1ar.io/p/hotkey-for-activity-monitor-on-macos/shortcut_hu4ed0ccca613623cd8fa3beca68ef5887_572836_1024x0_resize_box_3.png 1024w&#34;
-	loading=&#34;lazy&#34;
+	loading=&#34;eager&#34;
 	
 		alt=&#34;adding shortcut&#34;
 	
@@ -85,7 +298,8 @@
 		data-flex-grow=&#34;110&#34;
 		data-flex-basis=&#34;264px&#34;
 	
-&gt;&lt;/p&gt;
+&gt;
+&lt;/p&gt;
 &lt;p&gt;Credits are going to: &lt;a class=&#34;link&#34; href=&#34;https://apple.stackexchange.com/questions/1520/is-there-a-keyboard-shortcut-for-launching-activity-monitor&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Is there a keyboard shortcut for launching Activity Monitor?&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -139,7 +353,7 @@
 	width=&#34;1600&#34;
 	height=&#34;948&#34;
 	srcset=&#34;https://1ar.io/p/dying-2045-digital/obsidian_hu443304c6bdc5f6b606472c2ddc4cd025_708325_480x0_resize_box_3.png 480w, https://1ar.io/p/dying-2045-digital/obsidian_hu443304c6bdc5f6b606472c2ddc4cd025_708325_1024x0_resize_box_3.png 1024w&#34;
-	loading=&#34;lazy&#34;
+	loading=&#34;eager&#34;
 	
 		alt=&#34;Obsidian.md&amp;rsquo;s graph view represents interconnected notes, which can be used to cluster and explore topics in personal and professional knowledge databases.&#34;
 	
@@ -148,7 +362,8 @@
 		data-flex-grow=&#34;168&#34;
 		data-flex-basis=&#34;405px&#34;
 	
-&gt;&lt;/p&gt;
+&gt;
+&lt;/p&gt;
 &lt;p&gt;With digitalization in healthcare, the process of becoming truly digital varies significantly. Some data is captured in a very digital-friendly, granular form, which is what the FHIR (Fast Healthcare Interoperability Resources) HL7 (Health Level Seven International) standard tries to roll out globally. This standard fundamentally enables interoperability by structuring data, so that every supported system can interpret and allocate the incoming data stream correctly. For example, one field with the patient&amp;rsquo;s name should always be labeled in an unambiguous way, vastly reducing the chance of machine error. However, not every medical system and medical device supports this standard, leaving some data very isolated.&lt;/p&gt;
 &lt;p&gt;Patients often receive results of lab analyses on paper or in PDF, and the same goes for prescriptions. Digital patient records are &lt;a class=&#34;link&#34; href=&#34;https://www.rnd.de/wirtschaft/umfrage-von-bitkom-und-hartmannbund-kliniken-und-praxen-fehlt-digitaler-wandel-UBVZMOXHNVEIHDOWTKX5RPFZ2I.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;barely used&lt;/a&gt;. This means that when patients visit another doctor, the data must either be requested from the lab or entered manually. The ePA (Elektronische Patientenakte) should address this issue by giving patients access to their results and allowing them to grant access to such data to certain doctors or clinics. As long as the adoption of the ePA remains marginally low (&amp;ldquo;Elektronische Patientenakte: Einführung Läuft Schleppend, 2022&amp;rdquo;), the situation won’t change.&lt;/p&gt;
@@ -244,7 +459,7 @@ Without any doubt, each manufacturer and developer also uses the collected data 
 	width=&#34;1480&#34;
 	height=&#34;884&#34;
 	srcset=&#34;https://1ar.io/p/dying-2045-digital/Behavioral_Health_Workforce_hue6b6e50b14b55f18a5570bf580f9e3f0_133160_480x0_resize_box_3.png 480w, https://1ar.io/p/dying-2045-digital/Behavioral_Health_Workforce_hue6b6e50b14b55f18a5570bf580f9e3f0_133160_1024x0_resize_box_3.png 1024w&#34;
-	loading=&#34;lazy&#34;
+	loading=&#34;eager&#34;
 	
 		alt=&#34;behavioral health workforce in US&#34;
 	
@@ -253,7 +468,8 @@ Without any doubt, each manufacturer and developer also uses the collected data 
 		data-flex-grow=&#34;167&#34;
 		data-flex-basis=&#34;401px&#34;
 	
-&gt;&lt;/p&gt;
+&gt;
+&lt;/p&gt;
 &lt;p&gt;The intersection of healthcare shortages and the escalating issue of loneliness presents a particularly challenging situation. The rapid advancement of AI technology offers potential solutions. For instance, the impressive development in generative art through AI platforms like &lt;a class=&#34;link&#34; href=&#34;https://openai.com/blog/dall-e/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Dall-E&lt;/a&gt; and &lt;a class=&#34;link&#34; href=&#34;https://www.midjourney.com/home/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;MidJourney&lt;/a&gt; illustrates the leaps made in AI capabilities. These generative engines transform text into compositionally sensible images, a concept that was almost unimaginable just a few years ago.&lt;/p&gt;
@@ -266,7 +482,7 @@ Without any doubt, each manufacturer and developer also uses the collected data 
 	width=&#34;926&#34;
 	height=&#34;912&#34;
 	srcset=&#34;https://1ar.io/p/dying-2045-digital/abuse1_huda31b3bf7a525fb5494d0a4e9c7ac19c_113236_480x0_resize_box_3.png 480w, https://1ar.io/p/dying-2045-digital/abuse1_huda31b3bf7a525fb5494d0a4e9c7ac19c_113236_1024x0_resize_box_3.png 1024w&#34;
-	loading=&#34;lazy&#34;
+	loading=&#34;eager&#34;
 	
 		alt=&#34;user&amp;rsquo;s test request to the chatbot&#34;
 	
@@ -275,11 +491,12 @@ Without any doubt, each manufacturer and developer also uses the collected data 
 		data-flex-grow=&#34;101&#34;
 		data-flex-basis=&#34;243px&#34;
 	
-&gt; &lt;img src=&#34;https://1ar.io/p/dying-2045-digital/abuse2.png&#34;
+&gt;
+ &lt;img src=&#34;https://1ar.io/p/dying-2045-digital/abuse2.png&#34;
 	width=&#34;840&#34;
 	height=&#34;942&#34;
 	srcset=&#34;https://1ar.io/p/dying-2045-digital/abuse2_hu4c25c94522bb6d31cf30b8980029dc53_109397_480x0_resize_box_3.png 480w, https://1ar.io/p/dying-2045-digital/abuse2_hu4c25c94522bb6d31cf30b8980029dc53_109397_1024x0_resize_box_3.png 1024w&#34;
-	loading=&#34;lazy&#34;
+	loading=&#34;eager&#34;
 	
 		alt=&#34;chatbot&amp;rsquo;s response&#34;
 	
@@ -288,7 +505,8 @@ Without any doubt, each manufacturer and developer also uses the collected data 
 		data-flex-grow=&#34;89&#34;
 		data-flex-basis=&#34;214px&#34;
 	
-&gt;&lt;/p&gt;
+&gt;
+&lt;/p&gt;
 &lt;p&gt;While humans can also be neglectful and make errors, it&amp;rsquo;s important that users don&amp;rsquo;t rely entirely on AI. In fact, it&amp;rsquo;s prudent advice not to rely completely on anything. As machines become increasingly proficient in tasks they are trained to perform, a virtual &amp;ldquo;being&amp;rdquo; designed to be understanding and attentive could be perceived by many as a better partner than a real one. Although this reliance on AI could potentially have a negative impact on human relationships, with people criticizing each other for not being as responsive as machines, there is also an opportunity to learn from these AI systems.&lt;/p&gt;
 &lt;p&gt;The capacity of AI to listen and respond without judgment or fatigue could serve as a model for improving human interactions. By observing how AI maintains patience, offers unbiased support, and handles repetitive inquiries without frustration, people might gain insights into enhancing their communication and empathy skills. However, it&amp;rsquo;s crucial to maintain a balance. Human connections offer depth, emotional nuances, and a level of understanding that AI cannot replicate. Personal relationships are integral to human experience and well-being, providing aspects of interaction that AI cannot fulfill.&lt;/p&gt;
 &lt;p&gt;Therefore, while AI can be a valuable tool in areas like mental health support, especially in the face of professional shortages and increasing loneliness, it should complement rather than replace human connections. Embracing the strengths of AI while acknowledging and preserving the unique value of human interactions will be essential as we navigate this evolving landscape.&lt;/p&gt;
@@ -354,12 +572,13 @@ Without any doubt, each manufacturer and developer also uses the collected data 
 	
 	
 	
-	loading=&#34;lazy&#34;
+	loading=&#34;eager&#34;
 	
 		alt=&#34;the transition&#34;
 	
 	
-&gt;&lt;/p&gt;
+&gt;
+&lt;/p&gt;
 &lt;p&gt;Imagine this: The estimation for a person is several months. In these months, the person decides to create a digital twin and let it live in one of the virtual worlds. The person collects as much data as possible, makes additional recordings of their voice, provides video recordings - all this data is collected and processed with full consent. The last weeks are spent in full submersion mode - the person lives in a headset, while the body is connected to systems of artificial (and maybe autonomous) life support. The relatives are not around, at least not physically, but the person can spend time with children or grandchildren in VR. In the last moments, the person is still online. The system detects that the final moments are close and starts a special event for the relatives, who are on the other side of reality. For them, it looks like the person’s avatar is changing, becoming even more real in the virtual world, symbolizing the transition. When the digital twin is created, the person in the real world has passed away. A special service (agreement signed upfront) takes care of the body autonomously. A gravestone is not required, as the copy will remain in the digital world, and the relatives and friends can interact with the person almost as before. The only difference is, to meet with the person, they don’t have to drive to another city; it is enough to put on the headset or drop a text message. For the relatives, little has changed. With time, more people will join the person on the other side - it is like an ancestral tree, but much more advanced. Instead of a priest, a headset could accompany us in our last dive into the metaverse. They call this simulation - the New Heaven. Commercial ends. Order now.&lt;/p&gt;
 </description>
         </item>

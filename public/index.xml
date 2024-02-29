@@ -7,100 +7,458 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Pavel Larionov</copyright>
-        <lastBuildDate>Sat, 30 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://1ar.io/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Basic PDF page editing on iOS</title>
-        <link>https://1ar.io/p/basic-pdf-page-editing-on-ios/</link>
-        <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
+        <lastBuildDate>Sun, 25 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://1ar.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Pavel Larionov</title>
+        <link>https://1ar.io/cv/</link>
+        <pubDate>Sun, 25 Feb 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://1ar.io/p/basic-pdf-page-editing-on-ios/</guid>
-        <description>&lt;img src="https://1ar.io/p/basic-pdf-page-editing-on-ios/smartphone-pdf.jpeg" alt="Featured image of post Basic PDF page editing on iOS" /&gt;&lt;p&gt;For the situations when you need to remove one or another page, or add additional page to you PDF file on iPhone.&lt;/p&gt;
+        <guid>https://1ar.io/cv/</guid>
+        <description>&lt;img src="https://1ar.io/cv/plj.JPG" alt="Featured image of post Pavel Larionov" /&gt;&lt;!-- title: Pavel Larionov --&gt;
+&lt;div class=&#34;button-container&#34;&gt;
+  &lt;a href=&#34;CV Pavel Larionov EN.pdf&#34; 
+  target=&#34;_blank&#34; class=&#34;button&#34; id=&#34;cv-en&#34;&gt;｢ CV as PDF | EN ｣&lt;/a&gt;
+  &lt;a href=&#34;CV Pavel Larionov DE.pdf&#34; 
+  target=&#34;_blank&#34; class=&#34;button&#34; id=&#34;cv-de&#34;&gt;｢ CV as PDF | DE ｣&lt;/a&gt;
+&lt;/div&gt;
+&lt;p&gt;Analytical and visionary innovation and technology leader with a Master of Science degree in biomedical engineering and extensive experience in digital technology, IT project leadership, and digital transformation. Over a decade of experience bridging the gap between technology, product development and business strategy. Demonstrated success in pioneering projects and leveraging AI to drive growth and enrich the customer experience. Skilled at catalyzing collaboration across diverse teams and departments to synchronize technology efforts with business goals.&lt;/p&gt;
+&lt;p&gt;Notable projects include leading development of an award-winning iOS app &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/dot-go&#34; &gt;Dot Go&lt;/a&gt; for the visually impaired, &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/the-truth-wins&#34; &gt;The Truth Wins&lt;/a&gt; campaign to navigate around censorship and sparking AI initiatives within the company, manifested by the most recent project - &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/ai-eric&#34; &gt;AI Eric&lt;/a&gt;, a relationship coach.&lt;/p&gt;
+&lt;a href=&#34;https://1ar.io/awards&#34;&gt;
+  &lt;img src=&#34;logos_strip.png&#34; alt=&#34;logos strip&#34;&gt;
+&lt;/a&gt;
+&lt;p&gt;Previously engaged in biomedical technology, I contributed to neuroscience research by developing a &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/spike-sorting&#34; &gt;spike sorting&lt;/a&gt; algorithm, and leading a project to improve &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/avenue-pal&#34; &gt;palliative care&lt;/a&gt; through tech-enabled solutions. Alongside, I&amp;rsquo;ve always enjoyed sharing knowledge, be it through tutoring engineering subjects in the lab of my university, leading martial arts groups for kids and adults, or introducing collaborative digital tools for perpetual knowledge management to the co-workers.&lt;/p&gt;
+&lt;p&gt;I am thrilled about the boundless potential of human-machine symbiosis, and never stop exploring new ways to harness technology for meaningful solutions.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;areas-of-expertise&#34;&gt;Areas of Expertise&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Strategic IT and Product Vision&lt;/li&gt;
+&lt;li&gt;AI Integration and Leadership&lt;/li&gt;
+&lt;li&gt;Innovation &amp;amp; Digital Transformation&lt;/li&gt;
+&lt;li&gt;Leading &amp;amp; Execution Research &amp;amp; Development&lt;/li&gt;
+&lt;li&gt;International Business &amp;amp; Relations&lt;/li&gt;
+&lt;li&gt;Data-Driven Decision Making&lt;/li&gt;
+&lt;li&gt;Idea-to-launch Product Development&lt;/li&gt;
+&lt;li&gt;Client Engagement and Relationship Management&lt;/li&gt;
+&lt;li&gt;Technical and Scientific Writing&lt;/li&gt;
+&lt;li&gt;Public Speaking and Workshop Facilitation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;List of skills is &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/skills&#34; &gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;languages&#34;&gt;Languages&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;English: Fluent&lt;/li&gt;
+&lt;li&gt;German: Fluent&lt;/li&gt;
+&lt;li&gt;Russian: Native&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;professional-experience&#34;&gt;Professional Experience&lt;/h2&gt;
+&lt;h3 id=&#34;hyperinteractive-innovation-studio&#34;&gt;Hyperinteractive Innovation Studio&lt;/h3&gt;
+&lt;p&gt;Fully remote team with headquarters in Hamburg, Germany&lt;/p&gt;
+&lt;h4 id=&#34;creative-technologist&#34;&gt;&lt;strong&gt;Creative Technologist&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;Hyperinteractive Innovation Studio | Oct 2021 - Feb 2024 (2 yrs 5 mos)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Prepared comprehensive research documentation, ideation sessions, architecture design, technical evaluation, project timelines, and cost estimations, and presented those findings as pitches to clients for over 30 projects. About 50% of those projects were successfully executed, ensuring steady income for the company.&lt;/li&gt;
+&lt;li&gt;Launched more than 15 projects as creative technologist and technical director for cross-functional teams, ensuring transparent client communication, timely delivery, and high-quality control.&lt;/li&gt;
+&lt;li&gt;Projects with my direct participation as leader of multidisciplinary development units received over 50 international industry awards within 2 years of assignment, including iF Design Awards, Cannes Lions, Eurobest, New York Festival, Art Directors Club, etc., boosting the company&amp;rsquo;s market visibility. See full list of awards &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/awards&#34; &gt;1ar.io/awards&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Integrated AI into 8 projects and pioneered the implementation of generative GPT-powered solutions, increasing user satisfaction by up to 80%.&lt;/li&gt;
+&lt;li&gt;Initiated and nurtured a knowledge exchange program within the company, facilitated over 100 internal sessions, wrote 3 articles about cutting edge technologies for company&amp;rsquo;s blog, and led 3 external workshops with up to 100+ participants, leading to new business opportunities.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;university-of-applied-sciences&#34;&gt;University of Applied Sciences&lt;/h3&gt;
+&lt;p&gt;Giessen (Hesse), Germany
+&lt;strong&gt;Two promotions within 4.5 years of assignment&lt;/strong&gt;&lt;/p&gt;
+&lt;h4 id=&#34;information-technology-project-lead&#34;&gt;Information Technology Project Lead&lt;/h4&gt;
+&lt;p&gt;University of Applied Sciences | Sep 2019 - May 2021 (1 yr 9 mos)&lt;/p&gt;
+&lt;p&gt;Led a Research &amp;amp; Development Unit of 18 team members in an &lt;a class=&#34;link&#34; href=&#34;https://innovationsfonds.g-ba.de/projekte/versorgungsforschung/avenue-pal-analyse-und-verbesserung-des-sektor-und-bereichsuebergreifenden-schnittstellen-und-verlegungsmanagements-in-der-palliativversorgung.161&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Avenue-Pal&lt;/a&gt; consortium project, which was funded with €2 million, aimed at improving palliative care nationwide through tech-enabled solutions: Caregiver App and HelpDesk.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Led the development of the Caregiver App, a mobile application for iOS and Android, which significantly simplified patient information capture in a compatible data exchange format and provided granular educational support for caregivers at various stages of palliative care by providing over 60 curated articles. The app was tested by over 10 individuals and evaluated by independent healthcare professionals as highly beneficial.&lt;/li&gt;
+&lt;li&gt;Led the development of the HelpDesk, a web-based assistance platform for caring homes and hospitals, converting text-based guidelines into an actionable and dynamic system with over 857 items, which was evaluated as highly helpful by participating healthcare institutions.&lt;/li&gt;
+&lt;li&gt;Engaged in project management and achieved the possibility to gradually grow the project team from 5 to 18 members, ensuring timely delivery and high-quality control.&lt;/li&gt;
+&lt;li&gt;Organized the final symposium and delivered one of the keynotes about the project for 100+ participants, gathering high-profile governmental and scientific stakeholders from all parts of Germany.&lt;/li&gt;
+&lt;li&gt;Contributed to more than 3 publications, capturing the outcomes of the Avenue-Pal project from technical, organizational, and sociological perspectives, ensuring the project&amp;rsquo;s visibility and potential for further funding.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;project-engineer&#34;&gt;Project Engineer&lt;/h4&gt;
+&lt;p&gt;University of Applied Sciences | Dec 2018 - Aug 2019 (9 mos)&lt;/p&gt;
+&lt;p&gt;Concept design and prototyping of the Caregiver App and HelpDesk for the &lt;a class=&#34;link&#34; href=&#34;https://innovationsfonds.g-ba.de/projekte/versorgungsforschung/avenue-pal-analyse-und-verbesserung-des-sektor-und-bereichsuebergreifenden-schnittstellen-und-verlegungsmanagements-in-der-palliativversorgung.161&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Avenue-Pal&lt;/a&gt; consortium project, aiming to enhance the quality of life of patients nationwide in their last life phase by improving the information flow between doctors and palliative experts and reducing the non-indicated patient transfers from 20% to 5%, which affects 150,000 individuals annually.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Conducted user research and a 7+ expert review of the high-fidelity prototype for the solutions developed in the project, leading to 2 major iterations of reconceptualization for the initial idea, which helped significantly optimize the cost by ensuring the correct direction of development.&lt;/li&gt;
+&lt;li&gt;Managed the procurement of 20+ pieces of equipment and 3 different software tools, ensuring a uniform development environment.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;research-associate-and-tutor&#34;&gt;&lt;strong&gt;Research Associate and Tutor&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;University of Applied Sciences | Dec 2016 - Nov 2018 (2 yrs)&lt;/p&gt;
+&lt;p&gt;Member of the scientific group of Prof. Dr. Thomas Schanze, contributing to research in neuroscience and biological signal processing.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tutored 50+ students across 2 modules (&amp;ldquo;Digital Systems&amp;rdquo;, &amp;ldquo;Theory of Systems and Control Technology&amp;rdquo;), resulting in an 85%+ pass rate in practical examinations and marked improvements in students&amp;rsquo; practical application skills.&lt;/li&gt;
+&lt;li&gt;Author and co-author of 5 peer-reviewed scientific papers (read 642 times and cited 6 times) on spike sorting of neurological signals, published in national journals and presented at scientific conferences, ensuring an increase in the university&amp;rsquo;s scientific score and recognizability.&lt;/li&gt;
+&lt;li&gt;Supervised 3 bachelor students in their thesis writing phase, organized practical experiments for 20+ master students, which promoted scientific activity and publication writing among young researchers.&lt;/li&gt;
+&lt;li&gt;Assisted in the organization of two international scientific conferences, &amp;ldquo;Bioniq&amp;rdquo;, which were held at the university in Germany and in Cyprus, attracting over 150 attendees in total, ensuring the university&amp;rsquo;s visibility and potential for international cooperation between German and Iraqi students.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;additional-experience&#34;&gt;Additional Experience:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Managing Director&lt;/strong&gt; (Frankfurt am Main, Germany) | Veronica Medical Equipment Ltd. | Jun 2014 - May 2019 (5 yrs)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;International Sales Manager&lt;/strong&gt; (Öskemen, Kazakhstan) | West-Trading (medical equipment, wholesale and technical support) | Jan 2013 - Jun 2014 (1 yr 6 mos)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sales Manager&lt;/strong&gt; (Öskemen, Kazakhstan) | Tropicana Touristic Agency | Jan 2013 - Jun 2014 (1 yr 6 mos)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Assistant Coach&lt;/strong&gt; (Öskemen, Kazakhstan) | Öskemen Aikido &amp;amp; Kendo Martial Arts Dojo | 2011 (1 yr)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+&lt;h3 id=&#34;msc-biomedical-engineering&#34;&gt;M.Sc. Biomedical Engineering&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;University of Applied Sciences Mittelhessen&lt;/strong&gt; | &lt;a class=&#34;link&#34; href=&#34;https://www.thm.de/site/en/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;thm.de&lt;/a&gt;  | 2017 - 2019&lt;br&gt;
+&lt;strong&gt;Grade:&lt;/strong&gt; 1.4 (ECTS grading scale)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Master’s thesis:&lt;/strong&gt; &lt;em&gt;&amp;ldquo;Spike Sorting of Multivariate Signals&amp;rdquo;&lt;/em&gt;, Grade: A, (1.1, 94%).&lt;br&gt;
+&lt;em&gt;Developed an improved method of spike sorting for multichannel electrode arrays (also applicable for non-medial fields), which was published in a peer-reviewed journal and presented at a scientific conference.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;*&lt;strong&gt;Honors &amp;amp; Awards:&lt;/strong&gt; Awarded the DAAD scholarship for selected international Master students, showing notable academic achievements and potential.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Activities:&lt;/strong&gt; Member of the Institute of Biomedical Technology (IBMT). Participated in the Bioniq International Biomedical Summer School in Cyprus.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Focus areas:&lt;/strong&gt; biosignals, neuroscience, algorithms, biocybernetics, and prosthetics, aligning with current industry innovations in medical technology.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;bsc-biomedical-engineering&#34;&gt;B.Sc. Biomedical Engineering&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;University of Applied Sciences Mittelhessen&lt;/strong&gt; | &lt;a class=&#34;link&#34; href=&#34;https://www.thm.de/site/en/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;thm.de&lt;/a&gt; | 2013 - 2017 &lt;br&gt;
+&lt;strong&gt;Grade:&lt;/strong&gt; 2.6 (ECTS grading scale)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Bachelor’s Thesis:&lt;/strong&gt; &lt;em&gt;“Correlation Based Spike Sorting”&lt;/em&gt;, Grade: A (1.1, 94%)&lt;br&gt;
+&lt;em&gt;Developed a lightweight, easy-to-use, and fast spike sorting algorithm based on the calculation of correlations of spikes’ waveforms, which was published in a peeer-reviewed journal and presented at a scientific conference.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Honors &amp;amp; Awards:&lt;/strong&gt; Awarded the DAAD scholarship for selected international Bachelor students, showing notable academic achievements and potential.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Activities:&lt;/strong&gt; Contributed to the organization and success of the international &amp;ldquo;Bioniq&amp;rdquo; scientific conference. Took part and held presentation &lt;em&gt;&amp;ldquo;Current Frontiers in Nuclear Reactors&amp;rdquo;&lt;/em&gt; at the scientific conference for students &amp;ldquo;Physics in the Healthcare&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Focus areas:&lt;/strong&gt; microbiology, material science, programming&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;ba-international-relations&#34;&gt;B.A. International Relations&lt;/h3&gt;
+&lt;p&gt;Sarsen Amanzholov East-Kazakhstan State University | &lt;a class=&#34;link&#34; href=&#34;https://vku.edu.kz/en/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;vku.kz&lt;/a&gt; | 2007 - 2012&lt;br&gt;
+Grade: B+, 3.56, 89% (USA grading scale)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Bachelor’s Thesis:&lt;/strong&gt; &lt;em&gt;“International Partnership between Germany and Kazakhstan”&lt;/em&gt;, Grade: A, (4.00, 98%)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Activities:&lt;/strong&gt; engaged in the debate club and organized student events, developing strong communication, negotiation, and leadership skills.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Focus areas:&lt;/strong&gt; history, politics, regional management, diplomacy (conflict solving, ethics and protocols, international negotiations), foreign languages (English and German, Chinese)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;awards&#34;&gt;Awards&lt;/h2&gt;
+&lt;h3 id=&#34;2023&#34;&gt;2023&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Dot Go App&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;iF Design Award: Design Award (Communication/Apps/Software), Design Award (User Interface/Digital Media Interfaces)&lt;/li&gt;
+&lt;li&gt;Clio Awards: 2 Silver (Digital/Mobile &amp;amp; Social Media Craft, Innovation), 2 Bronze (Creative Use of Data, Digital/Mobile)&lt;/li&gt;
+&lt;li&gt;D&amp;amp;AD: 2 Graphite (Experiential/Use of MR, Direct/Innovation), Silver (Digital/Health &amp;amp; Wellbeing)&lt;/li&gt;
+&lt;li&gt;Webby: Best Practices, People’s Voice Award (Apps, dApps and Software/Experimental &amp;amp; Innovation)&lt;/li&gt;
+&lt;li&gt;ADC: Merit (Design for Good/Interactive)&lt;/li&gt;
+&lt;li&gt;One Club: Gold (Innovation &amp;amp; Transformation, Online &amp;amp; Mobile), Silver (Augmented, Virtual &amp;amp; Mixed Reality), Bronze (Use of Technology), Merit (Digital Design)&lt;/li&gt;
+&lt;li&gt;The Andy’s: 2 Gold (Reset, Idea)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;The Truth Wins&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;One Club: Silver (Social Post/Single Platform Series), 4 Merit (Various Categories)&lt;/li&gt;
+&lt;li&gt;ADC: Bronze (Design for Good/Advertising - Single), 3 Merit (Various Categories)&lt;/li&gt;
+&lt;li&gt;Clio Awards: 3 Silver (PR/Cause Related, Public Affairs, Social Media/Single Platform), Bronze (Digital/Mobile/Other)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2022&#34;&gt;2022&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Dot Go App&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Cannes Lions: Silver (Brand Experience &amp;amp; Activation)&lt;/li&gt;
+&lt;li&gt;New York Festivals: Gold (Innovation: Technology), 3 Silver (Best Innovation, Product Innovation, Apps)&lt;/li&gt;
+&lt;li&gt;Epica Awards: Gold (Apps &amp;amp; Games), Silver (Creative Use of AI)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;The Truth Wins&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Cannes Lions: Silver (PR Lions), Bronze (Sustainable Development Goals Lions)&lt;/li&gt;
+&lt;li&gt;Eurobest: Gold (Media), 3 Bronze (Culture &amp;amp; Context, Social Engagement &amp;amp; Influencer Marketing, Social Insights &amp;amp; Engagement)&lt;/li&gt;
+&lt;li&gt;Gerety Awards: Gold (Media Cut/Mobile), Silver (Work for Good Cut/Mobile), Bronze (Communication Cut/Mobile)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2021&#34;&gt;2021&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Dot Go App&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Eurobest: Grand Prix (Innovation), Silver (Digital Craft)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;open PDF in files&lt;/li&gt;
-&lt;li&gt;tap on pages indicator (top left)&lt;/li&gt;
-&lt;li&gt;tap on page after which you want to add pages (or which you want to remove)&lt;/li&gt;
-&lt;li&gt;“insert from file” (“delete”)&lt;/li&gt;
-&lt;li&gt;(select files)&lt;/li&gt;
-&lt;li&gt;“done”&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Series of articles for &lt;a class=&#34;link&#34; href=&#34;https://www.hyperinteractive.de/blog/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Hyperinteractive Innovation Studio&amp;rsquo;s blog&lt;/a&gt;, 2024.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.hyperinteractive.de/composite-ai-the-art-of-ai-collaboration/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;em&gt;Composite AI: the Art of AI collaboration&lt;/em&gt;&lt;/a&gt; | &lt;a class=&#34;link&#34; href=&#34;https://web.archive.org/web/20240222235901/https://www.hyperinteractive.de/composite-ai-the-art-of-ai-collaboration/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;archive&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.hyperinteractive.de/fediverse/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;em&gt;Beyond Centralized Social Media: How Open Protocols are Reshaping Internet&lt;/em&gt;&lt;/a&gt; | &lt;a class=&#34;link&#34; href=&#34;https://web.archive.org/web/20240223001927/https://www.hyperinteractive.de/fediverse/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;archive&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.hyperinteractive.de/reimagining-offline-experiences-with-spatial-computing/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;em&gt;Reimagining Offline Experiences with Spatial Computing&lt;/em&gt;&lt;/a&gt; | &lt;a class=&#34;link&#34; href=&#34;https://web.archive.org/web/20240223000418/https://www.hyperinteractive.de/reimagining-offline-experiences-with-spatial-computing/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;archive&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.hyperinteractive.de/navigating-the-future-top-5-tech-trends-for-2024-shaping-hyperinteractive/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;em&gt;Navigating the Future: Top 5 Tech Trends for 2024&lt;/em&gt;&lt;/a&gt; | &lt;a class=&#34;link&#34; href=&#34;https://web.archive.org/web/20240223001145/https://www.hyperinteractive.de/navigating-the-future-top-5-tech-trends-for-2024-shaping-hyperinteractive/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;archive&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/dying-2045&#34; &gt;&lt;strong&gt;Scenarios of Dying a Digitalized Society&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;In: &lt;em&gt;How Will We Die in the Future?&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Publisher: Psychosozial-Verlag, Date: Sep, 2023&lt;/li&gt;
+&lt;li&gt;Description: Exploration of the impacts of digitalization on individual, social, and institutional approaches to dying, death, and mourning by 2045. Scenario development for future organization of these aspects, presenting desirable perspectives, and identifying actionable steps.&lt;/li&gt;
+&lt;li&gt;Larionov, P. (2023). &amp;ldquo;Wie werden wir in Zukunft sterben? Szenarien einer digitalisierten Gesellschaft,&amp;rdquo; pp. 297-312. ISBN print: 978-3-8379-3232-4, ISBN online: 978-3-8379-6105-8. &lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.30820/9783837961058-297&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;DOI: doi.org/10.30820/9783837961058-297&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://sterben-tod-trauer-2045.de/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Project Website&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/spike-sorting-multivariate&#34; &gt;&lt;strong&gt;Correlation-based Spike Sorting of Multivariate Data&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Publisher: De Gruyter, Date: Sep 18, 2019&lt;/li&gt;
+&lt;li&gt;Larionov, P., Juergens, T. &amp;amp; Schanze, T. (2019). Current Directions in Biomedical Engineering, 5(1), pp. 113-116. &lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.1515/cdbme-2019-0029&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;DOI: 10.1515/cdbme-2019-0029&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Description: Introduced a novel method for automated classification of waveforms, particularly spikes recorded with multichannel electrode arrays, using principles of correlation and a Monte Carlo method for k-means clusters estimation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/death-register-germany&#34; &gt;&lt;strong&gt;Does Healthcare Research in Germany Need a Register of Places of Death?&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Publisher: Monitor Versorgungsforschung, Date: Jun 1, 2019&lt;/li&gt;
+&lt;li&gt;George, W., Fritz, T., Papke, J., Weber, K., &amp;amp; Larionov, P. (2019). 12. 48-51. &lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.24945/MVF.06.19.1866-0533.2191&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;DOI: 10.24945/MVF.06.19.1866-0533.2191&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Description: Discussion on the need for a centralized register or database to track places of death in Germany, analyzing the potential benefits for quality management, health system design, and other stakeholders.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/spike-sorting-ecg&#34; &gt;&lt;strong&gt;Adaption of a Spike Sorting Algorithm to ECG Signals&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Publisher: De Gruyter, Date: Sep 1, 2018&lt;/li&gt;
+&lt;li&gt;Larionov, P., Janssen J.-D. and Schanze T. (2018). Biomedical Engineering / Biomedizinische Technik, Volume 63, Issue s1, Page 394. &lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.1515/bmt-2018-6051&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;DOI: 10.1515/bmt-2018-6051&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Description: Adaptation of a previously published spike sorting algorithm for analyzing ECG signals, demonstrating potential for sorting and differentiating normal and anomalous P-waves, QRS-complexes, and T-waves.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/spike-sorting&#34; &gt;&lt;strong&gt;Correlation Based Spike Sorting&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Publisher: Pabst Science Publishers, Date: Mar 16, 2018&lt;/li&gt;
+&lt;li&gt;Larionov, P. and Schanze T. (2018). Automed 2018 - Villingen-Schwenningen, March 15-16, Automed 2018 in Villingen-Schwenningen Tagungsband, pp. 71-73.&lt;/li&gt;
+&lt;li&gt;Description: Development of a resource-saving, easy-to-use, and fast spike sorting algorithm based on the calculation of correlations of spikes’ waveforms.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;img src=&#34;https://1ar.io/p/basic-pdf-page-editing-on-ios/pdf.png&#34;
-	width=&#34;764&#34;
-	height=&#34;964&#34;
-	srcset=&#34;https://1ar.io/p/basic-pdf-page-editing-on-ios/pdf_hu9eb74e8032f8978e197c743729ee8e93_125450_480x0_resize_box_3.png 480w, https://1ar.io/p/basic-pdf-page-editing-on-ios/pdf_hu9eb74e8032f8978e197c743729ee8e93_125450_1024x0_resize_box_3.png 1024w&#34;
-	loading=&#34;lazy&#34;
+</description>
+        </item>
+        <item>
+        <title>How to create a preview thumbnail for a ULR in Apple Notes on iOS and MacOS</title>
+        <link>https://1ar.io/p/thumbnail-apple-notes/</link>
+        <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+        
+        <guid>https://1ar.io/p/thumbnail-apple-notes/</guid>
+        <description>&lt;img src="https://1ar.io/p/thumbnail-apple-notes/thumbnail-generated.jpeg" alt="Featured image of post How to create a preview thumbnail for a ULR in Apple Notes on iOS and MacOS" /&gt;&lt;blockquote&gt;
+&lt;p&gt;Apple Notes creates beautiful thumbnails for URLs, when you share a URL to the note. Unfortunately, there is no straightforward way to create a thumbnail on demand while you are writing the note, e.g. I&amp;rsquo;d expect smth like long tap → create thumbnail or smth.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Maybe someday we will have an easier way, but for now there is a workaround. It works for both &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/p/thumbnail-apple-notes/#how-to-create-a-thumbnail-preview-for-a-url-from-within-the-apple-notes-on-ios-iphoneipad&#34; &gt;iOS&lt;/a&gt; and &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/p/thumbnail-apple-notes/#how-to-create-a-thumbnail-preview-for-a-url-from-within-the-apple-notes-on-macos-macbook&#34; &gt;MacOS&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;how-to-create-a-thumbnail-preview-for-a-url-from-within-the-apple-notes-on-ios-iphoneipad&#34;&gt;How to create a thumbnail preview for a URL from within the Apple Notes on iOS (iPhone/iPad)&lt;/h2&gt;
+&lt;p&gt;The trick is to &lt;strong&gt;simulate drag-and-drop&lt;/strong&gt; while inside of the app.&lt;br&gt;
+In other words, we need force the green  &lt;code&gt;+&lt;/code&gt;  sign to appear.&lt;/p&gt;
+&lt;h3 id=&#34;method-1-easy&#34;&gt;Method 1, easy&lt;/h3&gt;
+&lt;p&gt;This method was proposed by &lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/shorts/8T088LlOxko&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;@soundsgoodtome on YouTube&lt;/a&gt; in comments under the first video I have published on this topic with (&lt;a class=&#34;link&#34; href=&#34;https://1ar.io/p/thumbnail-apple-notes/#method-2-original&#34; &gt;Method 2&lt;/a&gt;). Since then I am only using Method 1.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://1ar.io/p/thumbnail-apple-notes/undo-redo-1.jpeg&#34;
+	width=&#34;1179&#34;
+	height=&#34;2556&#34;
+	srcset=&#34;https://1ar.io/p/thumbnail-apple-notes/undo-redo-1_hu0039bba89a66a7de1164b428f30945a3_147823_480x0_resize_q75_box.jpeg 480w, https://1ar.io/p/thumbnail-apple-notes/undo-redo-1_hu0039bba89a66a7de1164b428f30945a3_147823_1024x0_resize_q75_box.jpeg 1024w&#34;
+	loading=&#34;eager&#34;
 	
-		alt=&#34;PDF file with pages preview&#34;
+		alt=&#34;holding URL, drag-and-drop mode off&#34;
 	
 	
 		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;79&#34;
-		data-flex-basis=&#34;190px&#34;
+		data-flex-grow=&#34;46&#34;
+		data-flex-basis=&#34;110px&#34;
 	
-&gt;&lt;/p&gt;
+&gt;
+ &lt;img src=&#34;https://1ar.io/p/thumbnail-apple-notes/undo-redo-2.jpeg&#34;
+	width=&#34;1179&#34;
+	height=&#34;2556&#34;
+	srcset=&#34;https://1ar.io/p/thumbnail-apple-notes/undo-redo-2_huf7a706ae1953d2595b15078d9f8ecc42_172068_480x0_resize_q75_box.jpeg 480w, https://1ar.io/p/thumbnail-apple-notes/undo-redo-2_huf7a706ae1953d2595b15078d9f8ecc42_172068_1024x0_resize_q75_box.jpeg 1024w&#34;
+	loading=&#34;eager&#34;
+	
+		alt=&#34;drag-and-drop mode activated after tapping on UNDO&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;46&#34;
+		data-flex-basis=&#34;110px&#34;
+	
+&gt;
+ &lt;img src=&#34;https://1ar.io/p/thumbnail-apple-notes/undo-redo-3.jpeg&#34;
+	width=&#34;1179&#34;
+	height=&#34;2556&#34;
+	srcset=&#34;https://1ar.io/p/thumbnail-apple-notes/undo-redo-3_hu41e3049ffa0150dbf18984003c49350d_188600_480x0_resize_q75_box.jpeg 480w, https://1ar.io/p/thumbnail-apple-notes/undo-redo-3_hu41e3049ffa0150dbf18984003c49350d_188600_1024x0_resize_q75_box.jpeg 1024w&#34;
+	loading=&#34;eager&#34;
+	
+		alt=&#34;pasted thumbnail preview&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;46&#34;
+		data-flex-basis=&#34;110px&#34;
+	
+&gt;
+&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;create/open a note&lt;/li&gt;
+&lt;li&gt;paste/type textual URL to the note&lt;/li&gt;
+&lt;li&gt;tap and hold on the URL&lt;/li&gt;
+&lt;li&gt;tap with another finger on the UNDO button&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;green plus should appear near the plate with the URL as drag-and-drop mode activates at that moment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;tap REDO to preserve the state of the note after pressing UNDO&lt;/li&gt;
+&lt;li&gt;remove finger from the screen to paste the thumbnail&lt;/li&gt;
+&lt;/ol&gt;
 &lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;video
-    controls
-    src=&#34;https://1ar.io/post/How%20to%20Add%20Remove%20PDF%e2%80%99s%20Pages%20Without%203rd%20Party%20Apps/pdf.mp4&#34;
-    
-    autoplay
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/VJIVwmABwLw&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
     &gt;
-        &lt;p&gt;
-            Your browser doesn&#39;t support HTML5 video. Here is a
-            &lt;a href=&#34;https://1ar.io/post/How%20to%20Add%20Remove%20PDF%e2%80%99s%20Pages%20Without%203rd%20Party%20Apps/pdf.mp4&#34;&gt;link to the video&lt;/a&gt; instead.
-        &lt;/p&gt;
-    &lt;/video&gt;
+    &lt;/iframe&gt;
 &lt;/div&gt;
 
-</description>
-        </item>
-        <item>
-        <title>Hotkey for Activity Monitor on MacOS</title>
-        <link>https://1ar.io/p/hotkey-for-activity-monitor-on-macos/</link>
-        <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
-        
-        <guid>https://1ar.io/p/hotkey-for-activity-monitor-on-macos/</guid>
-        <description>&lt;img src="https://1ar.io/p/hotkey-for-activity-monitor-on-macos/activity-monitor.jpeg" alt="Featured image of post Hotkey for Activity Monitor on MacOS" /&gt;&lt;p&gt;&lt;code&gt;/Users/USERNAME/Library/Services/Run Activity Monitor.workflow&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://1ar.io/p/hotkey-for-activity-monitor-on-macos/automator.png&#34;
-	width=&#34;1112&#34;
-	height=&#34;992&#34;
-	srcset=&#34;https://1ar.io/p/hotkey-for-activity-monitor-on-macos/automator_hufba2ea6e00ea288c293c5b6517fbe5f4_294524_480x0_resize_box_3.png 480w, https://1ar.io/p/hotkey-for-activity-monitor-on-macos/automator_hufba2ea6e00ea288c293c5b6517fbe5f4_294524_1024x0_resize_box_3.png 1024w&#34;
-	loading=&#34;lazy&#34;
+&lt;h3 id=&#34;method-2-original&#34;&gt;Method 2, original&lt;/h3&gt;
+&lt;p&gt;This method is somewhat tricky, hence not recommended.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;create/open a note&lt;/li&gt;
+&lt;li&gt;paste/type textual URL to the note&lt;/li&gt;
+&lt;li&gt;dismiss keyboard (swipe down outside of the keyboard)&lt;/li&gt;
+&lt;li&gt;tap and hold on the URL&lt;/li&gt;
+&lt;li&gt;move it out of the way so that you can see the body of the note&lt;/li&gt;
+&lt;li&gt;tap with another finger on the body of the note (goal is to call the keyboard again)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;at that point, green plus should appear near the plate with the URL you should still be holding with your finger&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;8&#34;&gt;
+&lt;li&gt;point with the cursor where you would like to place the thumbnail&lt;/li&gt;
+&lt;li&gt;remove finger from the screen to paste the thumbnail&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;https://1ar.io/p/thumbnail-apple-notes/apple-note-2.jpeg&#34;
+	width=&#34;1179&#34;
+	height=&#34;2556&#34;
+	srcset=&#34;https://1ar.io/p/thumbnail-apple-notes/apple-note-2_hu7ef010e7ebe8b311b72349d6fb290120_142857_480x0_resize_q75_box.jpeg 480w, https://1ar.io/p/thumbnail-apple-notes/apple-note-2_hu7ef010e7ebe8b311b72349d6fb290120_142857_1024x0_resize_q75_box.jpeg 1024w&#34;
+	loading=&#34;eager&#34;
 	
-		alt=&#34;using automator&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;112&#34;
-		data-flex-basis=&#34;269px&#34;
-	
-&gt; &lt;img src=&#34;https://1ar.io/p/hotkey-for-activity-monitor-on-macos/shortcut.png&#34;
-	width=&#34;1560&#34;
-	height=&#34;1416&#34;
-	srcset=&#34;https://1ar.io/p/hotkey-for-activity-monitor-on-macos/shortcut_hu4ed0ccca613623cd8fa3beca68ef5887_572836_480x0_resize_box_3.png 480w, https://1ar.io/p/hotkey-for-activity-monitor-on-macos/shortcut_hu4ed0ccca613623cd8fa3beca68ef5887_572836_1024x0_resize_box_3.png 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;adding shortcut&#34;
+		alt=&#34;holding URL plate without on-screen keyboard&#34;
 	
 	
 		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;110&#34;
-		data-flex-basis=&#34;264px&#34;
+		data-flex-grow=&#34;46&#34;
+		data-flex-basis=&#34;110px&#34;
 	
-&gt;&lt;/p&gt;
-&lt;p&gt;Credits are going to: &lt;a class=&#34;link&#34; href=&#34;https://apple.stackexchange.com/questions/1520/is-there-a-keyboard-shortcut-for-launching-activity-monitor&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Is there a keyboard shortcut for launching Activity Monitor?&lt;/a&gt;&lt;/p&gt;
+&gt;
+ &lt;img src=&#34;https://1ar.io/p/thumbnail-apple-notes/apple-note-3.jpeg&#34;
+	width=&#34;1179&#34;
+	height=&#34;2556&#34;
+	srcset=&#34;https://1ar.io/p/thumbnail-apple-notes/apple-note-3_hu7ef010e7ebe8b311b72349d6fb290120_227531_480x0_resize_q75_box.jpeg 480w, https://1ar.io/p/thumbnail-apple-notes/apple-note-3_hu7ef010e7ebe8b311b72349d6fb290120_227531_1024x0_resize_q75_box.jpeg 1024w&#34;
+	loading=&#34;eager&#34;
+	
+		alt=&#34;holding URL plate with on-screen keyboard - green &amp;#43; is visible&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;46&#34;
+		data-flex-basis=&#34;110px&#34;
+	
+&gt;
+ &lt;img src=&#34;https://1ar.io/p/thumbnail-apple-notes/apple-note-4.jpeg&#34;
+	width=&#34;1179&#34;
+	height=&#34;2556&#34;
+	srcset=&#34;https://1ar.io/p/thumbnail-apple-notes/apple-note-4_hu7ef010e7ebe8b311b72349d6fb290120_183124_480x0_resize_q75_box.jpeg 480w, https://1ar.io/p/thumbnail-apple-notes/apple-note-4_hu7ef010e7ebe8b311b72349d6fb290120_183124_1024x0_resize_q75_box.jpeg 1024w&#34;
+	loading=&#34;eager&#34;
+	
+		alt=&#34;thumbnail inserted&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;46&#34;
+		data-flex-basis=&#34;110px&#34;
+	
+&gt;
+&lt;/p&gt;
+&lt;p&gt;For some really weird reason, sometimes this plus appears later, so occasionally the process needs to be repeated.&lt;/p&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/8T088LlOxko&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;how-to-create-a-thumbnail-preview-for-a-url-from-within-the-apple-notes-on-macos-macbook&#34;&gt;How to create a thumbnail preview for a URL from within the Apple Notes on MacOS (Macbook)&lt;/h2&gt;
+&lt;p&gt;You can do the same on MacOS, but the process is a bit different and even more weird. The principle remains the same - we need to drag-and-drop the URL to the body of the note.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;You must have a trackpad for this to work, as you will need forcetouch to open the quick preview of the URL.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;create/open a note&lt;/li&gt;
+&lt;li&gt;paste/type textual URL to the note&lt;/li&gt;
+&lt;li&gt;use trackpad to click and hold on the URL&lt;/li&gt;
+&lt;li&gt;the preview will open (you can release the trackpad)&lt;/li&gt;
+&lt;li&gt;click and drag the URL from the preview; you need to select URL which will lead to the page you want to create a thumbnail for.&lt;/li&gt;
+&lt;li&gt;drag the URL-plate to the body of the note&lt;/li&gt;
+&lt;li&gt;release the trackpad to paste the thumbnail&lt;/li&gt;
+&lt;li&gt;repeat if needed, as you can drop as many thumbnails as you want from this preview (it won&amp;rsquo;t close until you click outside of it)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;https://1ar.io/p/thumbnail-apple-notes/macos-1.jpg&#34;
+	width=&#34;824&#34;
+	height=&#34;1020&#34;
+	srcset=&#34;https://1ar.io/p/thumbnail-apple-notes/macos-1_hu891c2f83036833b54f1a3b5ac4cc3ee0_38144_480x0_resize_q75_box.jpg 480w, https://1ar.io/p/thumbnail-apple-notes/macos-1_hu891c2f83036833b54f1a3b5ac4cc3ee0_38144_1024x0_resize_q75_box.jpg 1024w&#34;
+	loading=&#34;eager&#34;
+	
+		alt=&#34;pick URL from the page you want to create thumbnail for&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;80&#34;
+		data-flex-basis=&#34;193px&#34;
+	
+&gt;
+ &lt;img src=&#34;https://1ar.io/p/thumbnail-apple-notes/macos-2.jpg&#34;
+	width=&#34;824&#34;
+	height=&#34;1020&#34;
+	srcset=&#34;https://1ar.io/p/thumbnail-apple-notes/macos-2_hua22f3e3f9cccb2fe3c1ac3f886d4eb57_39759_480x0_resize_q75_box.jpg 480w, https://1ar.io/p/thumbnail-apple-notes/macos-2_hua22f3e3f9cccb2fe3c1ac3f886d4eb57_39759_1024x0_resize_q75_box.jpg 1024w&#34;
+	loading=&#34;eager&#34;
+	
+		alt=&#34;drop it off to the note&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;80&#34;
+		data-flex-basis=&#34;193px&#34;
+	
+&gt;
+&lt;/p&gt;
+&lt;p&gt;Here is a video to demonstrate the process on macos:&lt;/p&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/0AETyMolDCw&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;I hope it helps and would be happy if you could let me know if you can reproduce this. Feel free drop a comment here, &lt;a class=&#34;link&#34; href=&#34;https://x.com/pa1ar/status/1744852069385994705?s=20&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;tag/DM me on 𝕏&lt;/a&gt; or drop a comment on &lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/@pa1ar&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;YouTube&lt;/a&gt;/&lt;a class=&#34;link&#34; href=&#34;https://www.tiktok.com/@1ar.io/video/7322218545662807329?is_from_webapp=1&amp;amp;sender_device=pc&amp;amp;web_id=7319913510544295457&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;TikTok&lt;/a&gt;.&lt;/p&gt;
 </description>
         </item>
         <item>
-        <title>awards</title>
+        <title>AWARDS</title>
         <link>https://1ar.io/awards/</link>
         <pubDate>Sat, 30 Dec 2023 00:00:00 +0000</pubDate>
         
         <guid>https://1ar.io/awards/</guid>
-        <description>&lt;img src="https://1ar.io/awards/awards.jpeg" alt="Featured image of post awards" /&gt;&lt;p&gt;&lt;img src=&#34;https://1ar.io/awards/logos_rectangle.png&#34;
+        <description>&lt;img src="https://1ar.io/awards/awards.jpeg" alt="Featured image of post AWARDS" /&gt;&lt;p&gt;&lt;img src=&#34;https://1ar.io/awards/logos_rectangle.png&#34;
 	width=&#34;1920&#34;
 	height=&#34;1440&#34;
 	srcset=&#34;https://1ar.io/awards/logos_rectangle_hu2199d4932ea3be3bfaa8d67fce680080_116081_480x0_resize_box_3.png 480w, https://1ar.io/awards/logos_rectangle_hu2199d4932ea3be3bfaa8d67fce680080_116081_1024x0_resize_box_3.png 1024w&#34;
-	loading=&#34;lazy&#34;
+	loading=&#34;eager&#34;
 	
 	
 		class=&#34;gallery-image&#34; 
@@ -108,6 +466,7 @@
 		data-flex-basis=&#34;320px&#34;
 	
 &gt;
+
 &lt;strong&gt;Full list of projects is &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects&#34; &gt;here&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;2023&#34;&gt;2023&lt;/h2&gt;
 &lt;h3 id=&#34;dot-go-app&#34;&gt;Dot Go App&lt;/h3&gt;
@@ -458,6 +817,21 @@ Besides that, we went extra-mile making the conversations to be stored in a secu
 &lt;blockquote&gt;
 &lt;p&gt;AI-powered coach is able to democratize access to therapy on scale.&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;https://1ar.io/projects/ai-eric/eric.jpeg&#34;
+	width=&#34;720&#34;
+	height=&#34;1280&#34;
+	srcset=&#34;https://1ar.io/projects/ai-eric/eric_hube3343b77de99cb499300b8d9b324547_358592_480x0_resize_q75_box.jpeg 480w, https://1ar.io/projects/ai-eric/eric_hube3343b77de99cb499300b8d9b324547_358592_1024x0_resize_q75_box.jpeg 1024w&#34;
+	loading=&#34;eager&#34;
+	
+		alt=&#34;from Eric AI 2.0 announcement&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;56&#34;
+		data-flex-basis=&#34;135px&#34;
+	
+&gt;
+&lt;/p&gt;
 &lt;h2 id=&#34;my-role&#34;&gt;my role&lt;/h2&gt;
 &lt;p&gt;After I have started the initiative of building the AI-powered chatbots in the company (&lt;a class=&#34;link&#34; href=&#34;https://www.hyperinteractive.de/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Hyperinteractive Innovation Studio&lt;/a&gt;) and creating several proofs-of-concept, I acted as tech-lead and creative technologist throughout development of the solution for Eric Hegmann, which included leading the team of developers, prompt engineering and dataset processing. Besides that, I was planning and overseeing the launch of the solution, including test-phases, surveys, and analysis of the QA results.&lt;/p&gt;
@@ -467,27 +841,29 @@ Besides that, we went extra-mile making the conversations to be stored in a secu
 &lt;p&gt;2023-2024&lt;/p&gt;
 &lt;h2 id=&#34;so-what&#34;&gt;so what?&lt;/h2&gt;
 &lt;p&gt;As it was predicted in the &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/dying-2045/&#34; &gt;chapter of the book&lt;/a&gt; I have participated - AI therapist (or, as it called in this case - coach) bots are starting to roll out. It is truly amazing, that I was able to took part in this development just one year after I made an educated guess, that such tools will be on a rise.&lt;br&gt;
-In the meantime, the AI Eric was tested by more than 130 people, with no negative feedback. The purpose of the first test was to figure out how stable the bot is. At the time of writing (December 2023) we are launching the second phase of testing, which would be aiming to improve quality of answers by interviewing a diverse demographic group of users after long-term testing.
+In the meantime, the AI Eric was tested by more than 200 people, with no negative feedback. The purpose of the first test was to figure out how stable the bot is. Two-phased testing shows amazing results, which we have captured in Eric AI launch &lt;a class=&#34;link&#34; href=&#34;https://www.instagram.com/p/C3D2ldFMBly/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;announcement&lt;/a&gt;.
 I am excited and hopeful, that this kind of solutions will make the therapy more accessible and will make the world a better place with happier people.&lt;/p&gt;
 </description>
         </item>
         <item>
-        <title>skills</title>
+        <title>SKILLS</title>
         <link>https://1ar.io/skills/</link>
         <pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate>
         
         <guid>https://1ar.io/skills/</guid>
-        <description>&lt;h3 id=&#34;core&#34;&gt;Core&lt;/h3&gt;
+        <description>&lt;p&gt;I have &lt;a class=&#34;link&#34; href=&#34;about&#34; &gt;rich experience&lt;/a&gt; in building &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/awards&#34; &gt;award-winning&lt;/a&gt; &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects&#34; &gt;projects&lt;/a&gt; and high-complexity solutions in the field of digital technology, including AI-powered products (&lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/ai-eric/&#34; &gt;natural language processing&lt;/a&gt;, &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/ai-eric/&#34; &gt;text generation&lt;/a&gt;, &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/dot-go/&#34; &gt;computer vision&lt;/a&gt;, etc.). If you require expertise in any of the listed spheres or adjacent topics, feel free to &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/hire-me&#34; &gt;reach out&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;core&#34;&gt;Core&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Leading Research &amp;amp; Development units, full app lifecycle (idea-to-launch)&lt;/li&gt;
 &lt;li&gt;Concept creation and ideation for complex digital products and experiences&lt;/li&gt;
-&lt;li&gt;AI-driven personal workflow (prompt engineering, automation, acceleration, scaling)&lt;/li&gt;
+&lt;li&gt;Planning and creating AI-driven workflows (prompt engineering, automation, acceleration, scaling)&lt;/li&gt;
 &lt;li&gt;Agile or waterfall project delivery&lt;/li&gt;
 &lt;li&gt;Value-oriented application of AI-technologies&lt;/li&gt;
 &lt;li&gt;Utility-oriented application of blockchain technologies&lt;/li&gt;
 &lt;li&gt;Management in fully remote or hybrid environments&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;professional&#34;&gt;Professional&lt;/h3&gt;
+&lt;h2 id=&#34;professional&#34;&gt;Professional&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Public Speaking (keynotes, workshops, presenting on scientific conferences)&lt;/li&gt;
 &lt;li&gt;Presentation design (pitches and reports)&lt;/li&gt;
@@ -504,47 +880,136 @@ I am excited and hopeful, that this kind of solutions will make the therapy more
 &lt;li&gt;Organization of events and workshops (on-site, online including VR)&lt;/li&gt;
 &lt;li&gt;Publications &amp;amp; Papers (writing and reviewing)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;technical&#34;&gt;Technical&lt;/h3&gt;
+&lt;h2 id=&#34;technical&#34;&gt;Technical&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Software concept design (including AI-powered applications)&lt;/li&gt;
 &lt;li&gt;Software architecture design&lt;/li&gt;
 &lt;li&gt;Python-, Swift-based rapid prototyping&lt;/li&gt;
-&lt;li&gt;Reverse engineering (code/assets injection)&lt;/li&gt;
+&lt;li&gt;Algorithmic and AI-driven data analysis (e.g. user behavior, market research, etc.)&lt;/li&gt;
 &lt;li&gt;Creation of the block schemes, solution maps, user journeys, personas and technical documentation&lt;/li&gt;
 &lt;li&gt;Wireframes and low-fidelity prototypes creation (Figma)&lt;/li&gt;
 &lt;li&gt;Advanced skills in field of knowledge base and project management software (Notion, Asana, Google Sheets etc.) and software-based automation&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;If you require expertise in any of the listed spheres or adjacent topics, feel free to &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/hire-me&#34; &gt;reach out&lt;/a&gt;.&lt;/p&gt;
 </description>
         </item>
         <item>
-        <title>about</title>
+        <title>Basic PDF page editing on iOS</title>
+        <link>https://1ar.io/p/basic-pdf-page-editing-on-ios/</link>
+        <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://1ar.io/p/basic-pdf-page-editing-on-ios/</guid>
+        <description>&lt;img src="https://1ar.io/p/basic-pdf-page-editing-on-ios/smartphone-pdf.jpeg" alt="Featured image of post Basic PDF page editing on iOS" /&gt;&lt;p&gt;For the situations when you need to remove one or another page, or add additional page to you PDF file on iPhone.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;open PDF in files&lt;/li&gt;
+&lt;li&gt;tap on pages indicator (top left)&lt;/li&gt;
+&lt;li&gt;tap on page after which you want to add pages (or which you want to remove)&lt;/li&gt;
+&lt;li&gt;“insert from file” (“delete”)&lt;/li&gt;
+&lt;li&gt;(select files)&lt;/li&gt;
+&lt;li&gt;“done”&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;https://1ar.io/p/basic-pdf-page-editing-on-ios/pdf.png&#34;
+	width=&#34;764&#34;
+	height=&#34;964&#34;
+	srcset=&#34;https://1ar.io/p/basic-pdf-page-editing-on-ios/pdf_hu9eb74e8032f8978e197c743729ee8e93_125450_480x0_resize_box_3.png 480w, https://1ar.io/p/basic-pdf-page-editing-on-ios/pdf_hu9eb74e8032f8978e197c743729ee8e93_125450_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;eager&#34;
+	
+		alt=&#34;PDF file with pages preview&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;79&#34;
+		data-flex-basis=&#34;190px&#34;
+	
+&gt;
+&lt;/p&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;video
+    controls
+    src=&#34;https://1ar.io/post/How%20to%20Add%20Remove%20PDF%e2%80%99s%20Pages%20Without%203rd%20Party%20Apps/pdf.mp4&#34;
+    
+    autoplay
+    &gt;
+        &lt;p&gt;
+            Your browser doesn&#39;t support HTML5 video. Here is a
+            &lt;a href=&#34;https://1ar.io/post/How%20to%20Add%20Remove%20PDF%e2%80%99s%20Pages%20Without%203rd%20Party%20Apps/pdf.mp4&#34;&gt;link to the video&lt;/a&gt; instead.
+        &lt;/p&gt;
+    &lt;/video&gt;
+&lt;/div&gt;
+
+</description>
+        </item>
+        <item>
+        <title>Hotkey for Activity Monitor on MacOS</title>
+        <link>https://1ar.io/p/hotkey-for-activity-monitor-on-macos/</link>
+        <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://1ar.io/p/hotkey-for-activity-monitor-on-macos/</guid>
+        <description>&lt;img src="https://1ar.io/p/hotkey-for-activity-monitor-on-macos/activity-monitor.jpeg" alt="Featured image of post Hotkey for Activity Monitor on MacOS" /&gt;&lt;p&gt;&lt;code&gt;/Users/USERNAME/Library/Services/Run Activity Monitor.workflow&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://1ar.io/p/hotkey-for-activity-monitor-on-macos/automator.png&#34;
+	width=&#34;1112&#34;
+	height=&#34;992&#34;
+	srcset=&#34;https://1ar.io/p/hotkey-for-activity-monitor-on-macos/automator_hufba2ea6e00ea288c293c5b6517fbe5f4_294524_480x0_resize_box_3.png 480w, https://1ar.io/p/hotkey-for-activity-monitor-on-macos/automator_hufba2ea6e00ea288c293c5b6517fbe5f4_294524_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;eager&#34;
+	
+		alt=&#34;using automator&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;112&#34;
+		data-flex-basis=&#34;269px&#34;
+	
+&gt;
+ &lt;img src=&#34;https://1ar.io/p/hotkey-for-activity-monitor-on-macos/shortcut.png&#34;
+	width=&#34;1560&#34;
+	height=&#34;1416&#34;
+	srcset=&#34;https://1ar.io/p/hotkey-for-activity-monitor-on-macos/shortcut_hu4ed0ccca613623cd8fa3beca68ef5887_572836_480x0_resize_box_3.png 480w, https://1ar.io/p/hotkey-for-activity-monitor-on-macos/shortcut_hu4ed0ccca613623cd8fa3beca68ef5887_572836_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;eager&#34;
+	
+		alt=&#34;adding shortcut&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;110&#34;
+		data-flex-basis=&#34;264px&#34;
+	
+&gt;
+&lt;/p&gt;
+&lt;p&gt;Credits are going to: &lt;a class=&#34;link&#34; href=&#34;https://apple.stackexchange.com/questions/1520/is-there-a-keyboard-shortcut-for-launching-activity-monitor&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Is there a keyboard shortcut for launching Activity Monitor?&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>ABOUT</title>
         <link>https://1ar.io/about/</link>
         <pubDate>Sat, 14 Oct 2023 00:00:00 +0000</pubDate>
         
         <guid>https://1ar.io/about/</guid>
-        <description>&lt;img src="https://1ar.io/about/pljs.JPG" alt="Featured image of post about" /&gt;&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
-&lt;p&gt;With the Master of Science degree in Biomedical Engineering, technical project leading experience, scientific and international relations background, I am driven by the endless potential of technology and innovation to bridge gaps, solve real-world problems, and enhance lives.&lt;/p&gt;
-&lt;p&gt;As a Creative Technologist at HyperInteractive Innovation Studio, I engage with teams to turn imaginative ideas into tangible solutions. Hyperinteractive&amp;rsquo;s projects often sit at the crosssection of creativity and technology, aimed at solving problems or creating value for the clients. Notable projects include developing an award-winning iOS app &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/dot-go&#34; &gt;Dot Go&lt;/a&gt; for the visually impaired, &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/the-truth-wins&#34; &gt;The Truth Wins&lt;/a&gt; campaign to bypass censorship and igniting AI initiatives within the company, manifested by one of the latest projects - &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/ai-eric&#34; &gt;AI Eric&lt;/a&gt; relationship coach.&lt;/p&gt;
+        <description>&lt;img src="https://1ar.io/about/pljs.JPG" alt="Featured image of post ABOUT" /&gt;&lt;div class=&#34;button-container&#34;&gt;
+  &lt;a href=&#34;https://1ar.io/cv&#34; 
+  class=&#34;button&#34; id=&#34;full-cv&#34;&gt;｢ read full CV ｣&lt;/a&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Analytical and visionary technical director  with a Master of Science in Biomedical Engineering and extensive experience in digital technology, leading IT projects, and driving digital transformation. Over a decade of experience in bridging the gap between technology, product development, and business strategy. Demonstrated success in pioneering projects and leveraging AI to fuel growth and enrich customer experiences. Proficient in catalyzing cooperation among diverse teams and departments to synchronize technology efforts with business objectives.&lt;/p&gt;
+&lt;p&gt;Notable projects include leading development of an award-winning iOS app &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/dot-go&#34; &gt;Dot Go&lt;/a&gt; for the visually impaired, &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/the-truth-wins&#34; &gt;The Truth Wins&lt;/a&gt; campaign to navigate around censorship and sparking AI initiatives within the company, manifested by the most recent project - &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/ai-eric&#34; &gt;AI Eric&lt;/a&gt;, a relationship coach.&lt;/p&gt;
 &lt;a href=&#34;https://1ar.io/awards&#34;&gt;
   &lt;img src=&#34;logos_strip.png&#34; alt=&#34;logos strip&#34;&gt;
 &lt;/a&gt;
-&lt;p&gt;Earlier, I was working on projects in the field of biomedical technology, contributed to neuroscience research by developing a &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/spike-sorting&#34; &gt;spike sorting&lt;/a&gt; algorithm, and leading a project to improve &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/avenue-pal&#34; &gt;palliative care&lt;/a&gt; through tech-enabled solutions. Alongside, I&amp;rsquo;ve always enjoyed sharing knowledge, be it through tutoring engineering subjects in the lab of my university, leading martial arts groups for kids and adults, or introducing collaborative digital tools for perpetual knowledge management to the co-workers.&lt;/p&gt;
+&lt;p&gt;Previously engaged in biomedical technology, I contributed to neuroscience research by developing a &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/spike-sorting&#34; &gt;spike sorting&lt;/a&gt; algorithm, and leading a project to improve &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/avenue-pal&#34; &gt;palliative care&lt;/a&gt; through tech-enabled solutions. Alongside, I&amp;rsquo;ve always enjoyed sharing knowledge, be it through tutoring engineering subjects in the lab of my university, leading martial arts groups for kids and adults, or introducing collaborative digital tools for perpetual knowledge management to the co-workers.&lt;/p&gt;
 &lt;p&gt;I am thrilled about the boundless potential of human-machine symbiosis, and never stop exploring new ways to harness technology for meaningful solutions.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;My full CV can be found &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/cv&#34; &gt;here&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;areas-of-expertise&#34;&gt;Areas of Expertise&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Innovation &amp;amp; Digital transformation&lt;/li&gt;
-&lt;li&gt;Innovation Direction&lt;/li&gt;
-&lt;li&gt;Strategic Planning &amp;amp; Execution&lt;/li&gt;
-&lt;li&gt;Research &amp;amp; Development Leading &amp;amp; Execution&lt;/li&gt;
+&lt;li&gt;Strategic IT and Product Vision&lt;/li&gt;
+&lt;li&gt;AI Integration and Leadership&lt;/li&gt;
+&lt;li&gt;Innovation &amp;amp; Digital Transformation&lt;/li&gt;
+&lt;li&gt;Leading &amp;amp; Execution Research &amp;amp; Development&lt;/li&gt;
 &lt;li&gt;International Business &amp;amp; Relations&lt;/li&gt;
+&lt;li&gt;Data-Driven Decision Making&lt;/li&gt;
 &lt;li&gt;Idea-to-launch Product Development&lt;/li&gt;
-&lt;li&gt;Client Interaction and Engagement&lt;/li&gt;
-&lt;li&gt;Scientific Publications&lt;/li&gt;
+&lt;li&gt;Client Engagement and Relationship Management&lt;/li&gt;
+&lt;li&gt;Technical and Scientific Writing&lt;/li&gt;
 &lt;li&gt;Public Speaking and Workshop Facilitation&lt;/li&gt;
-&lt;li&gt;Coaching&lt;/li&gt;
-&lt;li&gt;Relationship Management&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;languages&#34;&gt;Languages&lt;/h3&gt;
 &lt;ul&gt;
@@ -559,7 +1024,7 @@ I am excited and hopeful, that this kind of solutions will make the therapy more
 	width=&#34;9528&#34;
 	height=&#34;6328&#34;
 	srcset=&#34;https://1ar.io/about/cannes-2_hua316f685cb00ec9cec0ce4ee33af75ed_3609329_480x0_resize_q75_box.JPG 480w, https://1ar.io/about/cannes-2_hua316f685cb00ec9cec0ce4ee33af75ed_3609329_1024x0_resize_q75_box.JPG 1024w&#34;
-	loading=&#34;lazy&#34;
+	loading=&#34;eager&#34;
 	
 		alt=&#34;delivering a keynote, Cannes Lions, 2022&#34;
 	
@@ -568,11 +1033,12 @@ I am excited and hopeful, that this kind of solutions will make the therapy more
 		data-flex-grow=&#34;150&#34;
 		data-flex-basis=&#34;361px&#34;
 	
-&gt; &lt;img src=&#34;https://1ar.io/about/cannes-3.JPG&#34;
+&gt;
+ &lt;img src=&#34;https://1ar.io/about/cannes-3.JPG&#34;
 	width=&#34;9528&#34;
 	height=&#34;6328&#34;
 	srcset=&#34;https://1ar.io/about/cannes-3_hu9b0cdf39799b69c60b61aed0efcf3606_3304014_480x0_resize_q75_box.JPG 480w, https://1ar.io/about/cannes-3_hu9b0cdf39799b69c60b61aed0efcf3606_3304014_1024x0_resize_q75_box.JPG 1024w&#34;
-	loading=&#34;lazy&#34;
+	loading=&#34;eager&#34;
 	
 		alt=&#34;Serviceplan troops&#34;
 	
@@ -581,7 +1047,8 @@ I am excited and hopeful, that this kind of solutions will make the therapy more
 		data-flex-grow=&#34;150&#34;
 		data-flex-basis=&#34;361px&#34;
 	
-&gt;&lt;/p&gt;
+&gt;
+&lt;/p&gt;
 &lt;h3 id=&#34;current-place-of-work&#34;&gt;Current Place of Work:&lt;/h3&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://hyperinteractive.de&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;&lt;strong&gt;Hyperinteractive Innovation Studio&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
@@ -616,7 +1083,7 @@ Since: Oct 2021&lt;/p&gt;
 	width=&#34;1024&#34;
 	height=&#34;768&#34;
 	srcset=&#34;https://1ar.io/about/bmt-6_huc249a752feb2d084d015603019d41490_94391_480x0_resize_q75_box.jpeg 480w, https://1ar.io/about/bmt-6_huc249a752feb2d084d015603019d41490_94391_1024x0_resize_q75_box.jpeg 1024w&#34;
-	loading=&#34;lazy&#34;
+	loading=&#34;eager&#34;
 	
 		alt=&#34;presenting a paper about spikesorting&#34;
 	
@@ -625,11 +1092,12 @@ Since: Oct 2021&lt;/p&gt;
 		data-flex-grow=&#34;133&#34;
 		data-flex-basis=&#34;320px&#34;
 	
-&gt; &lt;img src=&#34;https://1ar.io/about/bmt-5.jpeg&#34;
+&gt;
+ &lt;img src=&#34;https://1ar.io/about/bmt-5.jpeg&#34;
 	width=&#34;1024&#34;
 	height=&#34;768&#34;
 	srcset=&#34;https://1ar.io/about/bmt-5_hue8809023e63696ff023dae6b529de093_129342_480x0_resize_q75_box.jpeg 480w, https://1ar.io/about/bmt-5_hue8809023e63696ff023dae6b529de093_129342_1024x0_resize_q75_box.jpeg 1024w&#34;
-	loading=&#34;lazy&#34;
+	loading=&#34;eager&#34;
 	
 		alt=&#34;BMT scientific conference, 2019&#34;
 	
@@ -638,7 +1106,8 @@ Since: Oct 2021&lt;/p&gt;
 		data-flex-grow=&#34;133&#34;
 		data-flex-basis=&#34;320px&#34;
 	
-&gt;&lt;/p&gt;
+&gt;
+&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/dying-2045&#34; &gt;&lt;strong&gt;Digitalization, Scenarios of Dying a Digitalized Society&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/spike-sorting-multivariate&#34; &gt;&lt;strong&gt;Correlation-based Spike Sorting of Multivariate Data&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
@@ -647,230 +1116,6 @@ Since: Oct 2021&lt;/p&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/spike-sorting&#34; &gt;&lt;strong&gt;Correlation Based Spike Sorting&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;&lt;strong&gt;My full CV can be found &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/cv&#34; &gt;here&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Pavel&#39;s CV</title>
-        <link>https://1ar.io/cv/</link>
-        <pubDate>Sat, 14 Oct 2023 00:00:00 +0000</pubDate>
-        
-        <guid>https://1ar.io/cv/</guid>
-        <description>&lt;img src="https://1ar.io/cv/plj.JPG" alt="Featured image of post Pavel&#39;s CV" /&gt;&lt;p&gt;With the Master of Science degree in Biomedical Engineering, technical project leading experience, scientific and international relations background, I am driven by the endless potential of technology and innovation to bridge gaps, solve real-world problems, and enhance lives.&lt;/p&gt;
-&lt;p&gt;As a Creative Technologist at HyperInteractive Innovation Studio, I engage with teams to turn imaginative ideas into tangible solutions. Hyperinteractive&amp;rsquo;s projects often sit at the crosssection of creativity and technology, aimed at solving problems or creating value for the clients. Notable projects include developing an award-winning iOS app &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/dot-go&#34; &gt;Dot Go&lt;/a&gt; for the visually impaired, &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/the-truth-wins&#34; &gt;The Truth Wins&lt;/a&gt; campaign to bypass censorship and igniting AI initiatives within the company, manifested by one of the latest projects - &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/ai-eric&#34; &gt;AI Eric&lt;/a&gt; relationship coach.&lt;/p&gt;
-&lt;a href=&#34;https://1ar.io/awards&#34;&gt;
-  &lt;img src=&#34;logos_strip.png&#34; alt=&#34;logos strip&#34;&gt;
-&lt;/a&gt;
-&lt;p&gt;Earlier, I was working on projects in the field of biomedical technology, contributed to neuroscience research by developing a &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/spike-sorting&#34; &gt;spike sorting&lt;/a&gt; algorithm, and leading a project to improve &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/avenue-pal&#34; &gt;palliative care&lt;/a&gt; through tech-enabled solutions. Alongside, I&amp;rsquo;ve always enjoyed sharing knowledge, be it through tutoring engineering subjects in the lab of my university, leading martial arts groups for kids and adults, or introducing collaborative digital tools for perpetual knowledge management to the co-workers.&lt;/p&gt;
-&lt;p&gt;I am thrilled about the boundless potential of human-machine symbiosis, and never stop exploring new ways to harness technology for meaningful solutions.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;areas-of-expertise&#34;&gt;Areas of Expertise&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Innovation &amp;amp; Digital Transformation&lt;/li&gt;
-&lt;li&gt;Innovation Direction&lt;/li&gt;
-&lt;li&gt;Strategic Planning &amp;amp; Execution&lt;/li&gt;
-&lt;li&gt;Research &amp;amp; Development Leading &amp;amp; Execution&lt;/li&gt;
-&lt;li&gt;International Business &amp;amp; Relations&lt;/li&gt;
-&lt;li&gt;Idea-to-launch Product Development&lt;/li&gt;
-&lt;li&gt;Client Interaction and Engagement&lt;/li&gt;
-&lt;li&gt;Scientific Publications&lt;/li&gt;
-&lt;li&gt;Public Speaking and Workshop Facilitation&lt;/li&gt;
-&lt;li&gt;Coaching&lt;/li&gt;
-&lt;li&gt;Relationship Management&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;List of skills is &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/skills&#34; &gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;h3 id=&#34;languages&#34;&gt;Languages&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;English: Fluent&lt;/li&gt;
-&lt;li&gt;German: Fluent&lt;/li&gt;
-&lt;li&gt;Russian: Native&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;professional-experience&#34;&gt;Professional Experience&lt;/h2&gt;
-&lt;h3 id=&#34;hyperinteractive-innovation-studio&#34;&gt;Hyperinteractive Innovation Studio&lt;/h3&gt;
-&lt;p&gt;Fully remote team with headquarters in Hamburg, Germany&lt;/p&gt;
-&lt;h4 id=&#34;ucreative-technologistu&#34;&gt;&lt;strong&gt;&lt;u&gt;Creative Technologist&lt;/u&gt;&lt;/strong&gt;&lt;/h4&gt;
-&lt;p&gt;Hyperinteractive Innovation Studio | Oct 2021 - present&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Led multidisciplinary technical development units for innovative digital projects, ensuring timely and quality delivery.&lt;/li&gt;
-&lt;li&gt;Prepared the architectural design of solutions encompassing sketches, diagrams, wireframes, roadmaps, and estimations.&lt;/li&gt;
-&lt;li&gt;Conducted case research, refined concepts based on initial briefs, and engaged with clients during pitch and kickstart meetings to ensure alignment with project objectives.&lt;/li&gt;
-&lt;li&gt;Delivered comprehensive reports, capturing major milestones of the projects to the stakeholders.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Significant Contributions:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Projects with my direct participation as leader of multidisciplinary development units, creative technologist received &lt;strong&gt;more than 50 international industry awards within 2 years of assignment&lt;/strong&gt;, including iF design awards, Cannes Liones, Eurobest, New York Festival, Art Directors Club etc. See full list of awards &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/awards&#34; &gt;1ar.io/awards&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Initiated and led AI development initiative, successfully integrating AI solutions in various projects.&lt;/li&gt;
-&lt;li&gt;Initiated innovation-focused knowledge exchange within the company, which since then is held on weekly basis and was the basis for external workshops for clients and partners.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;university-of-applied-sciences&#34;&gt;University of Applied Sciences&lt;/h3&gt;
-&lt;p&gt;Giessen (Hesse), Germany
-&lt;strong&gt;Two promotions within 4.5 years of assignment&lt;/strong&gt;&lt;/p&gt;
-&lt;h4 id=&#34;information-technology-project-lead&#34;&gt;Information Technology Project Lead&lt;/h4&gt;
-&lt;p&gt;University of Applied Sciences | Sep 2019 - May 2021 (1 yr 9 mos)&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Led a Research &amp;amp; Development Unit of 18 team members in a joint project Avenue-Pal aimed at improving palliative care through tech-enabled solutions.&lt;/li&gt;
-&lt;li&gt;Engaged in business development &amp;amp; management, public relations, and public speaking to promote project outcomes.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Significant contributions:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Organized and delivered final hybrid keynote, gathering high-profile governmental and scientific stakeholders.&lt;/li&gt;
-&lt;li&gt;Contributed to the series of publications, capturing the outcomes of the project Avenue-Pal from technical, organizational and sociological perspectives.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;project-engineer&#34;&gt;Project Engineer&lt;/h4&gt;
-&lt;p&gt;University of Applied Sciences | Dec 2018 - Aug 2019 (9 mos)&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Contributed to the IT-solution part of the project Avenue-Pal, aiming to enhance the quality of life of patients in their last life phase by improving information flow between doctors and palliative experts.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Significant contributions:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Conducted user research based on high-fidelity prototype, leading to several iterations of reconceptualization for the initial idea, saving costs of development.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;research-associate-and-tutor&#34;&gt;&lt;strong&gt;Research Associate and Tutor&lt;/strong&gt;&lt;/h4&gt;
-&lt;p&gt;University of Applied Sciences | Dec 2016 - Nov 2018 (2 yrs)&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Member of the scientific group of Prof. Dr. Thomas Schanze (field of studies: neuroscience, biological signal processing).&lt;/li&gt;
-&lt;li&gt;Tutored modules in &amp;ldquo;Digital Systems&amp;rdquo;, &amp;ldquo;Theory of Systems and Controlling Technology&amp;rdquo;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Significant contributions:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Contributed to neuroscience research and published scientific papers on spike sorting of neurological signals as main author.&lt;/li&gt;
-&lt;li&gt;Supervised bachelor students in their thesis writing phase, promoting scientific activity and publication writing.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;additional-experience&#34;&gt;Additional Experience:&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Managing Director&lt;/strong&gt; (Frankfurt am Main, Germany) | Veronica Medical Equipment Ltd. | Jun 2014 - May 2019 (5 yrs)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;International Sales Manager&lt;/strong&gt; (Öskemen, Kazakhstan) | West-Trading (medical equipment wholesale and technical support) | Jan 2013 - Jun 2014 (1 yr 6 mos)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Sales Manager&lt;/strong&gt; (Öskemen, Kazakhstan) | Tropicana Touristic Agency | Jan 2013 - Jun 2014 (1 yr 6 mos)&lt;/li&gt;
-&lt;li&gt;Assistant Coach (Öskemen, Kazakhstan) | Öskemen Aikido &amp;amp; Kendo Martial Arts Dojo | (2011, 1 yr)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
-&lt;h3 id=&#34;msc-biomedical-engineering&#34;&gt;M.Sc. Biomedical Engineering&lt;/h3&gt;
-&lt;p&gt;University of Applied Sciences Mittelhessen | &lt;a class=&#34;link&#34; href=&#34;https://www.thm.de/site/en/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;thm.de&lt;/a&gt;  | 2017 - 2019&lt;br&gt;
-Grade: 1.4 (ECTS grading scale)&lt;/p&gt;
-&lt;p&gt;Master’s thesis:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;&amp;ldquo;Spike Sorting of Multivariate Signals&amp;rdquo;&lt;/em&gt;&lt;br&gt;
-Grade: A, (1.1, 94%)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Honors &amp;amp; Awards:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;DAAD scholarship for international students, attending in Master studies&lt;/p&gt;
-&lt;p&gt;DAAD (German Academic Exchange Service) supports the best international students in the phase of writing master&amp;rsquo;s theses.
-In order to get this kind of award, the student supposed to have notable academic achievements (e.g. publications) and to provide a recommendation letter from one professor.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Activities and societies:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Member of the Institute of the Biomedical Technology (IBMT), research group of the Prof. Dr. Thomas Schanze.&lt;/li&gt;
-&lt;li&gt;Accomplished Bioniq, International (German-Iraq) Biomedical Sommer School; Cyprus, 2018.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Focus areas:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Biosignals&lt;/li&gt;
-&lt;li&gt;Neuroscience&lt;/li&gt;
-&lt;li&gt;Algorithms&lt;/li&gt;
-&lt;li&gt;Biocybernetics&lt;/li&gt;
-&lt;li&gt;Prosthetics&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;bsc-biomedical-engineering&#34;&gt;B.Sc. Biomedical Engineering&lt;/h3&gt;
-&lt;p&gt;University of Applied Sciences Mittelhessen | &lt;a class=&#34;link&#34; href=&#34;https://www.thm.de/site/en/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;thm.de&lt;/a&gt; | 2013 - 2017 &lt;br&gt;
-Grade: 2.6 (ECTS grading scale)&lt;/p&gt;
-&lt;p&gt;Bachelor’s Thesis:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;“Correlation Based Spike Sorting”&lt;br&gt;
-Grade: A (1.1, 94%)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Honors &amp;amp; Awards:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;DAAD scholarship for international student, attending in Bachelor studies&lt;/p&gt;
-&lt;p&gt;DAAD (German Academic Exchange Service) supports the best international students in the phase of writing bachelor&amp;rsquo;s theses.&lt;br&gt;
-In order to get this kind of award, the student supposed to have notable academic achievements (e.g. publications) and to provide a recommendation letter from one professor.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Activities and societies:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Since November 2016: scientific intern in the research group of the Prof. Dr. Thomas Schanze.&lt;/li&gt;
-&lt;li&gt;Took part in organization of the international (German-Iraq) Scientific Conference &amp;ldquo;Bioniq&amp;rdquo;; Giessen, THM, 2016.&lt;/li&gt;
-&lt;li&gt;Took part and held presentation (&amp;ldquo;Nuclear Reactors&amp;rdquo;) at the Scientific Conference for students &amp;ldquo;Physics in the Healthcare&amp;rdquo;; Giessen, THM, 2014.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Focus areas&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Neuroscience / Neuroprosthetics (a part of &lt;a class=&#34;link&#34; href=&#34;http://M.Sc&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;M.Sc&lt;/a&gt;. Biomedical Engineering)&lt;/li&gt;
-&lt;li&gt;Microbiology&lt;/li&gt;
-&lt;li&gt;Material Science&lt;/li&gt;
-&lt;li&gt;Programming (Python, Matlab, Java, LabView Core 1 &amp;amp; 2)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;ba-international-relations&#34;&gt;B.A. International Relations&lt;/h3&gt;
-&lt;p&gt;Sarsen Amanzholov East-Kazakhstan State University | &lt;a class=&#34;link&#34; href=&#34;https://vku.edu.kz/en/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;vku.kz&lt;/a&gt; | 2007 - 2012&lt;br&gt;
-Grade: B+, 3.56, 89% (USA grading scale)&lt;/p&gt;
-&lt;p&gt;Bachelor’s Thesis:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;“International Partnership between Germany and Kazakhstan”&lt;br&gt;
-Grade: A, (4.00, 98%)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Activities and societies:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Member of a debate club&lt;/li&gt;
-&lt;li&gt;Organization of and participation in student events.&lt;/li&gt;
-&lt;li&gt;Focus areas&lt;/li&gt;
-&lt;li&gt;History, Politics, Regional Management&lt;/li&gt;
-&lt;li&gt;Diplomacy (Conflict Solving, Foreign Service, Consular Functions, Ethics and Protocols, International Negotiations)&lt;/li&gt;
-&lt;li&gt;Foreign Languages (English and German, a very little bit of Chinese)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/dying-2045&#34; &gt;&lt;strong&gt;Digitalization, Scenarios of Dying a Digitalized Society&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;In: &lt;em&gt;How Will We Die in the Future?&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Publisher: Psychosozial-Verlag, Date: Sep, 2023&lt;/li&gt;
-&lt;li&gt;Description: Exploration of the impacts of digitalization on individual, social, and institutional approaches to dying, death, and mourning by 2045. Scenario development for future organization of these aspects, presenting desirable perspectives, and identifying actionable steps.&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://sterben-tod-trauer-2045.de/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Project Website&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/spike-sorting-multivariate&#34; &gt;&lt;strong&gt;Correlation-based Spike Sorting of Multivariate Data&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Publisher: De Gruyter, Date: Sep 18, 2019&lt;/li&gt;
-&lt;li&gt;Larionov, P., Juergens, T. &amp;amp; Schanze, T. (2019). Current Directions in Biomedical Engineering, 5(1), pp. 113-116. &lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.1515/cdbme-2019-0029&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;DOI: 10.1515/cdbme-2019-0029&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Description: Introduced a novel method for automated classification of waveforms, particularly spikes recorded with multichannel electrode arrays, using principles of correlation and a Monte Carlo method for k-means clusters estimation.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/death-register-germany&#34; &gt;&lt;strong&gt;Does Healthcare Research in Germany Need a Register of Places of Death?&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Publisher: Monitor Versorgungsforschung, Date: Jun 1, 2019&lt;/li&gt;
-&lt;li&gt;George, W., Fritz, T., Papke, J., Weber, K., &amp;amp; Larionov, P. (2019). 12. 48-51. &lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.24945/MVF.06.19.1866-0533.2191&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;DOI: 10.24945/MVF.06.19.1866-0533.2191&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Description: Discussion on the need for a centralized register or database to track places of death in Germany, analyzing the potential benefits for quality management, health system design, and other stakeholders.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/spike-sorting-ecg&#34; &gt;&lt;strong&gt;Adaption of a Spike Sorting Algorithm to ECG Signals&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Publisher: De Gruyter, Date: Sep 1, 2018&lt;/li&gt;
-&lt;li&gt;Larionov, P., Janssen J.-D. and Schanze T. (2018). Biomedical Engineering / Biomedizinische Technik, Volume 63, Issue s1, Page 394. &lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.1515/bmt-2018-6051&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;DOI: 10.1515/bmt-2018-6051&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Description: Adaptation of a previously published spike sorting algorithm for analyzing ECG signals, demonstrating potential for sorting and differentiating normal and anomalous P-waves, QRS-complexes, and T-waves.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://1ar.io/projects/spike-sorting&#34; &gt;&lt;strong&gt;Correlation Based Spike Sorting&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Publisher: Pabst Science Publishers, Date: Mar 16, 2018&lt;/li&gt;
-&lt;li&gt;Larionov, P. and Schanze T. (2018). Automed 2018 - Villingen-Schwenningen, March 15-16, Automed 2018 in Villingen-Schwenningen Tagungsband, pp. 71-73.&lt;/li&gt;
-&lt;li&gt;Description: Development of a resource-saving, easy-to-use, and fast spike sorting algorithm based on the calculation of correlations of spikes’ waveforms.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
 </description>
         </item>
         <item>
@@ -890,7 +1135,7 @@ Grade: A, (4.00, 98%)&lt;/li&gt;
 	width=&#34;3024&#34;
 	height=&#34;4032&#34;
 	srcset=&#34;https://1ar.io/projects/dying-2045/cover_front_hu0fe5f15035e89835aeb2586ca521296f_989091_480x0_resize_q75_box.JPG 480w, https://1ar.io/projects/dying-2045/cover_front_hu0fe5f15035e89835aeb2586ca521296f_989091_1024x0_resize_q75_box.JPG 1024w&#34;
-	loading=&#34;lazy&#34;
+	loading=&#34;eager&#34;
 	
 		alt=&#34;book cover, front&#34;
 	
@@ -899,11 +1144,12 @@ Grade: A, (4.00, 98%)&lt;/li&gt;
 		data-flex-grow=&#34;75&#34;
 		data-flex-basis=&#34;180px&#34;
 	
-&gt; &lt;img src=&#34;https://1ar.io/projects/dying-2045/cover-back.JPG&#34;
+&gt;
+ &lt;img src=&#34;https://1ar.io/projects/dying-2045/cover-back.JPG&#34;
 	width=&#34;3024&#34;
 	height=&#34;4032&#34;
 	srcset=&#34;https://1ar.io/projects/dying-2045/cover-back_hu31c0ccc4b1a2d4d9bbee3dd7ee9b2b34_975693_480x0_resize_q75_box.JPG 480w, https://1ar.io/projects/dying-2045/cover-back_hu31c0ccc4b1a2d4d9bbee3dd7ee9b2b34_975693_1024x0_resize_q75_box.JPG 1024w&#34;
-	loading=&#34;lazy&#34;
+	loading=&#34;eager&#34;
 	
 		alt=&#34;book cover, back&#34;
 	
@@ -912,7 +1158,8 @@ Grade: A, (4.00, 98%)&lt;/li&gt;
 		data-flex-grow=&#34;75&#34;
 		data-flex-basis=&#34;180px&#34;
 	
-&gt;&lt;/p&gt;
+&gt;
+&lt;/p&gt;
 &lt;h3 id=&#34;my-chapter&#34;&gt;my chapter&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Larionov, P. (2023). Szenarien einer digitalisierten Gesellschaft. In Psychosozial-Verlag eBooks (pp. 297–312). &lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.30820/9783837961058-297&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -1004,7 +1251,7 @@ Grade: A, (4.00, 98%)&lt;/li&gt;
 	width=&#34;1600&#34;
 	height=&#34;948&#34;
 	srcset=&#34;https://1ar.io/p/dying-2045-digital/obsidian_hu443304c6bdc5f6b606472c2ddc4cd025_708325_480x0_resize_box_3.png 480w, https://1ar.io/p/dying-2045-digital/obsidian_hu443304c6bdc5f6b606472c2ddc4cd025_708325_1024x0_resize_box_3.png 1024w&#34;
-	loading=&#34;lazy&#34;
+	loading=&#34;eager&#34;
 	
 		alt=&#34;Obsidian.md&amp;rsquo;s graph view represents interconnected notes, which can be used to cluster and explore topics in personal and professional knowledge databases.&#34;
 	
@@ -1013,7 +1260,8 @@ Grade: A, (4.00, 98%)&lt;/li&gt;
 		data-flex-grow=&#34;168&#34;
 		data-flex-basis=&#34;405px&#34;
 	
-&gt;&lt;/p&gt;
+&gt;
+&lt;/p&gt;
 &lt;p&gt;With digitalization in healthcare, the process of becoming truly digital varies significantly. Some data is captured in a very digital-friendly, granular form, which is what the FHIR (Fast Healthcare Interoperability Resources) HL7 (Health Level Seven International) standard tries to roll out globally. This standard fundamentally enables interoperability by structuring data, so that every supported system can interpret and allocate the incoming data stream correctly. For example, one field with the patient&amp;rsquo;s name should always be labeled in an unambiguous way, vastly reducing the chance of machine error. However, not every medical system and medical device supports this standard, leaving some data very isolated.&lt;/p&gt;
 &lt;p&gt;Patients often receive results of lab analyses on paper or in PDF, and the same goes for prescriptions. Digital patient records are &lt;a class=&#34;link&#34; href=&#34;https://www.rnd.de/wirtschaft/umfrage-von-bitkom-und-hartmannbund-kliniken-und-praxen-fehlt-digitaler-wandel-UBVZMOXHNVEIHDOWTKX5RPFZ2I.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;barely used&lt;/a&gt;. This means that when patients visit another doctor, the data must either be requested from the lab or entered manually. The ePA (Elektronische Patientenakte) should address this issue by giving patients access to their results and allowing them to grant access to such data to certain doctors or clinics. As long as the adoption of the ePA remains marginally low (&amp;ldquo;Elektronische Patientenakte: Einführung Läuft Schleppend, 2022&amp;rdquo;), the situation won’t change.&lt;/p&gt;
@@ -1109,7 +1357,7 @@ Without any doubt, each manufacturer and developer also uses the collected data 
 	width=&#34;1480&#34;
 	height=&#34;884&#34;
 	srcset=&#34;https://1ar.io/p/dying-2045-digital/Behavioral_Health_Workforce_hue6b6e50b14b55f18a5570bf580f9e3f0_133160_480x0_resize_box_3.png 480w, https://1ar.io/p/dying-2045-digital/Behavioral_Health_Workforce_hue6b6e50b14b55f18a5570bf580f9e3f0_133160_1024x0_resize_box_3.png 1024w&#34;
-	loading=&#34;lazy&#34;
+	loading=&#34;eager&#34;
 	
 		alt=&#34;behavioral health workforce in US&#34;
 	
@@ -1118,7 +1366,8 @@ Without any doubt, each manufacturer and developer also uses the collected data 
 		data-flex-grow=&#34;167&#34;
 		data-flex-basis=&#34;401px&#34;
 	
-&gt;&lt;/p&gt;
+&gt;
+&lt;/p&gt;
 &lt;p&gt;The intersection of healthcare shortages and the escalating issue of loneliness presents a particularly challenging situation. The rapid advancement of AI technology offers potential solutions. For instance, the impressive development in generative art through AI platforms like &lt;a class=&#34;link&#34; href=&#34;https://openai.com/blog/dall-e/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Dall-E&lt;/a&gt; and &lt;a class=&#34;link&#34; href=&#34;https://www.midjourney.com/home/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;MidJourney&lt;/a&gt; illustrates the leaps made in AI capabilities. These generative engines transform text into compositionally sensible images, a concept that was almost unimaginable just a few years ago.&lt;/p&gt;
@@ -1131,7 +1380,7 @@ Without any doubt, each manufacturer and developer also uses the collected data 
 	width=&#34;926&#34;
 	height=&#34;912&#34;
 	srcset=&#34;https://1ar.io/p/dying-2045-digital/abuse1_huda31b3bf7a525fb5494d0a4e9c7ac19c_113236_480x0_resize_box_3.png 480w, https://1ar.io/p/dying-2045-digital/abuse1_huda31b3bf7a525fb5494d0a4e9c7ac19c_113236_1024x0_resize_box_3.png 1024w&#34;
-	loading=&#34;lazy&#34;
+	loading=&#34;eager&#34;
 	
 		alt=&#34;user&amp;rsquo;s test request to the chatbot&#34;
 	
@@ -1140,11 +1389,12 @@ Without any doubt, each manufacturer and developer also uses the collected data 
 		data-flex-grow=&#34;101&#34;
 		data-flex-basis=&#34;243px&#34;
 	
-&gt; &lt;img src=&#34;https://1ar.io/p/dying-2045-digital/abuse2.png&#34;
+&gt;
+ &lt;img src=&#34;https://1ar.io/p/dying-2045-digital/abuse2.png&#34;
 	width=&#34;840&#34;
 	height=&#34;942&#34;
 	srcset=&#34;https://1ar.io/p/dying-2045-digital/abuse2_hu4c25c94522bb6d31cf30b8980029dc53_109397_480x0_resize_box_3.png 480w, https://1ar.io/p/dying-2045-digital/abuse2_hu4c25c94522bb6d31cf30b8980029dc53_109397_1024x0_resize_box_3.png 1024w&#34;
-	loading=&#34;lazy&#34;
+	loading=&#34;eager&#34;
 	
 		alt=&#34;chatbot&amp;rsquo;s response&#34;
 	
@@ -1153,7 +1403,8 @@ Without any doubt, each manufacturer and developer also uses the collected data 
 		data-flex-grow=&#34;89&#34;
 		data-flex-basis=&#34;214px&#34;
 	
-&gt;&lt;/p&gt;
+&gt;
+&lt;/p&gt;
 &lt;p&gt;While humans can also be neglectful and make errors, it&amp;rsquo;s important that users don&amp;rsquo;t rely entirely on AI. In fact, it&amp;rsquo;s prudent advice not to rely completely on anything. As machines become increasingly proficient in tasks they are trained to perform, a virtual &amp;ldquo;being&amp;rdquo; designed to be understanding and attentive could be perceived by many as a better partner than a real one. Although this reliance on AI could potentially have a negative impact on human relationships, with people criticizing each other for not being as responsive as machines, there is also an opportunity to learn from these AI systems.&lt;/p&gt;
 &lt;p&gt;The capacity of AI to listen and respond without judgment or fatigue could serve as a model for improving human interactions. By observing how AI maintains patience, offers unbiased support, and handles repetitive inquiries without frustration, people might gain insights into enhancing their communication and empathy skills. However, it&amp;rsquo;s crucial to maintain a balance. Human connections offer depth, emotional nuances, and a level of understanding that AI cannot replicate. Personal relationships are integral to human experience and well-being, providing aspects of interaction that AI cannot fulfill.&lt;/p&gt;
 &lt;p&gt;Therefore, while AI can be a valuable tool in areas like mental health support, especially in the face of professional shortages and increasing loneliness, it should complement rather than replace human connections. Embracing the strengths of AI while acknowledging and preserving the unique value of human interactions will be essential as we navigate this evolving landscape.&lt;/p&gt;
@@ -1219,12 +1470,13 @@ Without any doubt, each manufacturer and developer also uses the collected data 
 	
 	
 	
-	loading=&#34;lazy&#34;
+	loading=&#34;eager&#34;
 	
 		alt=&#34;the transition&#34;
 	
 	
-&gt;&lt;/p&gt;
+&gt;
+&lt;/p&gt;
 &lt;p&gt;Imagine this: The estimation for a person is several months. In these months, the person decides to create a digital twin and let it live in one of the virtual worlds. The person collects as much data as possible, makes additional recordings of their voice, provides video recordings - all this data is collected and processed with full consent. The last weeks are spent in full submersion mode - the person lives in a headset, while the body is connected to systems of artificial (and maybe autonomous) life support. The relatives are not around, at least not physically, but the person can spend time with children or grandchildren in VR. In the last moments, the person is still online. The system detects that the final moments are close and starts a special event for the relatives, who are on the other side of reality. For them, it looks like the person’s avatar is changing, becoming even more real in the virtual world, symbolizing the transition. When the digital twin is created, the person in the real world has passed away. A special service (agreement signed upfront) takes care of the body autonomously. A gravestone is not required, as the copy will remain in the digital world, and the relatives and friends can interact with the person almost as before. The only difference is, to meet with the person, they don’t have to drive to another city; it is enough to put on the headset or drop a text message. For the relatives, little has changed. With time, more people will join the person on the other side - it is like an ancestral tree, but much more advanced. Instead of a priest, a headset could accompany us in our last dive into the metaverse. They call this simulation - the New Heaven. Commercial ends. Order now.&lt;/p&gt;
 </description>
         </item>
@@ -1342,7 +1594,7 @@ The app contained curated and granularly prepared pieces of information, so that
 	width=&#34;2668&#34;
 	height=&#34;1500&#34;
 	srcset=&#34;https://1ar.io/projects/dot-go/dot-all_huebbfad1edfa8e198fe68a27ac6a615ca_897158_480x0_resize_q75_box.jpeg 480w, https://1ar.io/projects/dot-go/dot-all_huebbfad1edfa8e198fe68a27ac6a615ca_897158_1024x0_resize_q75_box.jpeg 1024w&#34;
-	loading=&#34;lazy&#34;
+	loading=&#34;eager&#34;
 	
 		alt=&#34;Dot Go App&#34;
 	
@@ -1351,7 +1603,8 @@ The app contained curated and granularly prepared pieces of information, so that
 		data-flex-grow=&#34;177&#34;
 		data-flex-basis=&#34;426px&#34;
 	
-&gt;&lt;/p&gt;
+&gt;
+&lt;/p&gt;
 &lt;h2 id=&#34;my-role&#34;&gt;My Role&lt;/h2&gt;
 &lt;p&gt;I joined the project as a creative technologist when a proof of concept was done, but the requirements changed and the quality had to increase. So my first task was to redefine the scope, the metrics, and the desired outcome and get all stakeholders aligned about the new course of actions. Based on the created documentation, we decided to refresh the design and upgrade our object recognition algorithms, while having usability by the target audience (visually impaired users) as our main priority. After several sporty sprints, during which I led the developers team and kept in touch with designers and the agency, we rebuilt the app and delivered the project on time and in the required quality to the stakeholders.&lt;/p&gt;
 &lt;h2 id=&#34;where--with-whom&#34;&gt;Where / With Whom&lt;/h2&gt;
@@ -1408,7 +1661,7 @@ Scientific group of Prof. Dr. Thomas Schanze.&lt;/p&gt;
 	width=&#34;512&#34;
 	height=&#34;1728&#34;
 	srcset=&#34;https://1ar.io/projects/death-register-germany/scheme_hucb3a330635407ac89677321b73005351_180130_480x0_resize_q75_box.jpg 480w, https://1ar.io/projects/death-register-germany/scheme_hucb3a330635407ac89677321b73005351_180130_1024x0_resize_q75_box.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
+	loading=&#34;eager&#34;
 	
 		alt=&#34;Control Function for the Places of Death Register&#34;
 	
@@ -1417,7 +1670,8 @@ Scientific group of Prof. Dr. Thomas Schanze.&lt;/p&gt;
 		data-flex-grow=&#34;29&#34;
 		data-flex-basis=&#34;71px&#34;
 	
-&gt;&lt;/p&gt;
+&gt;
+&lt;/p&gt;
 &lt;h1 id=&#34;my-role&#34;&gt;my role&lt;/h1&gt;
 &lt;p&gt;Co-author, data visualization.&lt;/p&gt;
 &lt;h1 id=&#34;where--with-whom&#34;&gt;where / with whom&lt;/h1&gt;
@@ -1429,7 +1683,7 @@ Scientific group of Prof. Dr. Thomas Schanze.&lt;/p&gt;
 </description>
         </item>
         <item>
-        <title>Archives</title>
+        <title>ARCHIVES</title>
         <link>https://1ar.io/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
@@ -1527,30 +1781,70 @@ Scientific group of Prof. Dr. Thomas Schanze.&lt;/p&gt;
         <description></description>
         </item>
         <item>
-        <title>contact</title>
+        <title>CONTACT</title>
         <link>https://1ar.io/contact/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://1ar.io/contact/</guid>
-        <description>
+        <description>&lt;p&gt;Want to hire me short or long term? Here is what I can do.&lt;/p&gt;
+
 &lt;div data-tf-live=&#34;01HGEPZ4QNFFR4ECTY0Q0W7C7N&#34;&gt;&lt;/div&gt;
 &lt;script src=&#34;//embed.typeform.com/next/embed.js&#34;&gt;&lt;/script&gt;
 </description>
         </item>
         <item>
-        <title>links</title>
-        <link>https://1ar.io/links/</link>
+        <title>HIRE ME</title>
+        <link>https://1ar.io/hire-me/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://1ar.io/links/</guid>
-        <description></description>
+        <guid>https://1ar.io/hire-me/</guid>
+        <description>&lt;h2 id=&#34;what-i-can-help-you-with&#34;&gt;What I can help you with&lt;/h2&gt;
+&lt;p&gt;I am profficient in &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/skills&#34; &gt;various speheres&lt;/a&gt; around digital technology, AI, medical technology, business and &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/awards&#34; &gt;my track record is proven&lt;/a&gt;. You can bring &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/about&#34; &gt;my expertise&lt;/a&gt; into your business to &lt;code&gt;amplify&lt;/code&gt;, &lt;code&gt;accelerate&lt;/code&gt;, &lt;code&gt;innovate&lt;/code&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;contulting&#34;&gt;Contulting&lt;/h3&gt;
+&lt;p&gt;I do consulting in the fields I feel the &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/about&#34; &gt;most proficient&lt;/a&gt;. You can consider reaching out for a one-time consulting or a long-term partnership proposition.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;code&gt;Digital innovation technology&lt;/code&gt;&lt;/strong&gt;. You hire me to brainstorm with you on your ideas. I bring expertise and implementable ideas.&lt;/li&gt;
+&lt;li&gt;AI solutions (LLMs, computer vision). You hire me to figure out how you can build tools around AI or augment your solutions with AI.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;code&gt;Business and investment in Kazakhstan&lt;/code&gt;&lt;/strong&gt; for non-kazakhstan companies. I can guide you through processes, attend meetings and connect you with various actors and decision makers in Kazakhstan.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;code&gt;Business in Germany&lt;/code&gt;&lt;/strong&gt; for non-european companies. I can help you open a company in Germany, assist with market research and connect you with various actors and decision makers in fields of digital technology, advertisement, healthcare industry, academia and education etc.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;code&gt;Medical technology.&lt;/code&gt;&lt;/strong&gt; You hire me to perform market analysis and figure out state of the art for in given medtech field.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;code&gt;Digital efficiency&lt;/code&gt;&lt;/strong&gt;. You have an inefficient workflow? I can analyze your needs and provide you with proven methods to improve (e.g. company and personal knowledge management, automated workflows, AI-assisted workflows etc.).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;code&gt;Video games&lt;/code&gt;&lt;/strong&gt;. You hire me to test your game, I come up with prioritized, cost-effective and actionable improvement ideas for you game. I can provide expertise evaluation for your sci-fi game (e.g. futuristic cyberpunk titles, digital security, medical devices etc.).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;research--development&#34;&gt;Research &amp;amp; Development&lt;/h3&gt;
+&lt;p&gt;I have launched award-winning projects, wrote several papers, researched probably hundreds of topics. So if you require some work to be done, here is what you can expect if you work with me:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;code&gt;AI solutions brainstorm &amp;amp; prototyping&lt;/code&gt;.&lt;/strong&gt; You describe your problem, I come up with an AI solution for it and show you a proof of concept withing an agreed period (ChatGPT based, multi-agent setups, ChatGPT actions creation etc.).&lt;/li&gt;
+&lt;li&gt;**Rapid in-depth research **on the topic of your choice within my &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/skills&#34; &gt;sphere of competence&lt;/a&gt;. You tell me what you need to research, I do the research and provide full well-structured documentation starting with a short easy-to-understand explanation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;code&gt;Architecture creation for your system&lt;/code&gt;.&lt;/strong&gt; You describe me your (future) service, I provide you with a scheme of service (full plan for your upcoming solution or figuring our how your existing one works).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;code&gt;Rapid prototyping&lt;/code&gt;.&lt;/strong&gt; You share with me your idea, I do the research myself and provide you with either a low-fidelity prototypes in Figma, create of proof of concepts for algorithms and workflows (can be wrapped in GUI).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Obviously we can sign an NDA before we start working on your ideas.&lt;/p&gt;
+&lt;h3 id=&#34;workshops-public-speaking-participation-in-meetings&#34;&gt;Workshops, Public Speaking, Participation in Meetings&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;code&gt;In-depth workshops or lectures&lt;/code&gt;&lt;/strong&gt; about technological topics for your employees or clients. You give ma a topic, which should be related to my &lt;a class=&#34;link&#34; href=&#34;https://1ar.io/skills&#34; &gt;sphere of competence&lt;/a&gt;, I create a workshop/lecture for you and perform either myself or in cooperation with your team.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;code&gt;Effective tool usage workshop.&lt;/code&gt;&lt;/strong&gt; I can give you a workshop about how to speed up any task in your company by using state-of-the art tools and technics, including no-code AI assistant usage, prompt engineering, etc.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Reach out and we will figure out how we can help each other.&lt;/p&gt;
+
+&lt;div data-tf-live=&#34;01HGEPZ4QNFFR4ECTY0Q0W7C7N&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;//embed.typeform.com/next/embed.js&#34;&gt;&lt;/script&gt;
+</description>
         </item>
         <item>
-        <title>Search</title>
+        <title>SEARCH</title>
         <link>https://1ar.io/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://1ar.io/search/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>TOOLS</title>
+        <link>https://1ar.io/tools/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://1ar.io/tools/</guid>
         <description></description>
         </item>
         
