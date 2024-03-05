@@ -37,7 +37,7 @@ Learn more about the Dot Go project [here](/projects/dot-go/).
 | [shortlist Clio Awards](https://clios.com/awards/winner/media/dot/dot-go-the-first-object-interaction-app-for-the-vi-136087) | shortlist (Media) |
 | [✏️ d&ad](https://www.dandad.org/awards/professional/2023/236525/dot-go-the-first-object-interaction-app-for-the-visually-impaired/) | graphite (Experiential / Use of MR) |
 | [✏️ d&ad](https://www.dandad.org/awards/professional/2023/236525/dot-go-the-first-object-interaction-app-for-the-visually-impaired/) | graphite (Direct / Innovation) |
-| [🪵 d&ad](https://www.dandad.org/awards/professional/2023/236525/dot-go-the-first-object-interaction-app-for-the-visually-impaired/) | silver (Digital / Health & Wellbeing) |
+| [🪵 d&ad](https://www.dandad.org/awards/professional/2023/236525/dot-go-the-first-object-interaction-app-for-the-visually-impaired/) | wood (Digital / Health & Wellbeing) |
 | [shortlist d&ad](https://www.dandad.org/awards/professional/2023/236525/dot-go-the-first-object-interaction-app-for-the-visually-impaired/) | shortlist (Digital / Use of Technology) |
 | [🥇 webby](https://winners.webbyawards.com/2023/apps-dapps-and-software/app-features/best-practices/246824/dot-go-the-first-object-interaction-app-for-the-visually-impaired) | webby (Apps, dApps and Software Best Practices) |
 | [🥇 webby](https://winners.webbyawards.com/2023/apps-dapps-and-software/app-features/best-practices/246824/dot-go-the-first-object-interaction-app-for-the-visually-impaired) | webby Apps, dApps and Software Best Practices) |

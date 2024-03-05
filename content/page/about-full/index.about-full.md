@@ -21,6 +21,7 @@ comments: false
 <div class="button-container">
   {{< cta title="｢ CV as PDF | EN ｣" url="CV_Pavel_Larionov_EN_web.pdf" >}}
   {{< cta title="｢ CV as PDF | DE ｣" url="CV_Pavel_Larionov_DE_web.pdf" >}}
+  {{< cta title="｢ 1-pager CV as PDF | EN ｣" url="CV_Pavel_Larionov_EN_1_pager_web.pdf" >}}
 </div>
 
 Analytical and visionary innovation and technology leader with a Master of Science degree in biomedical engineering and extensive experience in digital technology, IT project leadership, and digital transformation. Over a decade of experience bridging the gap between technology, product development and business strategy. Demonstrated success in pioneering projects and leveraging AI to drive growth and enrich the customer experience. Skilled at catalyzing collaboration across diverse teams and departments to synchronize technology efforts with business goals.
