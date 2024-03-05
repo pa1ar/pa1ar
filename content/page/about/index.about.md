@@ -48,13 +48,19 @@ I am thrilled about the boundless potential of human-machine symbiosis, and neve
 - Technical and Scientific Writing
 - Public Speaking and Workshop Facilitation
 
+{{< cta title="｢ full list of skills ｣" url="/skills" >}}
+
 ### Languages
 
 - English: Fluent
 - German: Fluent
 - Russian: Native
 
-{{< cta title="｢ skills ｣" url="/skills" >}}
+### Interests & Hobbies
+- Personal/Professional Automation
+- Technical Microblogging (𝕏)
+- Video Games (competitive & soulslike)
+- Martial Arts (Aikido, Kendo, Iaido, Mixed Martial Arts)
 
 -----
 ## Professional
