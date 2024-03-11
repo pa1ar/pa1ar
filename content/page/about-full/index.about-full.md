@@ -24,17 +24,19 @@ comments: false
   {{< cta title="｢ 1-pager CV as PDF | EN ｣" url="CV_Pavel_Larionov_EN_1_pager_web.pdf" >}}
 </div>
 
-Analytical and visionary innovation and technology leader with a Master of Science degree in biomedical engineering and extensive experience in digital technology, IT project leadership, and digital transformation. Over a decade of experience bridging the gap between technology, product development and business strategy. Demonstrated success in pioneering projects and leveraging AI to drive growth and enrich the customer experience. Skilled at catalyzing collaboration across diverse teams and departments to synchronize technology efforts with business goals.
+> Outstanding technical leader and innovator with over 10 years of extensive multidisciplinary professional experience. 
 
-Notable projects include leading development of an award-winning iOS app [Dot Go](/projects/dot-go) for the visually impaired, [The Truth Wins](/projects/the-truth-wins) campaign to navigate around censorship and sparking AI initiatives within the company, manifested by the most recent project - [AI Eric](/projects/ai-eric), a relationship coach.
+As a creative technologist, I have launched more than 15 cutting-edge projects integrating artificial intelligence and the latest technologies. Throughout my career, I have successfully led development from idea to launch with cross-functional teams, built and maintained relationships with clients, and always ensured timely delivery. Works with my direct contribution and under my technical leadership have garnered over 50 prestigious international awards, including Cannes Lions and iF Design Awards.
 
 <a href="/awards">
   <img src="logos_strip.png" alt="logos strip">
 </a>
 
-Previously engaged in biomedical technology, I contributed to neuroscience research by developing a [spike sorting](/projects/spike-sorting) algorithm, and leading a project to improve [palliative care](/projects/avenue-pal) through tech-enabled solutions. Alongside, I've always enjoyed sharing knowledge, be it through tutoring engineering subjects in the lab of my university, leading martial arts groups for kids and adults, or introducing collaborative digital tools for perpetual knowledge management to the co-workers.
+Notable projects include the award-winning [Dot Go](/projects/dot-go) iOS app for the visually impaired, [The Truth Wins](/projects/the-truth-wins) campaign to bypass censorship via leveraging decentralization technologies, and spearheading AI initiatives, exemplified by the recent launch of the [AI Eric](/projects/ai-eric) relationship coach project.  
 
-I am thrilled about the boundless potential of human-machine symbiosis, and never stop exploring new ways to harness technology for meaningful solutions.
+With M.Sc. in Biomedical Engineering, previously contributed to neuroscience research and biosignal analysis by developing a [spike sorting](/projects/spike-sorting) algorithm and leading a development unit for a project aimed at improving [palliative care](/projects/avenue-pal)  through technology-enabled solutions.  
+
+I am thrilled about the boundless potential of human-machine symbiosis, and never stop exploring new ways to harness technology for meaningful solutions.  
 
 ------
 
