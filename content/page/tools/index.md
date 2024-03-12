@@ -58,7 +58,8 @@ links:
 
 ---
 
-## Apple Shortcuts
+## Basic Apple Shortcuts
+> Most shortcuts are pay-what-you want with optional version with support included (15 minutes call with me).
 
 ---
 ### ｢ text editing ｣ BUNDLE
@@ -88,9 +89,18 @@ What's included:
 > This shortcut will help you with getting started. It will provide an `outline for your journal entry`, so you can focus on writing right away.
 > It also provides weather of the day in current location to help you refresh your memory (especially useful for travellers)
 
-**Get it from Gumroad:**
 {{< cta title="get ｢ journal ｣ shortcut" url="https://1ar.gumroad.com/l/shortcut-journal" >}}
 
-*It's pay-what-you-want, but there is also an option with a supported version - meaning you will get one 15 minutes support session with me if you have any questions or issues about your shortcut.*
+---
+
+## Advanced Apple Shortcuts
+> These shortcuts are using more complex functions and/or API calls. I am trying to keep the dependencies on external services or apps to minimum, so you can use them without any additional costs/installations.
+
+### ｢ API storage ｣
+
+> This shortcut is useful for handling API keys which you will use in various shortcuts made by me. The keys are stored in Apple notes, so assuming you are not sharing iCloud account or not sharing the note/folder with the keys with anyone, this gives you relatively secure way of storing the keys. The shortcut is handling the note with API keys automatically, so you don’t need to modify anything manually, you only need to get the API keys from service provider and the shortcut will append it to the corresponding note.
+
+{{< cta title="get ｢ API storage ｣ shortcut" url="https://1ar.gumroad.com/l/shortcut-api-storage" >}}
 
 ---
+
