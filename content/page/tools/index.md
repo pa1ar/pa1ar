@@ -104,3 +104,21 @@ What's included:
 
 ---
 
+### ｢ shrink IMGs ｣ API version
+> This shortcut uses native on-device tools to resize image and then uses TinyPNG API to compress images. You can select multiple images, all of them will be processed with same proportions and the output format (JPEG or PNG) will also remain the same.
+
+This shortcut is made compatible with [｢ API storage ｣](https://1ar.gumroad.com/l/shortcut-api-storage) shortcut.
+
+{{< cta title="get ｢ shrink IMGs ｣ API version" url="https://1ar.gumroad.com/l/shortcut-shrink-imgs-api" >}} 
+
+---
+
+### ｢ shrink IMGs ｣ no API version
+> This shortcut uses native on-device tools to resize image and/or to compress images. You can select multiple images, all of them will be processed with same proportions and the output format (JPG or PNG) will also remain the same for the whole batch you are processing.
+
+This version of the shortcut can't compress PNGs. If you need this functionality, consider getting the [API version](https://1ar.gumroad.com/l/shortcut-shrink-imgs-api).
+
+{{< cta title="get ｢ shrink IMGs ｣ no API version" url="https://1ar.gumroad.com/l/shortcut-shrink-imgs" >}}
+
+---
+
