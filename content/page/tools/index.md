@@ -59,7 +59,7 @@ links:
 ---
 
 ## Basic Apple Shortcuts
-> Most shortcuts are pay-what-you want with optional version with support included (15 minutes call with me).
+> Most shortcuts are available either on pay-what-you-want basis or as paid version in which an optional 15 minutes support call with me is included.
 
 ---
 ### ｢ text editing ｣ BUNDLE
