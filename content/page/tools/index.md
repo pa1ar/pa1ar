@@ -122,3 +122,12 @@ This version of the shortcut can't compress PNGs. If you need this functionality
 
 ---
 
+### ｢ spartan GPT ｣
+
+> This shortcut is a simple context-aware multi-purpose ChatGPT wrapper. You can message back and forth with the bot with the given amount of messages (default is 10), which the bot will memorize. You can select default model (gpt-3.5-turbo or gpt-4-turbo are built-in) via customization.
+
+The shortcuts comes with pre-defined prompt which will ensure short and concise answers, which you can modify via shortcut customization.
+
+{{< cta title="｢ spartan GPT ｣" url="https://1ar.gumroad.com/l/shortcut-spartan-gpt" >}}
+
+---

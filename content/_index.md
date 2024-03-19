@@ -5,6 +5,6 @@ menu:
         weight: -100
         params:
             icon: prism
-readingTime: false
+
 ---
 
