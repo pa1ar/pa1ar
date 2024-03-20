@@ -6,7 +6,7 @@ project: true
 draft: false
 slug: dying-2045
 date: 2023-09-20
-image: smartphone-grave.jpeg
+image: thumbnail_project_dying.jpg
 categories: 
   - signal
 toc: true

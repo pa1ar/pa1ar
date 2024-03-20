@@ -6,7 +6,7 @@ project: true
 draft: false
 slug: 
 date: 2021-02-02
-image: dot-cover.jpeg
+image: thumbnail_project_dot_go.jpg
 categories: 
   - signal
 toc: true

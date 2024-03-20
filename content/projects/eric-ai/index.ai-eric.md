@@ -6,7 +6,7 @@ project: true
 draft: false
 slug: ai-eric
 date: 2023-12-06
-image: eric.jpeg
+image: thumbnail_project_eric.jpg
 categories: 
   - signal
 toc: true

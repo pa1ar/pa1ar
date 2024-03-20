@@ -6,7 +6,7 @@ project: true
 draft: false
 slug: spike-sorting
 date: 2018-03-15
-image: neuron.jpeg
+image: thumbnail_project_spike_sorting.jpg
 categories: 
   - signal
 toc: true

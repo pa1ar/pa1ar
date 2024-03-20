@@ -6,7 +6,7 @@ project: true
 draft: false
 slug: 
 date: 2022-03-17
-image: ttw-square.jpeg
+image: thumbnail_project_truth.jpg
 categories: 
   - signal
 toc: true

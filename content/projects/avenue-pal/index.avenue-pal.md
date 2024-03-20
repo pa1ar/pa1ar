@@ -6,7 +6,7 @@ project: true
 draft: false
 slug: avenue-pal
 date: 2021-05-31
-image: ap.jpeg
+image: thumbnail_project_avenue_pal.jpg
 categories: 
   - signal
 toc: true

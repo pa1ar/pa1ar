@@ -6,7 +6,7 @@ project: true
 draft: false
 slug: death-register-germany
 date: 2019-06-01
-image: podr.jpeg
+image: thumbnail_project_death_register.jpg
 categories: 
   - signal
 toc: true

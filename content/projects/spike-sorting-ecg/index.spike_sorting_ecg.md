@@ -6,7 +6,7 @@ project: true
 draft: false
 slug: spike-sorting-ecg
 date: 2018-09-26
-image: ecg.jpeg
+image: thumbnail_project_spike_sorting_ecg.jpg
 categories: 
   - signal
 toc: true

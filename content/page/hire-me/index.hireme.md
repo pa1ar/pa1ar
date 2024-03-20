@@ -5,6 +5,7 @@ license: false
 comments: false
 readingTime: false
 slug: hire-me
+image: cover_hire_me.jpg
 menu:
   main:
     title: hire me

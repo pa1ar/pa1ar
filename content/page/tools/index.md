@@ -12,7 +12,7 @@ comments: false
 readingTime: false
 license: false
 
-image: thumbnail_tools.jpg
+image: cover_tools.jpg
 
 links:
   - title: Notion

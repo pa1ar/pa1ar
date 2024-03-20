@@ -7,7 +7,7 @@ menu:
 
 description: incepted over years
 title: "PROJECTS" 
-layout: "projects"
+# layout: "projects"
 slug: projects
 date: 
 tags: 
@@ -18,6 +18,6 @@ readingTime: false
 draft: 
 license: false
 
-widgets:
-  - x
+# widgets:
+#   - x
 ---
