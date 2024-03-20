@@ -1,6 +1,7 @@
 ---
 title: SKILLS
 description: "what i can do"
+image: cover_skills.jpg
 date: 2023-11-05
 license: false
 lastmod: 2023-11-05

@@ -6,7 +6,7 @@ project: true
 draft: false
 slug: dying-2045-digital
 date: 2022-05-23
-image: dying-2045.jpeg
+image: cover_article_dying_2045.jpg
 categories: 
   - signal
 toc: true

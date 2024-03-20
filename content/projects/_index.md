@@ -10,7 +10,6 @@ title: "PROJECTS"
 layout: "projects"
 slug: projects
 date: 
-image: 
 tags: 
 categories: 
 toc: 
@@ -22,4 +21,3 @@ license: false
 widgets:
   - x
 ---
-

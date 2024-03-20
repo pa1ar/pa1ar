@@ -2,7 +2,7 @@
 title: Hotkey for Activity Monitor on MacOS
 description: Launch Activity Monitor with a Keyboard Shortcut on macOS as you would launch Task Manager on Windows.
 date: 2023-10-15
-image: activity-monitor.jpeg
+image: cover_article_macos_activity_monitor.jpg
 categories:
   - noise
 tags:

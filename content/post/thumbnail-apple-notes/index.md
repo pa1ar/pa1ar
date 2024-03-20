@@ -1,7 +1,7 @@
 ---
 title: "How to create a preview thumbnail for a ULR in Apple Notes on iOS and MacOS"
 description: Creating thumbnails for URLs from within the Apple Notes
-image: thumbnail-generated.jpeg
+image: cover_article_apple_notes_url_previews.jpg
 date: 2024-02-02
 slug: thumbnail-apple-notes
 
