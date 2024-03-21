@@ -30,6 +30,9 @@ After I have started the initiative of building the AI-powered chatbots in the c
 ## where / with whom  
 The implementation of the intelligent-website technology (sAIpien) is the property of Hyperinteractive Innovation Studio, Eric AI is whitelabel solution for one of Hyperinteractive's clients. Significant during implementation contributions also came from Frédéric Urien, who took care of the solution's setup, prompting and client's communication in the first phase of the project, from Katya Kovaleva, who took care of the project's timeline and social media announcements and from our CEO Dieter Pries, who was directing the project and brought the client in the first place. Of course, the AI coach implementation wouldn't be possible without Eric's support, open-mindness and enthusiasm. 
 
+{{< youtube fuiUCrxgmPM >}}
+Demo showcases example of the conversation with the AI coach, featuring cross-session memory.
+
 ## when  
 2023-2024
 

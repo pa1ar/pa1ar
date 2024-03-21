@@ -25,7 +25,8 @@ The aim of the sub-project "Solution for Information & Communication" was to
 
 Both targets were addressed by developing systems to deliver adequate information to the right actors or participants at the right time.  
 
-> 
+{{< youtube Qz1z0kukepQ >}}
+Demo showcasing the knowledge base features of the app.
 
 # my role
 Project engineer at first, IT project lead short after the project began. I was leading team of developers, who was working on prototypes for the informational systems. 
