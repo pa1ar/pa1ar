@@ -64,7 +64,7 @@ links:
 ---
 ### ｢ text editing ｣ BUNDLE
 
-> I've packed a `6 shortcuts` into a bundle to make text editing on iOS a bit more convenient.  
+> I've packed a `7 shortcuts` into a bundle to make text editing on iOS a bit more convenient.  
 > I am using those shortcuts myself every single day when preparing [posts for 𝕏](https://x.com/pa1ar), texting in group chats or jotting down stuff in my notes. Maybe you will too.
 
 {{< cta title="get ｢ text editing ｣ shortcuts BUNDLE" url="https://1ar.gumroad.com/l/shortcuts-bundle-text-editing" >}}
@@ -77,6 +77,7 @@ What's included:
 - [｢ link_words ｣](1ar.gumroad.com/l/shortcut-link-words) - connect words in the input with special characters
 - [｢ change CASE ｣](1ar.gumroad.com/l/shortcut-change-case) - change the case of the input (lower, upper, title, sentence, aLtErNaTiNg)
 - [｢ insert date ｣](1ar.gumroad.com/l/shortcut-insert-date) - insert current date in the format you prefer
+- [｢ link░letters ｣](1ar.gumroad.com/l/shortcut-link-letters) - link letters ░C░U░L░T░U░R░A░L░ ░W░A░Y░
 - Optional one 15-minutes support session with me in case you need any support or have questions about the shortcuts.
 
 *Bundle is paid, but you can get each shortcut separately for free (or pay what you find the effort is worth).*  
