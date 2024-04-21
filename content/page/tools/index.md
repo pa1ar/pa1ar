@@ -71,13 +71,13 @@ links:
 
 What's included:
 
-- [｢ count chars ｣](1ar.gumroad.com/l/shortcut-count-chars) - output the number of characters in the input
-- [｢ sort lines ｣](1ar.gumroad.com/l/shortcut-sort-lines) - sort lines in the input
-- [｢ decorate ｣](1ar.gumroad.com/l/shortcut-decorate) - frame text by adding special characters around your input
-- [｢ link_words ｣](1ar.gumroad.com/l/shortcut-link-words) - connect words in the input with special characters
-- [｢ change CASE ｣](1ar.gumroad.com/l/shortcut-change-case) - change the case of the input (lower, upper, title, sentence, aLtErNaTiNg)
-- [｢ insert date ｣](1ar.gumroad.com/l/shortcut-insert-date) - insert current date in the format you prefer
-- [｢ link░letters ｣](1ar.gumroad.com/l/shortcut-link-letters) - link letters ░C░U░L░T░U░R░A░L░ ░W░A░Y░
+- [｢ count chars ｣](https://1ar.gumroad.com/l/shortcut-count-chars) - output the number of characters in the input
+- [｢ sort lines ｣](https://1ar.gumroad.com/l/shortcut-sort-lines) - sort lines in the input
+- [｢ decorate ｣](https://1ar.gumroad.com/l/shortcut-decorate) - frame text by adding special characters around your input
+- [｢ link_words ｣](https://1ar.gumroad.com/l/shortcut-link-words) - connect words in the input with special characters
+- [｢ change CASE ｣](https://1ar.gumroad.com/l/shortcut-change-case) - change the case of the input (lower, upper, title, sentence, aLtErNaTiNg)
+- [｢ insert date ｣](https://1ar.gumroad.com/l/shortcut-insert-date) - insert current date in the format you prefer
+- [｢ link░letters ｣](https://1ar.gumroad.com/l/shortcut-link-letters) - link letters ░C░U░L░T░U░R░A░L░ ░W░A░Y░
 - Optional one 15-minutes support session with me in case you need any support or have questions about the shortcuts.
 
 *Bundle is paid, but you can get each shortcut separately for free (or pay what you find the effort is worth).*  
@@ -137,6 +137,6 @@ The shortcuts comes with pre-defined prompt which will ensure short and concise 
 
 > This shortcut connects letters in text with user-defined connector. It will help you create a perfect reply on 𝕏 or any other platform easy and fast. ░S░H░O░R░T░C░U░T░S░ ░I░S░ ░M░Y░ ░P░A░S░S░I░O░N░
 
-{{< cta title="｢ link░letters " url="URLhttps://1ar.gumroad.com/l/shortcut-link-letters" >}}
+{{< cta title="｢ link░letters " url="https://1ar.gumroad.com/l/shortcut-link-letters" >}}
 
 ---
