@@ -1,5 +1,5 @@
 ---
-title: new project ｢ tldr ｣ :: Safari browser extension
+title: new project ｢ tldr ｣ Safari browser extension
 description: Summarizing articles right from your default browser on iOS and MacOS.
 date: 2024-05-12
 image: cover_article_tldr.jpg
