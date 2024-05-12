@@ -22,6 +22,7 @@ The extension will be available for Safari on iOS/iPadOS and MacOS.
 
 ## current state
 
+{{< video width="100" autoplay="false" loop="false" src="https://1ar.io/projects/tldr/tldr_ios.webm" >}}
 
 ## notable features ::  
 
