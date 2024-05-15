@@ -9,6 +9,7 @@ tags:
   - macOS
   - iOS
   - PSA
+weight: 1
 ---
 
 > I am making an extension currently - tldr, to summarize articles in Safari browser. Mostly for myself actually. Using it already on daily basis.
