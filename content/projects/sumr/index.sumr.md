@@ -4,9 +4,9 @@ weight:
 description: Summarizing articles right from your default browser on iOS and MacOS.
 project: true
 draft: false
-slug: 
+slug: sumr
 date: 2024-04-29
-image: thumbnail_project_tldr.jpg
+image: thumbnail_project_sumr.jpg
 categories: 
   - signal
 toc: true
@@ -22,14 +22,13 @@ The extension will be available for Safari on iOS/iPadOS and MacOS.
 
 ## current state
 
-{{< video width="100" autoplay="false" loop="false" src="https://1ar.io/projects/tldr/tldr_ios_wo_sound.mp4" >}}
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">how it looks now on MacOS (on different backgrounds) and on iOS in dark mode<br><br>- dark mode works ok<br>- light mode and light websites make the buttons blend to the state of complete unreadability<br><br>so i will address this next <a href="https://t.co/Em1GyIQmaL">pic.twitter.com/Em1GyIQmaL</a></p>&mdash; Pavel Larionov (@pa1ar) <a href="https://twitter.com/pa1ar/status/1791790687882461312?ref_src=twsrc%5Etfw">May 18, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## notable features ::  
 
 - summary is stored locally, so if you revisit the website - you can read previously created one (not need to summarize again → money saving)
-- works on iOS and MacOS
+- works on iOS, iPadOS and MacOS; should work on VisionOS too
 - uses your own OpenAI key - no subscription, pay for what you actually used  
-
 
 ## availability
 It should be ready soon, testing it currently and polishing design.

@@ -80,6 +80,6 @@ Stream finished
 ```
 
 ## Context
-> In my [tldr project](/p/new-project-tldr-safari-browser-extension/) I am streaming the response to the user, but I also want to store it. So I needed a way to understand when the last chunk has arrived so that I can process the response further. I found two methods to determine when the streaming has completed and wanted to share them.
+> In my [tldr project](/p/sumr/) I am streaming the response to the user, but I also want to store it. So I needed a way to understand when the last chunk has arrived so that I can process the response further. I found two methods to determine when the streaming has completed and wanted to share them.
 
 Feel free to share your thoughts/methods here in the comments or under [the post on 𝕏](https://x.com/pa1ar/status/1790749565584322590).
