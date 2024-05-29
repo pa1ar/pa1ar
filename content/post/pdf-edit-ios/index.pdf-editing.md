@@ -21,5 +21,5 @@ For the situations when you need to remove one or another page, or add additiona
 
 ![PDF file with pages preview](pdf.png)
 
-{{< video width="100" autoplay="true" loop="true" src="https://1ar.io/post/How%20to%20Add%20Remove%20PDF’s%20Pages%20Without%203rd%20Party%20Apps/pdf.mp4" >}}
+{{< video width="100" autoplay="true" loop="true" src="https://1ar.io/p/basic-pdf-page-editing-on-ios/pdf.mp4" >}}
 
