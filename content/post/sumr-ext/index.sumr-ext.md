@@ -13,6 +13,8 @@ weight: 1
 slug: sumr
 ---
 
+{{< cta title="｢ Sumr tldr product page ｣" url="https://sumr.1ar.io/" >}}
+
 > I am making an extension currently - Sumr, to summarize articles in Safari browser. Mostly for myself actually. Using it already on daily basis.
 
 ## why 

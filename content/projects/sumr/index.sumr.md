@@ -15,6 +15,8 @@ readingTime: true
 license: false
 ---
 
+{{< cta title="｢ Sumr tldr product page ｣" url="https://sumr.1ar.io/" >}}
+
 ## what - summarizing articles right from your default browser on iOS and MacOS
 The problem - you are reading an article and you are not sure if it is worth your time. You can either read it all or skip it. The first option is time consuming and the second one is risky. The solution - a browser extension that will summarize the article for you.  
 
