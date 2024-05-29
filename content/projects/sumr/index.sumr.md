@@ -1,5 +1,5 @@
 ---
-title: app ｢ tldr ｣ extension for safari browser
+title: app ｢ Sumr ｣ - a tldr extension for safari browser
 weight: 
 description: Summarizing articles right from your default browser on iOS and MacOS.
 project: true
