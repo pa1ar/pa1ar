@@ -32,7 +32,7 @@ As a creative technologist, I have launched more than 15 cutting-edge projects i
   <img src="logos_strip.png" alt="logos strip">
 </a>
 
-Notable projects include the award-winning [Dot Go](/projects/dot-go) iOS app for the visually impaired, [The Truth Wins](/projects/the-truth-wins) campaign to bypass censorship via leveraging decentralization technologies, and spearheading AI initiatives, exemplified by the recent launch of the [AI Eric](/projects/ai-eric) relationship coach project.  
+My latest project is [Sumr](/projects/sumr/) - Safari extension to summarize web pages right from you browser. Notable projects include leading development of an award-winning iOS app [Dot Go](/projects/dot-go) for the visually impaired, [The Truth Wins](/projects/the-truth-wins) campaign to navigate around censorship and sparking AI initiatives within the company, manifested by the most recent project - [AI Eric](/projects/ai-eric), a relationship coach.
 
 With M.Sc. in Biomedical Engineering, previously contributed to neuroscience research and biosignal analysis by developing a [spike sorting](/projects/spike-sorting) algorithm and leading a development unit for a project aimed at improving [palliative care](/projects/avenue-pal)  through technology-enabled solutions.  
 

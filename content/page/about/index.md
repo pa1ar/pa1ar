@@ -23,7 +23,7 @@ comments: false
 
 Analytical and visionary technical director  with a Master of Science in Biomedical Engineering and extensive experience in digital technology, leading IT projects, and driving digital transformation. Over a decade of experience in bridging the gap between technology, product development, and business strategy. Demonstrated success in pioneering projects and leveraging AI to fuel growth and enrich customer experiences. Proficient in catalyzing cooperation among diverse teams and departments to synchronize technology efforts with business objectives.
 
-Notable projects include leading development of an award-winning iOS app [Dot Go](/projects/dot-go) for the visually impaired, [The Truth Wins](/projects/the-truth-wins) campaign to navigate around censorship and sparking AI initiatives within the company, manifested by the most recent project - [AI Eric](/projects/ai-eric), a relationship coach.
+My latest project is [Sumr](/projects/sumr/) - Safari extension to summarize web pages right from you browser. Notable projects include leading development of an award-winning iOS app [Dot Go](/projects/dot-go) for the visually impaired, [The Truth Wins](/projects/the-truth-wins) campaign to navigate around censorship and sparking AI initiatives within the company, manifested by the most recent project - [AI Eric](/projects/ai-eric), a relationship coach.
 
 <a href="/awards">
   <img src="logos_strip.png" alt="logos strip">
