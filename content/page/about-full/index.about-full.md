@@ -119,7 +119,7 @@ Reporting to the scientific group’s leader Prof. Dr. Thomas Schanze, contribut
 Veronica Medical Equipment Ltd. | Frankfurt am Main, Germany
 - **International Communicator & Sales Manager** | Jan 2013 - Jun 2014 (1 yr 6 mos)  
 West-Trading (medical equipment, wholesale and technical support) | Öskemen, Kazakhstan
-- **Sales Manager** | Jan 2013 - Jun 2014 (1 yr 6 mos)  
+- **Sales Manager** | Aug 2012 - Jan 2013 (6 mos)  
 Tropicana Touristic Agency | Öskemen, Kazakhstan
 - **Assistant Martial Arts Coach** | 2011 (1 yr)  
 Öskemen Aikido & Kendo Martial Arts Dojo | Öskemen, Kazakhstan
