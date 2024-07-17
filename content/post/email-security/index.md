@@ -3,6 +3,7 @@ title: "Enhancing ｢ Email Security ｣ with DMARC, SPF, and DKIM"
 description: Adding DMARC, SPF, and DKIM records to secure your custom email domain
 image: cover_article_email.jpg
 date: 2024-07-01
+lastmod: 2024-07-17
 slug: email-security-dmarc-spf-dkim
 
 categories:
@@ -87,6 +88,10 @@ If you use Apple iCloud custom domain mail feature:
 v=spf1 include:icloud.com ~all
 ```
 
+- `v=spf1` is the version of the SPF record
+- `include:icloud.com` means that the servers listed in the `icloud.com` SPF record are allowed to send emails on behalf of your domain
+- you can include google, microsoft, etc. too, e.g. `include:_spf.google.com include:calendar-server.bounces.google.com ~all`
+- the `~all` part means that if the server isn't on the list, it should be treated as neutral (not necessarily spam), it's basically a monitoring mode. You can change it to `-all` to reject all emails that are not on the list.
 - If you've set up iCloud custom domains, you were instructed to add SPF record alongside DKIM to your DNS
 - If you work with Google Workspace and verified your domain, you can receive a generated DKIM from them too (optionally though, which is a bit weird by default, IMO)
 
