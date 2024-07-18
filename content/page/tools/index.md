@@ -137,6 +137,12 @@ The shortcuts comes with pre-defined prompt which will ensure short and concise 
 
 > This shortcut connects letters in text with user-defined connector. It will help you create a perfect reply on 𝕏 or any other platform easy and fast. ░S░H░O░R░T░C░U░T░S░ ░I░S░ ░M░Y░ ░P░A░S░S░I░O░N░
 
-{{< cta title="｢ link░letters " url="https://1ar.gumroad.com/l/shortcut-link-letters" >}}
+{{< cta title="｢ link░letters ｣" url="https://1ar.gumroad.com/l/shortcut-link-letters" >}}
 
 ---
+
+### ｢ split image ｣
+> This shortcuts splits your image in two halves. Could be useful for sharing on social media, e.g. for creating static carousels.
+
+{{< cta title="｢ split image ｣" url="https://1ar.gumroad.com/l/split-image" >}}
+
