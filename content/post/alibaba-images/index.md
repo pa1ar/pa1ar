@@ -23,7 +23,7 @@ Let's fix this issue, focusing on Fritzbox routers with additional info for othe
 ## How to Fix on Fritzbox Routers
 
 1. Access Fritzbox Interface:
-- Open browser, enter http://fritz.box or http://192.168.178.1
+- Open local admin dashboard [http://fritz.box](http://fritz.box) or [http://192.168.178.1](http://192.168.178.1)
 - Log in
 2. Navigate to Filter Settings:
 - "Internet" > "Filters"
@@ -45,21 +45,21 @@ s.click.aliexpress.com
 ## Fixing on other Routers
 ### Netgear
 1. Access admin page
-- URL: http://192.168.1.1 or http://routerlogin.net
+- URL: [http://192.168.1.1](http://192.168.1.1) or [http://routerlogin.net](http://routerlogin.net)
 3. "Security" > "Block Sites"
 4. Add aliexpress-media.com to allowed list
 
 ### Linksys
 1. Access admin page
-- URL: Typically http://192.168.1.1
+- URL: Typically [http://192.168.1.1](http://192.168.1.1)
 3. "Security" > "Access Policy"
 4. Allow aliexpress-media.com
 
 ### TP-Link
 1. Access config page
-- URL: Usually http://192.168.0.1 or http://192.168.1.1
-3. "Security" > "Access Control"
-4. Whitelist aliexpress-media.com
+- URL: Usually [http://192.168.0.1](http://192.168.0.1) or [http://192.168.1.1](http://192.168.1.1)
+1. "Security" > "Access Control"
+2. Whitelist aliexpress-media.com
 
 ## Additional Troubleshooting
 1. Check DNS Settings on your router and/or in your system:
