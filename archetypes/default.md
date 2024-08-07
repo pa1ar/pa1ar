@@ -3,6 +3,7 @@ title: "{{ replace .Name "-" " " | title }}"
 description: empty
 image: 
 date: {{ .Date }}
+lastmod: {{ .Date }}
 
 categories:
   - noise
