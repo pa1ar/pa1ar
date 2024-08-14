@@ -19,19 +19,23 @@ draft: false
 
 ## what is this?
 
-Script that grabs all text from files in a folder, wraps it up, and preps it for AI. No more copy-paste nightmares.
+{{< cta title="｢ export4ai ｣ is OpenSourced on GitHub" url="https://github.com/pa1ar/export4ai" >}}
+
+Script that grabs all text from files in a folder, wraps it up, and preps it for AI. No more copy-paste nightmares. 
 
 <div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;">
     <iframe src="https://github.com/user-attachments/assets/018d86d3-6a84-409f-ac7b-1f6b3eefab1f" 
             style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
             frameborder="0" allowfullscreen>
     </iframe>
-</div>
+</div>  
 
 ## why care?
 
 Need to feed text files to an external AI chatbot? This script does it in seconds. Helpful for iterative back-and-forth.  
 Save time, look cool.
+
+The code is [open sourced on github](https://github.com/pa1ar/export4ai), so there is no weird stuff, no external services. And you can modify it to your liking, build automation, go wild.
 
 ## usage
 
@@ -64,3 +68,5 @@ Assuming you in the right folder (your project or whatever).
 - you can modify the wrapping of the script in the `4aiexport.py` file to your liking 
 
 That is all.
+
+{{< cta title="｢ export4ai ｣ is OpenSourced on GitHub" url="https://github.com/pa1ar/export4ai" >}}
