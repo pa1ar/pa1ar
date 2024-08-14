@@ -9,6 +9,11 @@ date: 2023-12-06
 image: thumbnail_project_eric.jpg
 categories: 
   - signal
+tags:
+  - AI
+  - project
+  - dev
+  - healthcare
 toc: true
 comments: true
 readingTime: true

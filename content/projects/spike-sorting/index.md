@@ -9,6 +9,11 @@ date: 2018-03-15
 image: thumbnail_project_spike_sorting.jpg
 categories: 
   - signal
+tags: 
+  - dev
+  - healthcare
+  - project
+  - neuroscience
 toc: true
 comments: true
 readingTime: true

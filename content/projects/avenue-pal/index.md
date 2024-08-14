@@ -9,6 +9,11 @@ date: 2021-05-31
 image: thumbnail_project_avenue_pal.jpg
 categories: 
   - signal
+tags:
+  - dev
+  - healthcare
+  - IT
+  - project
 toc: true
 comments: true
 readingTime: true

@@ -9,6 +9,13 @@ date: 2024-04-29
 image: thumbnail_project_sumr.jpg
 categories: 
   - signal
+tags:
+  - dev
+  - project
+  - AI
+  - iOS
+  - app
+  - tool
 toc: true
 comments: true
 readingTime: true

@@ -9,6 +9,9 @@ date: 2022-03-17
 image: thumbnail_project_truth.jpg
 categories: 
   - signal
+tags:
+  - project
+  - dev
 toc: true
 comments: true
 readingTime: true

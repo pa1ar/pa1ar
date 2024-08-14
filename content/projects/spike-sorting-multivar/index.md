@@ -9,6 +9,11 @@ date: 2019-09-18
 image: thumbnail_project_spike_sorting_multivariate.jpg
 categories: 
   - signal
+tags:
+  - dev
+  - healthcare
+  - project
+  - neuroscience
 toc: true
 comments: true
 readingTime: true

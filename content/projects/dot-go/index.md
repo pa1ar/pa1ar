@@ -9,6 +9,14 @@ date: 2021-02-02
 image: thumbnail_project_dot_go.jpg
 categories: 
   - signal
+tags: 
+  - dev
+  - healthcare
+  - project
+  - app
+  - iOS
+  - computer vision
+  - tool
 toc: true
 comments: true
 readingTime: true

@@ -9,6 +9,11 @@ date: 2024-03-14
 image: thumbnail_project_vimai.jpg
 categories: 
   - signal
+tags:
+  - AI
+  - project
+  - dev
+  - tool
 toc: true
 comments: true
 readingTime: true

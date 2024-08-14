@@ -9,6 +9,9 @@ date: 2019-06-01
 image: thumbnail_project_death_register.jpg
 categories: 
   - signal
+tags: 
+  - healthcare
+  - project
 toc: true
 comments: true
 readingTime: true

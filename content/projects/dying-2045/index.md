@@ -9,6 +9,9 @@ date: 2023-09-20
 image: thumbnail_project_dying.jpg
 categories: 
   - signal
+tags: 
+  - healthcare
+  - project
 toc: true
 comments: true
 readingTime: true
