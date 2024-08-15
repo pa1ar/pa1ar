@@ -25,7 +25,7 @@
                 {{ end }}
                 </a>
             {{ with $.Site.Params.sidebar.emoji }}
-                <span class="emoji" style="background-image: url('{{ . }}');"></span>
+                <span class="emoji" style="background-image: url('{{ . | absURL }}');"></span>
             {{ end }}
             </figure>
             {{ end }}
