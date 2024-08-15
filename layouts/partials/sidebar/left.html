@@ -24,9 +24,9 @@
                     {{ end }}
                 {{ end }}
                 </a>
-                {{ with $.Site.Params.sidebar.emoji }}
-                    <span class="emoji">{{ . }}</span>
-                {{ end }}
+            {{ with $.Site.Params.sidebar.emoji }}
+                <span class="emoji" style="background-image: url('{{ . }}');"></span>
+            {{ end }}
             </figure>
             {{ end }}
         {{ end }}
