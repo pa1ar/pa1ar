@@ -63,7 +63,7 @@ params:
         avatar:
             enabled: true
             local: true
-            src: img/1ar_logo.png
+            src: img/pa1ar.jpeg
 
     article:
         math: false
