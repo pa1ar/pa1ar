@@ -37,4 +37,10 @@ Also I am sharing progress updates on [twitter](https://x.com/pa1ar/status/17849
 <blockquote class="twitter-tweet" data-lang="en" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">small project <a href="https://twitter.com/hashtag/buildinpublic?src=hash&amp;ref_src=twsrc%5Etfw">#buildinpublic</a><br><br>｢ tl;dr for Safari browser ｣<br>simple extension to summarize current page<br><br>- two-clicks operation<br>- stores summaries for visited URLs → saves money<br>- reads only pages which you allowed it to<br>- powered by your OpenAI API key<br><br>who wants to try?<br><br>↓ <a href="https://t.co/NTAfrYqBE1">pic.twitter.com/NTAfrYqBE1</a></p>&mdash; Pavel Larionov (@pa1ar) <a href="https://twitter.com/pa1ar/status/1784970385462640956?ref_src=twsrc%5Etfw">April 29, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## availability ::
-Preparing for upload in App Store.
+Sumr is available for free on [App Store](https://apple.co/4aNdjve). 
+
+Requirements: 
+- iOS 16 or later
+- Mac with Apple Silicon (Intel won't work) 
+
+{{< cta title="｢ Sumr tldr product page ｣" url="https://sumr.1ar.io/" >}}
