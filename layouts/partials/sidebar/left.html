@@ -84,6 +84,17 @@
         </li>
         {{ end }}
 
+        {{ if .Site.Params.sidebar.plate.enabled }}
+        <li class="apple-style-plate-wrapper">
+            <a href="{{ .Site.Params.sidebar.plate.url }}" class="apple-style-plate" style="gap: 0;">
+                {{ with .Site.Params.sidebar.plate }}
+                    <img src="{{ .icon }}" alt="Plate Icon" class="plate-icon">
+                    <span class="plate-text">{{ .text }}</span>
+                {{ end }}
+            </a>
+        </li>
+        {{ end }}
+
         <div class="menu-bottom-section">
             {{- $currentLanguageCode := .Language.Lang -}}
             {{ with .Site.Home.AllTranslations }}

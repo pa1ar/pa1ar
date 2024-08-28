@@ -208,3 +208,81 @@
         }
     }
 }
+.apple-style-plate-wrapper {
+    width: 100%;
+    padding: 0 !important;
+    margin-top: 20px;
+
+}
+
+.apple-style-plate {
+    background-color: #000;
+    border-radius: 8px;
+    padding: 8px 12px;
+    display: flex;
+    align-items: center;
+    position: relative;
+    width: 80%;
+    margin: 0.2em 0;
+    box-sizing: border-box;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    cursor: pointer;
+    overflow: hidden;
+    text-decoration: none;
+    gap: 0;
+    border: 1px solid #fff;
+    // outline: 2px solid #000;
+    // margin-left: 2px;
+
+    &:hover {
+        background-color: #fff;
+    }
+}
+
+.apple-style-plate::before {
+    content: '';
+    position: absolute;
+    top: -2px;
+    left: -2px;
+    right: -2px;
+    bottom: -2px;
+    background-color: #fff;
+    border-radius: 14px;
+    z-index: -1;
+    transition: background-color 0.3s ease;
+}
+
+.apple-style-plate::after {
+    content: '';
+    position: absolute;
+    top: -3px;
+    left: -3px;
+    right: -3px;
+    bottom: -3px;
+    background-color: #000;
+    border-radius: 15px;
+    z-index: -2;
+}
+
+.apple-style-plate:hover::before {
+    background-color: #000;
+}
+
+.plate-icon {
+    width: 24px;
+    height: 24px;
+    border-radius: 6px;
+    margin-right: 8px;
+    display: block;
+}
+
+.plate-text {
+    color: #fff;
+    font-size: 14px;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+.apple-style-plate:hover .plate-text {
+    color: #000;
+}
