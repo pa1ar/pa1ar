@@ -65,7 +65,7 @@ params:
             local: true
             src: img/pa1ar.jpeg
         plate:
-            enabled: true
+            enabled: false
             icon: images/logo_sumr.png
             text: Sumr App
             url: https://sumr.1ar.io
