@@ -18,9 +18,9 @@ comments: false
 
 ---
 
-<div class="button-container">
+<!-- <div class="button-container">
   {{< cta title="contact me" url="/hire-me/#contact" >}}
-</div>
+</div> -->
 
 > I am a technical director, a generalist, and an innovation leader with over 10 years of multidisciplinary experience. 
 
