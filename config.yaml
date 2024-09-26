@@ -207,7 +207,12 @@ params:
 ### See https://docs.stack.jimmycai.com/configuration/custom-menu.html
 ### To remove about, archive and search page menu item, remove `menu` field from their FrontMatter
 menu:
-    main: []
+    main: 
+        - name: SUMR APP
+          url: https://sumr.1ar.io
+          weight: 0
+          params:
+            icon: sumr-icon
 
     social:
         - identifier: x
@@ -217,24 +222,31 @@ menu:
           params:
               icon: brand-x
 
+        - identifier: gumroad
+          name: Gumroad
+          url: https://1ar.gumroad.com/
+          weight: 2
+          params:
+              icon: brand-gumroad
+
         - identifier: threads
           name: Threads
           url: https://www.threads.net/@1ar.io
-          weight: 2
+          weight: 3
           params:
               icon: brand-threads
 
         - identifier: tiktok
           name: Tiktok
           url: https://www.tiktok.com/@pa1ario
-          weight: 3
+          weight: 4
           params:
               icon: brand-tiktok
 
         - identifier: linkedin
           name: LinkedIn
           url: https://www.linkedin.com/in/pavel-larionov/
-          weight: 4
+          weight: 5
           params:
               icon: brand-linkedin
 

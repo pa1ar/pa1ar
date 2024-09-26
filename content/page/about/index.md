@@ -16,22 +16,29 @@ image: pljs.jpg
 comments: false
 ---
 
-{{< cta title="｢ read full CV ｣" url="/cv" >}}
+{{< cta title="contact me" url="/hire-me/#contact" >}}
 
 
 ## Summary
+<div class="button-container">
+  {{< cta title="contact me" url="/hire-me/#contact" >}}
+</div>
 
-Analytical and visionary technical director  with a Master of Science in Biomedical Engineering and extensive experience in digital technology, leading IT projects, and driving digital transformation. Over a decade of experience in bridging the gap between technology, product development, and business strategy. Demonstrated success in pioneering projects and leveraging AI to fuel growth and enrich customer experiences. Proficient in catalyzing cooperation among diverse teams and departments to synchronize technology efforts with business objectives.
+> I am a technical director, a generalist, and an innovation leader with over 10 years of multidisciplinary experience. 
 
-My latest project is [Sumr](/projects/sumr/) - Safari extension to summarize web pages right from you browser. Notable projects include leading development of an award-winning iOS app [Dot Go](/projects/dot-go) for the visually impaired, [The Truth Wins](/projects/the-truth-wins) campaign to navigate around censorship and sparking AI initiatives within the company, manifested by the most recent project - [AI Eric](/projects/ai-eric), a relationship coach.
+Specializing on emerging digital technologies, I have launched more than 15 projects that showed technological solutions to real-world problems in fields like healthcare, accessibility, and social issues.
 
-<a href="/awards">
-  <img src="logos_strip.png" alt="logos strip">
-</a>
+Throughout my career, I've led cross-functional teams from concept to launch, building strong client relationships and ensuring timely delivery. My leadership has contributed to works that have received over 50 international awards, including Cannes Lions and iF Design Awards. Notable projects include leading the development of [Dot Go](/projects/dot-go), an award-winning iOS app for the visually impaired, and spearheading [The Truth Wins](/projects/the-truth-wins) campaign to navigate around censorship, and [AI Eric](/projects/ai-eric), an AI relationship coach.
 
-Previously engaged in biomedical technology, I contributed to neuroscience research by developing a [spike sorting](/projects/spike-sorting) algorithm, and leading a project to improve [palliative care](/projects/avenue-pal) through tech-enabled solutions. Alongside, I've always enjoyed sharing knowledge, be it through tutoring engineering subjects in the lab of my university, leading martial arts groups for kids and adults, or introducing collaborative digital tools for perpetual knowledge management to the co-workers.
+{{< cta title="｢ full list of awards ｣" url="/awards" >}}
 
-I am thrilled about the boundless potential of human-machine symbiosis, and never stop exploring new ways to harness technology for meaningful solutions.
+To hone my hard-skills, I build things hands-on myself; as a full-stack conceptualist, designer, developer, copy-writer, and assets creator. Lately I have launched a personal project - [Sumr](/projects/sumr/) — a Safari extension that summarizes web pages directly in your browser. Besides that, I have shared a couple of scripts on [GitHub](https://github.com/pa1ar).
+
+With an M.Sc. in Biomedical Engineering, I have contributed to neuroscience research and biosignal analysis by developing a [spike sorting](/projects/spike-sorting) algorithm. I also led a development team focused on improving [palliative care](/projects/avenue-pal) through technology-driven solutions.
+
+Passionate about the human-machine synergy, I am continuously exploring new ways to leverage technology for meaningful impact. I regularly share my takes on the latest tech trends and innovations on [𝕏/twitter](https://x.com/pa1ar/).
+
+{{< cta title="｢ for takes on tech → follow on 𝕏 ｣" url="https://x.com/pa1ar/" >}}
 
 ------
 
@@ -43,24 +50,25 @@ I am thrilled about the boundless potential of human-machine symbiosis, and neve
 - Leading & Execution Research & Development 
 - International Business & Relations
 - Data-Driven Decision Making
-- Idea-to-launch Product Development
+- Idea-to-launch Product Management & Development
 - Client Engagement and Relationship Management
 - Technical and Scientific Writing
 - Public Speaking and Workshop Facilitation
-
-{{< cta title="｢ full list of skills ｣" url="/skills" >}}
 
 ### Languages
 
 - English: Fluent
 - German: Fluent
 - Russian: Native
+- Japanese: Beginner
 
 ### Interests & Hobbies
-- Personal/Professional Automation
-- Technical Microblogging (𝕏)
-- Video Games (competitive & soulslike)
+- Personal/Professional Automation (e.g. see [Sumr](/projects/sumr/) or [vimai](/projects/vimai/))
+- Microblogging [𝕏](https://x.com/pa1ar/)
+- Video Games (mostly competitive & [soulslike](https://x.com/pa1ar/status/1823312199130963983))
 - Martial Arts (Aikido, Kendo, Iaido, Mixed Martial Arts)
+
+{{< cta title="｢ consider following on 𝕏 ｣" url="https://x.com/pa1ar/" >}}
 
 -----
 ## Professional
@@ -79,7 +87,7 @@ I am thrilled about the boundless potential of human-machine symbiosis, and neve
 - **Sales Manager** | Tropicana Touristic Agency | Jan 2013 - Jun 2014 (1 yr 6 mos)
 - **Assistant Coach** | Öskemen Aikido & Kendo Martial Arts Dojo | 2011 (1 yr)
 
-{{< cta title="｢ read full CV ｣" url="/cv" >}}
+{{< cta title="contact me" url="/hire-me/#contact" >}}
 
 ## Education
 
@@ -87,7 +95,7 @@ I am thrilled about the boundless potential of human-machine symbiosis, and neve
 - B.Sc. Biomedical Engineering, University of Applied Sciences Mittelhessen | [thm.de](https://www.thm.de/site/en/) | 2013 - 2017    
 - B.A. International Relations, Sarsen Amanzholov East-Kazakhstan State University | [vku.kz](https://vku.edu.kz/en/) | 2007 - 2012  
 
-{{< cta title="｢ read full CV ｣" url="/cv" >}}
+{{< cta title="contact me" url="/hire-me/#contact" >}}
 
 ## Publications
 

@@ -19,18 +19,34 @@ links:
     description: Advanced business and personal documentation tool 
     website: https://affiliate.notion.so/1ar
     image: /images/logo-notion.png
+  - title: Amazon Card
+    description: Credit card with 15€ pre-loaded cash, 1% cashback on Amazon purchases and 0.5% on all other purchases; 0€ annual fee
+    website: https://www.amazon.de/visabounty?tag=pa1ar-21
+    image: /images/logo-amazon.png
+  - title: Scalable Capital
+    description: trade ETF, stocks and crypto on web or via app
+    website: https://de.scalable.capital/en/invitation/bn99vp
+    image: /images/logo-scalable.png
+  - title: Trade Republic
+    description: trade ETF, stocks and crypto on web or via app
+    website: https://ref.trade.re/scg22m9z
+    image: /images/logo-traderepublic.png
+  - title: Paysend
+    description: International money transfers with low fees and tracking
+    website: https://paysend.com/referral/04hxx3
+    image: /images/logo-paysend.png
   - title: Arc Browser
     description: Truly innovative browser with lots of productivity and AI-powered features.
     website: https://arc.net/gift/3542e4e9
     image: /images/logo-arc.png
-  - title: Wise
-    description: International money transfers with low fees, tracking and humane UI (one fee-free transfer up to €500)
-    website: https://wise.com/invite/dic/pavell157
-    image: /images/logo-wise.png
   - title: Klarna
     description: Banking midlayer with 3% saving accounts, payouts monthly (10€ on your account)
     website: https://invite.klarna.com/de/ag3cbt5z/default-de-web
     image: /images/logo-klarna.png
+  - title: Flutterflow
+    description: Cross-platform app builder with no-code capabilities and full-code access
+    website: https://app.flutterflow.io/create-account?referral_id=NjszEkUV7OX828TDLa0gtPMS4412
+    image: /images/logo-flutterflow.png
   - title: Blinkist
     description: Books summaries as text and/or audio (1 extra week of trial period)
     website: http://blinki.st/9186eb921cfe
@@ -47,16 +63,16 @@ links:
     description: Tax declaration service for Germany (5€ off for your tax declaration)
     website: https://www.smartsteuer.de/kwk/?ref=428123
     image: /images/logo-smartsteuer.png
-  - title: Scalable Capital
-    description: trade ETF, stocks and crypto on web or via app
-    website: https://de.scalable.capital/en/invitation/bn99vp
-    image: /images/logo-scalable.png
-  - title: Trade Republic
-    description: trade ETF, stocks and crypto on web or via app
-    website: https://ref.trade.re/scg22m9z
-    image: /images/logo-traderepublic.png
+  - title: Wise
+    description: International money transfers with low fees, tracking and humane UI (one fee-free transfer up to €500)
+    website: https://wise.com/invite/dic/pavell157
+    image: /images/logo-wise.png
 
 ---
+
+## All ｢ crafted by pa1ar ｣ digital products available on Gumroad
+
+{{< cta title="1ar.gumroad.com" url="https://1ar.gumroad.com" >}}
 
 ## Basic Apple Shortcuts
 > Most shortcuts are available either on pay-what-you-want basis or as paid version in which an optional 15 minutes support call with me is included.
@@ -135,7 +151,8 @@ The shortcuts comes with pre-defined prompt which will ensure short and concise 
 
 ### ｢ link░letters ｣
 
-> This shortcut connects letters in text with user-defined connector. It will help you create a perfect reply on 𝕏 or any other platform easy and fast. ░S░H░O░R░T░C░U░T░S░ ░I░S░ ░M░Y░ ░P░A░S░S░I░O░N░
+> This shortcut connects letters in text with user-defined connector. It will help you create a perfect reply on 𝕏 or any other platform easy and fast.  
+░S░H░O░R░T░C░U░T░S░ ░I░S░ ░M░Y░ ░P░A░S░S░I░O░N░
 
 {{< cta title="｢ link░letters ｣" url="https://1ar.gumroad.com/l/shortcut-link-letters" >}}
 

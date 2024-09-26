@@ -19,24 +19,24 @@ comments: false
 ---
 
 <div class="button-container">
-  {{< cta title="｢ CV as PDF | EN ｣" url="CV_Pavel_Larionov_EN_web.pdf" >}}
-  {{< cta title="｢ CV as PDF | DE ｣" url="CV_Pavel_Larionov_DE_web.pdf" >}}
-  {{< cta title="｢ 1-pager CV as PDF | EN ｣" url="CV_Pavel_Larionov_EN_1_pager_web.pdf" >}}
+  {{< cta title="contact me" url="/hire-me/#contact" >}}
 </div>
 
-> Outstanding technical leader and innovator with over 10 years of extensive multidisciplinary professional experience. 
+> I am a technical director, a generalist, and an innovation leader with over 10 years of multidisciplinary experience. 
 
-As a creative technologist, I have launched more than 15 cutting-edge projects integrating artificial intelligence and the latest technologies. Throughout my career, I have successfully led development from idea to launch with cross-functional teams, built and maintained relationships with clients, and always ensured timely delivery. Works with my direct contribution and under my technical leadership have garnered over 50 prestigious international awards, including Cannes Lions and iF Design Awards.
+Specializing on emerging digital technologies, I have launched more than 15 projects that showed technological solutions to real-world problems in fields like healthcare, accessibility, and social issues.
 
-<a href="/awards">
-  <img src="logos_strip.png" alt="logos strip">
-</a>
+Throughout my career, I've led cross-functional teams from concept to launch, building strong client relationships and ensuring timely delivery. My leadership has contributed to works that have received over 50 international awards, including Cannes Lions and iF Design Awards. Notable projects include leading the development of [Dot Go](/projects/dot-go), an award-winning iOS app for the visually impaired, and spearheading [The Truth Wins](/projects/the-truth-wins) campaign to navigate around censorship, and [AI Eric](/projects/ai-eric), an AI relationship coach.
 
-My latest project is [Sumr](/projects/sumr/) - Safari extension to summarize web pages right from you browser. Notable projects include leading development of an award-winning iOS app [Dot Go](/projects/dot-go) for the visually impaired, [The Truth Wins](/projects/the-truth-wins) campaign to navigate around censorship and sparking AI initiatives within the company, manifested by the most recent project - [AI Eric](/projects/ai-eric), a relationship coach.
+{{< cta title="｢ full list of awards ｣" url="/awards" >}}
 
-With M.Sc. in Biomedical Engineering, previously contributed to neuroscience research and biosignal analysis by developing a [spike sorting](/projects/spike-sorting) algorithm and leading a development unit for a project aimed at improving [palliative care](/projects/avenue-pal)  through technology-enabled solutions.  
+To hone my hard-skills, I build things hands-on myself; as a full-stack conceptualist, designer, developer, copy-writer, and assets creator. Lately I have launched a personal project - [Sumr](/projects/sumr/) — a Safari extension that summarizes web pages directly in your browser. Besides that, I have shared a couple of scripts on [GitHub](https://github.com/pa1ar).
 
-I am thrilled about the boundless potential of human-machine symbiosis, and never stop exploring new ways to harness technology for meaningful solutions.  
+With an M.Sc. in Biomedical Engineering, I have contributed to neuroscience research and biosignal analysis by developing a [spike sorting](/projects/spike-sorting) algorithm. I also led a development team focused on improving [palliative care](/projects/avenue-pal) through technology-driven solutions.
+
+Passionate about the human-machine synergy, I am continuously exploring new ways to leverage technology for meaningful impact. I regularly share my takes on the latest tech trends and innovations on [𝕏/twitter](https://x.com/pa1ar/).
+
+{{< cta title="｢ for takes on tech → follow on 𝕏 ｣" url="https://x.com/pa1ar/" >}}
 
 ------
 
@@ -48,24 +48,25 @@ I am thrilled about the boundless potential of human-machine symbiosis, and neve
 - Leading & Execution Research & Development 
 - International Business & Relations
 - Data-Driven Decision Making
-- Idea-to-launch Product Development
+- Idea-to-launch Product Management & Development
 - Client Engagement and Relationship Management
 - Technical and Scientific Writing
 - Public Speaking and Workshop Facilitation
-
-List of skills is [here](/skills).
 
 ### Languages
 
 - English: Fluent
 - German: Fluent
 - Russian: Native
+- Japanese: Beginner
 
 ### Interests & Hobbies
-- Personal/Professional Automation
-- Technical Microblogging (𝕏)
-- Video Games (competitive & soulslike)
+- Personal/Professional Automation (e.g. see [Sumr](/projects/sumr/) or [vimai](/projects/vimai/))
+- Microblogging [𝕏](https://x.com/pa1ar/)
+- Video Games (mostly competitive & [soulslike](https://x.com/pa1ar/status/1823312199130963983))
 - Martial Arts (Aikido, Kendo, Iaido, Mixed Martial Arts)
+
+{{< cta title="｢ consider following on 𝕏 ｣" url="https://x.com/pa1ar/" >}}
 
 -----
 ## Professional Experience
