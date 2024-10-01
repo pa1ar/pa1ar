@@ -4,6 +4,8 @@ description: Creating thumbnails for URLs from within the Apple Notes
 image: cover_article_apple_notes_url_previews.jpg
 date: 2024-02-02
 slug: thumbnail-apple-notes
+lastmod: 2024-10-01
+keywords: ["Apple Notes", "URL", "thumbnail", "preview", "iOS", "MacOS"]
 
 categories:
   - noise
@@ -15,6 +17,46 @@ tags:
 draft: false
 
 ---
+
+## NEW WAY
+
+> UPDATE 2024-10-01: in iOS 18 Apple has added a proper way to convert URLs to thumbnails.
+
+Here is how to do it:
+
+- long press the URL
+- select “show link preview”
+- optionally: switch mode small/large
+
+![long press -> show link preview](url_previews_3.jpg) ![optionally: change size](url_previews_2.jpg)
+
+if you don’t see the “show link preview” option: 
+- tap “edit link” first → done → try again
+
+![Edit Link](url_previews_4.jpg) ![Tap Done](url_previews_1.jpg)
+
+### video demonstration on 𝕏 
+I post things like this on 𝕏 first, so if you want to see them as soon as they are out, consider following me there.
+
+{{< cta title="｢ consider following on 𝕏 ｣" url="https://x.com/pa1ar/" >}}
+
+<blockquote class="twitter-tweet" data-media-max-width="560" data-lang="en" data-dnt="true" style="margin: 0 auto; display: block; text-align: center;">
+  <p lang="en" dir="ltr">｢ turn on link thumbnail preview ｣<br>on apple notes <br><br>- long press url<br>- select “show link preview”<br>- optionally: switch mode small/large<br><br>if you don’t see the “show link preview” option: <br>- tap “edit link” first → done → try again <a href="https://t.co/ykvdokV0mG">pic.twitter.com/ykvdokV0mG</a></p>&mdash; Pavel Larionov (@pa1ar) <a href="https://twitter.com/pa1ar/status/1839390933898706960?ref_src=twsrc%5Etfw">September 26, 2024</a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+### video demonstration on YouTube
+{{< youtube BXP2-QdeZe0 >}}
+
+
+---
+
+> YOU CAN CONTINUE READING, IF YOU WANT, BUT THE BACKFLIPS DESCRIBED BELOW ARE NO LONGER NEEDED. WILL KEEP THEM HERE FOR HISTORICAL REASONS.
+
+---
+
+## OLD WAYS
 
 > Apple Notes creates beautiful thumbnails for URLs, when you share a URL to the note. Unfortunately, there is no straightforward way to create a thumbnail on demand while you are writing the note, e.g. I'd expect smth like long tap → create thumbnail or smth. 
 
