@@ -175,6 +175,7 @@ params:
             - type: share-button
             - type: search
             - type: toc
+            - type: ko-fi
 
     opengraph:
         twitter:

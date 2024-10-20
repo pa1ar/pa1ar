@@ -1,9 +1,12 @@
  <div class="share-container">
-  <button id="shareButton" class="button">｢ share this page ｣</button>
+  <header class="cta">
+    <a href="#" id="shareButton" style="text-align: center; width:fit-content; font-size: 1.8rem; width: 100%;">｢ share this page ｣</a>
+  </header>
 
 <script>
   // Adding click event listener to the share button
   document.getElementById('shareButton').addEventListener('click', () => {
+    event.preventDefault();
     // Storing the current page URL and a custom share message in variables
     const currentPageUrl = window.location.href;
     const shareMessage = '｢ pavel ｣ wrote: \n' + currentPageUrl;
