@@ -1,6 +1,6 @@
 ---
 title: Pavel Larionov
-description: "Pavel Larionov: Technical Director, Innovation Leader, Creative Technologist, M.Sc. Biomedical Engineering, B.A. International Relations"
+description: "Pavel Larionov: Technical Director, R&D Lead, Tech Generalist, M.Sc. Biomedical Engineering, B.A. International Relations"
 date: 2024-02-29
 slug: cv
 aliases:
@@ -24,7 +24,7 @@ comments: false
 
 > I am a technical director, a generalist, and an innovation leader with over 10 years of multidisciplinary experience. 
 
-Specializing on emerging digital technologies, I have launched more than 15 projects that showed technological solutions to real-world problems in fields like healthcare, accessibility, and social issues.
+Specializing on emerging digital technologies, I have launched more than 15 projects, applying technological solutions to real-world problems in fields like healthcare, accessibility, and social issues.
 
 Throughout my career, I've led cross-functional teams from concept to launch, building strong client relationships and ensuring timely delivery. My leadership has contributed to works that have received over 50 international awards, including Cannes Lions and iF Design Awards. Notable projects include leading the development of [Dot Go](/projects/dot-go), an award-winning iOS app for the visually impaired, and spearheading [The Truth Wins](/projects/the-truth-wins) campaign to navigate around censorship, and [AI Eric](/projects/ai-eric), an AI relationship coach.
 
