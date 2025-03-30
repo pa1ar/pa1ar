@@ -194,8 +194,8 @@
         & > a {
             display: flex;
             align-items: center;
-            padding: var(--small-card-padding);
-            gap: 15px;
+            padding: 12px var(--small-card-padding);
+            gap: 20px;
         }
 
         &:not(:last-of-type) {
@@ -205,7 +205,7 @@
         .article-details {
             flex-grow: 1;
             padding: 0;
-            min-height: var(--image-size);
+            min-height: 90px;
             gap: 10px;
         }
 
@@ -220,8 +220,8 @@
 
         .article-image {
             img {
-                width: var(--image-size);
-                height: var(--image-size);
+                width: 160px !important;
+                height: 90px !important;
                 object-fit: cover;
                 border-radius: var(--card-border-radius);
             }
