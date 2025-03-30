@@ -55,7 +55,7 @@
 }
 
 .article-title {
-    font-family: var(--article-font-family);
+    font-family: var(--font-title);
     font-weight: 600;
     margin: 0;
     color: var(--card-text-color-main);
@@ -67,11 +67,24 @@
 
     a {
         color: var(--card-text-color-main);
+        font-family: inherit;
 
         &:hover {
             color: var(--card-text-color-main);
         }
     }
+}
+
+// Single article view - use serif font
+.main-article .article-title {
+    font-family: var(--font-title);
+}
+
+// List views - use mono font
+.article-list .article-title,
+.article-list--compact .article-title,
+.article-list--tile .article-title {
+    font-family: var(--font-mono);
 }
 
 .article-subtitle {

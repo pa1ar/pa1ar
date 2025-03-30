@@ -17,32 +17,30 @@ body {
     line-height: 1.6;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    font-family: var(--font-title);
+h2, h3, h4, h5, h6 {
     font-weight: 400;
     line-height: 1.2;
 }
 
 h1 {
-    font-size: 3rem;
+    font-size: 4rem;
 }
 
 h2 {
-    font-size: 2.5rem;
+    font-size: 2.8rem;
 }
 
 h3 {
-    font-size: 2rem;
+    font-size: 2.3rem;
 }
 
 code, pre, .monospace {
     font-family: var(--font-mono);
-    font-size: 0.9rem;
 }
 
 /* Component Typography */
 .article-title {
-    font-family: var(--font-title);
+    font-family: var(--font-mono);
     font-weight: 400;
     margin: 0;
     color: var(--card-text-color-main);
@@ -54,7 +52,7 @@ code, pre, .monospace {
 
     a {
         color: var(--card-text-color-main);
-        font-family: var(--font-title);
+        font-family: var(--font-mono);
 
         &:hover {
             color: var(--card-text-color-main);
@@ -342,7 +340,7 @@ code, pre, .monospace {
         .article-title {
             margin: 0;
             font-size: 2rem;
-            font-family: var(--font-title) !important;
+            font-family: var(--font-mono) !important;
 
             @include respond(md) {
                 font-size: 2.2rem;
@@ -429,7 +427,7 @@ code, pre, .monospace {
         }
 
         .article-title {
-            font-family: var(--font-title) !important;
+            font-family: var(--font-mono) !important;
             font-size: 2.4rem;
             font-weight: 500;
             color: var(--card-text-color-main);

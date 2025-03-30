@@ -4,7 +4,7 @@ description: "fill out the form to reach me out"
 license: false
 comments: false
 readingTime: false
-image: cover_contact.jpg
+# image: cover_contact.jpg
 menu:
   main:
     title: contact

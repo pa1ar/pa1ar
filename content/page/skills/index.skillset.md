@@ -7,11 +7,11 @@ license: false
 lastmod: 2023-11-05
 comments: false
 menu:
-  main:
-    title: skills
-    weight: 20
-    params:
-      icon: body-scan
+  # main:
+  #   title: skills
+  #   weight: 20
+  #   params:
+  #     icon: body-scan
 ---
 
 I have [rich experience](about) in building [award-winning](/awards) [projects](/projects) and high-complexity solutions in the field of digital technology, including AI-powered products ([natural language processing](/projects/ai-eric/), [text generation](/projects/ai-eric/), [computer vision](/projects/dot-go/), etc.). If you require expertise in any of the listed spheres or adjacent topics, feel free to [reach out](/hire-me). 

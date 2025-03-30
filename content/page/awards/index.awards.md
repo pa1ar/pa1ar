@@ -7,10 +7,10 @@ aliases:
 license: false
 lastmod: 2023-12-30
 menu:
-  main:
-    weight: 40
-    params:
-      icon: asterisk-simple
+  # main:
+  #   weight: 40
+  #   params:
+  #     icon: asterisk-simple
 image: cover_awards.jpg
 comments: false
 ---

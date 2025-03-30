@@ -6,14 +6,14 @@ slug: cv
 aliases:
   - lebenslauf
 menu:
-  main:
-    weight: 11
-    name: CV
-    params:
-      icon: text-scan-2
+  # main:
+  #   weight: 11
+  #   name: CV
+  #   params:
+  #     icon: text-scan-2
 license: false
 lastmod: 2024-02-29
-image: plj.jpg
+# image: plj.jpg
 comments: false
 
 ---

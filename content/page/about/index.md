@@ -12,7 +12,7 @@ menu:
     weight: 10
     params:
       icon: user-scan
-image: pljs.jpg
+# image: pljs.jpg
 comments: false
 ---
 

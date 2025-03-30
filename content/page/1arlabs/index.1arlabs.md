@@ -1,15 +1,16 @@
 ---
-title: HIRE ME
-description: "I can amplify your project with bleeding edge technology or scale existing things up. Read on to find out more."
+title: 1AR LABS
+description: "Understand, validate, and act on new tech ideas.
+Scientifically rigorous, actionable insights delivered with speed."
 license: false
 comments: false
 readingTime: false
-slug: hire-me
-image: cover_hire_me.jpg
+slug: labs
+# image:cover_hire_me.jpg
 menu:
   main:
-    title: hire me
-    weight: 60
+    title: 1AR LABS
+    weight: 2
     params:
       icon: arrow-big-up-lines
 ---
