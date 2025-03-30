@@ -2,6 +2,7 @@ baseurl: https://1ar.io/
 enableRobotsTXT: true
 languageCode: en-us
 theme: hugo-theme-stack
+enableGitInfo: true
 pagination:
     pagerSize: 4
 params:
