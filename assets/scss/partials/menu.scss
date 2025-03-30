@@ -133,7 +133,7 @@
     flex-direction: column;
     overflow-y: auto;
     flex-grow: 1;
-    font-size: 1.4rem;
+    font-size: 1.6rem;
     background-color: var(--card-background);
 
     box-shadow: var(--shadow-l1);
@@ -188,16 +188,22 @@
             align-items: center;
             color: var(--body-text-color);
             gap: var(--menu-icon-separation);
+            font-family: var(--font-mono);
+            font-size: 1.6rem;
+            letter-spacing: 0.02em;
         }
 
         span {
             flex: 1;
+            font-family: var(--font-mono);
+            font-size: 1.6rem;
+            letter-spacing: 0.02em;
         }
 
         &.current {
             a {
                 color: var(--accent-color);
-                font-weight: bold;
+                font-weight: 500;
             }
         }
     }
@@ -223,5 +229,11 @@
         height: 24px;
         stroke: var(--body-text-color);
         stroke-width: 1.33;
+    }
+
+    a {
+        font-family: var(--font-mono);
+        font-size: 1.6rem;
+        letter-spacing: 0.02em;
     }
 }

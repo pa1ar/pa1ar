@@ -4,7 +4,15 @@
     {{ $filtered := ($pages | intersect $notHidden) }}
     {{ $pag := .Paginate ($filtered) }}
 
-    <p class="hello-world" style="text-align: center; font-size: 1.8rem; margin: 2rem 0; color: var(--card-text-color-main);">Hello World! Welcome to my blog.</p>
+    <div class="hero-section">
+        <h1>1AR LABS</h1>
+        <p>
+            Understand, validate, and act on new tech ideas. <br> Scientifically rigorous, actionable insights delivered with speed.
+        </p>
+        <header class="cta">
+            <a href="/labs">Explore Labs →</a>
+        </header>
+    </div>
 
     <section class="article-list--compact">
         {{ range $index, $element := $pag.Pages }}
