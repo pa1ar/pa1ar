@@ -19,7 +19,7 @@ menu:
 
 1ar labs specializes in rapid exploration and validation of emerging technologies. We transform complex technical concepts into actionable insights, helping organizations make informed decisions with confidence and precision.
 
-{{< cta title="Schedule Consultation" url="/contact" >}}
+{{< cta title="Schedule Consultation →" url="/contact" >}}
 
 ## Our Approach: RaTTIO
 
@@ -66,6 +66,8 @@ RaTTIO (Rapid Technical Trend Investigation & Operations) is our systematic meth
 - Strategic planning
 - Market analysis
 
+{{< cta title="Schedule Consultation →" url="/contact" >}}
+
 ## Why Choose 1ar labs
 
 ### Scientific Approach
@@ -73,8 +75,8 @@ Our methodology is grounded in academic rigor and practical experience, ensuring
 
 ### Proven Track Record
 - 50+ digital innovation [awards](/awards)
-- Published research in biomedical and neuroscience fields
-- Successfully launched AI-powered applications
+- Published research in biomedical and [neuroscience fields](/projects)
+- Successfully launched [AI-powered applications](https://sumr.1ar.io)
 - Trusted by leading corporations and institutions
 
 ### International Expertise
@@ -98,6 +100,6 @@ We work with:
 
 Transform your technical initiatives with expert guidance and practical solutions.
 
-{{< cta title="Contact Us" url="/contact" >}}
+{{< cta title="Schedule Consultation →" url="/contact" >}}
 
 *1ar labs is a registered business in Germany (Einzelunternehmer) led by Pavel Larionov.*
