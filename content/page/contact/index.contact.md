@@ -13,6 +13,11 @@ menu:
       icon: forms
 ---
 
-Want to hire me short or long term? Here is what I can do.
+## Schedule a Consultation
+Book a meeting directly via my calendar:
+{{< cta title="Schedule Meeting →" url="https://cal.com/pa1ar/labs" >}}
+
+## Send a Message
+Want to discuss a potential collaboration? Fill out the form below:
 
 {{<contact>}}
