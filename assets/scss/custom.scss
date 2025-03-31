@@ -483,3 +483,11 @@ code, pre, .monospace {
     display: flex;
     gap: 10px; 
 }
+
+#i18n-switch {
+    select {
+        font-size: 1.6rem;
+        font-family: var(--font-mono);
+        letter-spacing: 0.02em;
+    }
+}
