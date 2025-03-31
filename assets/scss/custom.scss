@@ -96,8 +96,8 @@ code, pre, .monospace {
 
 /* Hero Section */
 .hero-section {
-    margin: 3rem 0;
     text-align: left;
+    margin-top: calc(var(--main-top-padding) * -0.1);
 
     h1 {
         font-family: var(--font-title);
