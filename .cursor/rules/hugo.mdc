@@ -1,0 +1,10 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+- this is a hugo project
+- it uses a Stack theme https://github.com/CaiJimmy/hugo-theme-stack
+- the modification of the theme should happen in the corresponding partials placed in ./layouts
+- the styling should happen in corresponding .scss files that are stored ./assets/scss
+- the ./assets/scss/custom.scss is only supposed to be used for new components which are not present in the theme

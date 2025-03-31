@@ -128,7 +128,7 @@
 
 /* Menu style */
 .menu {
-    padding-left: 0;
+    padding: 0;
     list-style: none;
     flex-direction: column;
     overflow-y: auto;
@@ -140,21 +140,21 @@
     display: none;
     margin: 0 calc(var(--container-padding) * -1);
 
-    padding: 30px 30px;
+    &.show {
+        display: flex;
+        padding: 20px !important;
+    }
+
     @include respond(xl) {
         padding: 15px 0;
     }
 
     &,
     .menu-bottom-section {
-        gap: 30px;
+        gap: 15px;
         @include respond(xl) {
             gap: 25px;
         }
-    }
-
-    &.show {
-        display: flex;
     }
 
     @include respond(md) {
@@ -188,6 +188,7 @@
             align-items: center;
             color: var(--body-text-color);
             gap: var(--menu-icon-separation);
+            padding: 8px 0;
             font-family: var(--font-mono);
             font-size: 1.6rem;
             letter-spacing: 0.02em;
@@ -209,7 +210,9 @@
     }
 
     .menu-bottom-section {
-        margin-top: auto;
+        margin-top: 15px;
+        padding-top: 15px;
+        border-top: 1px solid var(--card-separator-color);
         display: flex;
         flex-direction: column;
         width: 100%;
