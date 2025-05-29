@@ -215,6 +215,11 @@ params:
 ### To remove about, archive and search page menu item, remove `menu` field from their FrontMatter
 menu:
     main: 
+        - name: 1AR LABS
+          url: https://1arlabs.com
+          weight: 0
+          params:
+            icon: 1ar-labs-logo
         - name: SUMR APP
           url: https://sumr.1ar.io
           weight: 0
