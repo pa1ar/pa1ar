@@ -16,7 +16,6 @@ comments: false
 ---
 
  
-![](logos_rectangle.png)
  **Full list of projects is [here](/projects).**
 
 ## 2023
